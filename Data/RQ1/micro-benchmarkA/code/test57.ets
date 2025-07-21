@@ -1,0 +1,1 @@
+struct A { build() { ForEach(this.totalTopics.filter(topic => topic.type === type),(temp: number)=>{ column(){} },(item:number)=>item)  }}

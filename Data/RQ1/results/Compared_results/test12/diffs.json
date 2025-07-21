@@ -1,0 +1,104 @@
+{
+  "our_only": [
+    {
+      "uid": 1,
+      "type": "ExportNamedDeclaration",
+      "raw_type": "ExportNamedDeclaration",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 2,
+      "type": "ExportKeyword",
+      "raw_type": "ExportKeyword",
+      "label": "export"
+    },
+    {
+      "uid": 4,
+      "type": "ExpressionWithTypeArguments",
+      "raw_type": "ExpressionWithTypeArguments",
+      "label": null
+    },
+    {
+      "uid": 5,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 6,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": null
+    },
+    {
+      "uid": 7,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 8,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 9,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 10,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 11,
+      "type": "BLOCK",
+      "raw_type": "Block",
+      "label": null
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 4,
+      "our_raw_type": "ClassMethod",
+      "our_label": null,
+      "normal_uid": 12,
+      "normal_raw_type": "MethodDeclaration",
+      "normal_label": "build() {}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 6,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 14,
+      "normal_raw_type": "Block",
+      "normal_label": "{}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "export struct A { build() {}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 2,
+      "our_raw_type": "ArkTSStructDeclaration",
+      "our_label": null,
+      "normal_uid": 1,
+      "normal_raw_type": "StructDeclaration",
+      "normal_label": "export struct A { build() {}}",
+      "confidence": 1.3333333333333333
+    }
+  ]
+}

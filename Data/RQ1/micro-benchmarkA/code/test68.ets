@@ -1,0 +1,1 @@
+struct A { build() { ForEach(this,()=>{ A().a();if(Text(a)){} })}}

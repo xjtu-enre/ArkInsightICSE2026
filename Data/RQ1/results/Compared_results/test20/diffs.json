@@ -1,0 +1,31 @@
+{
+  "our_only": [],
+  "normal_only": [
+    {
+      "uid": 2,
+      "type": "ImportClause",
+      "raw_type": "ImportClause",
+      "label": "* as all"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "import * as all from './export'",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 2,
+      "our_raw_type": "ImportNamespaceSpecifier",
+      "our_label": null,
+      "normal_uid": 3,
+      "normal_raw_type": "NamespaceImport",
+      "normal_label": "* as all",
+      "confidence": 1.0
+    }
+  ]
+}

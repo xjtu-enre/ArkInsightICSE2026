@@ -1,0 +1,1 @@
+@Component export default struct A { build() {}}

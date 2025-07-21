@@ -1,0 +1,1 @@
+@Builder function foo() { Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }}

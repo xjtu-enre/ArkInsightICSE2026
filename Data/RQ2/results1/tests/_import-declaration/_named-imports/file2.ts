@@ -1,0 +1,1 @@
+import {OptionalNumber as shortName} from './file0';

@@ -1,0 +1,113 @@
+{
+  "our_only": [
+    {
+      "uid": 3,
+      "type": "AssignmentPattern",
+      "raw_type": "AssignmentPattern",
+      "label": null
+    },
+    {
+      "uid": 5,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    },
+    {
+      "uid": 7,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    },
+    {
+      "uid": 8,
+      "type": "TSTypeLiteral",
+      "raw_type": "TSTypeLiteral",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 5,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": "a:()=>{}=()=>{}"
+    },
+    {
+      "uid": 8,
+      "type": "TypeLiteral",
+      "raw_type": "TypeLiteral",
+      "label": "{}"
+    },
+    {
+      "uid": 10,
+      "type": "EqualsGreaterThanToken",
+      "raw_type": "EqualsGreaterThanToken",
+      "label": "=>"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 10,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 11,
+      "normal_raw_type": "Block",
+      "normal_label": "{}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 17,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 16,
+      "normal_raw_type": "Block",
+      "normal_label": "{}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 15,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Column",
+      "normal_uid": 14,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Column(){}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 13,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 12,
+      "normal_raw_type": "Block",
+      "normal_label": "{Column(){}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "@Builder function f(a:()=>{}=()=>{}) {Column(){}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 6,
+      "our_raw_type": "TSFunctionType",
+      "our_label": null,
+      "normal_uid": 7,
+      "normal_raw_type": "FunctionType",
+      "normal_label": "()=>{}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 9,
+      "our_raw_type": "ArrowFunctionExpression",
+      "our_label": null,
+      "normal_uid": 9,
+      "normal_raw_type": "ArrowFunction",
+      "normal_label": "()=>{}",
+      "confidence": 1.5
+    }
+  ]
+}

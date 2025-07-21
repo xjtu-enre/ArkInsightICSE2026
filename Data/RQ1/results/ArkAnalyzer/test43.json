@@ -1,0 +1,59 @@
+{
+  "kind": "SourceFile",
+  "text": "@Build export function A(){}",
+  "pos": 0,
+  "end": 28,
+  "children": [
+    {
+      "kind": "FunctionDeclaration",
+      "text": "@Build export function A(){}",
+      "pos": 0,
+      "end": 28,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@Build",
+          "pos": 0,
+          "end": 6,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Build",
+              "pos": 1,
+              "end": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "ExportKeyword",
+          "text": "export",
+          "pos": 6,
+          "end": 13,
+          "children": []
+        },
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 22,
+          "end": 24,
+          "children": []
+        },
+        {
+          "kind": "Block",
+          "text": "{}",
+          "pos": 26,
+          "end": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 28,
+      "end": 28,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import foo as t from './test1.ets'

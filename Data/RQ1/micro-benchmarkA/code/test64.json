@@ -1,0 +1,263 @@
+{
+  "kind": "SourceFile",
+  "text": "@Builder function foo() { Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }}",
+  "pos": 0,
+  "end": 125,
+  "children": [
+    {
+      "kind": "FunctionDeclaration",
+      "text": "@Builder function foo() { Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }}",
+      "pos": 0,
+      "end": 125,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@Builder",
+          "pos": 0,
+          "end": 8,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Builder",
+              "pos": 1,
+              "end": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "Identifier",
+          "text": "foo",
+          "pos": 17,
+          "end": 21,
+          "children": []
+        },
+        {
+          "kind": "Block",
+          "text": "{ Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }}",
+          "pos": 23,
+          "end": 125,
+          "children": [
+            {
+              "kind": "ExpressionStatement",
+              "text": "Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }",
+              "pos": 25,
+              "end": 124,
+              "children": [
+                {
+                  "kind": "EtsComponentExpression",
+                  "text": "Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }",
+                  "pos": 25,
+                  "end": 124,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "Column",
+                      "pos": 25,
+                      "end": 32,
+                      "children": []
+                    },
+                    {
+                      "kind": "Block",
+                      "text": "{ ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }",
+                      "pos": 34,
+                      "end": 124,
+                      "children": [
+                        {
+                          "kind": "ExpressionStatement",
+                          "text": "ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item)",
+                          "pos": 36,
+                          "end": 122,
+                          "children": [
+                            {
+                              "kind": "CallExpression",
+                              "text": "ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item)",
+                              "pos": 36,
+                              "end": 122,
+                              "children": [
+                                {
+                                  "kind": "Identifier",
+                                  "text": "ForEach",
+                                  "pos": 36,
+                                  "end": 44,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "ThisKeyword",
+                                  "text": "this",
+                                  "pos": 45,
+                                  "end": 49,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "ArrowFunction",
+                                  "text": "(dateItem: CalendarItem, temp: number)=>{ Row(){} }",
+                                  "pos": 50,
+                                  "end": 101,
+                                  "children": [
+                                    {
+                                      "kind": "Parameter",
+                                      "text": "dateItem: CalendarItem",
+                                      "pos": 51,
+                                      "end": 73,
+                                      "children": [
+                                        {
+                                          "kind": "Identifier",
+                                          "text": "dateItem",
+                                          "pos": 51,
+                                          "end": 59,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "TypeReference",
+                                          "text": "CalendarItem",
+                                          "pos": 60,
+                                          "end": 73,
+                                          "children": [
+                                            {
+                                              "kind": "Identifier",
+                                              "text": "CalendarItem",
+                                              "pos": 60,
+                                              "end": 73,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "Parameter",
+                                      "text": "temp: number",
+                                      "pos": 74,
+                                      "end": 87,
+                                      "children": [
+                                        {
+                                          "kind": "Identifier",
+                                          "text": "temp",
+                                          "pos": 74,
+                                          "end": 79,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "NumberKeyword",
+                                          "text": "number",
+                                          "pos": 80,
+                                          "end": 87,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "EqualsGreaterThanToken",
+                                      "text": "=>",
+                                      "pos": 88,
+                                      "end": 90,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Block",
+                                      "text": "{ Row(){} }",
+                                      "pos": 90,
+                                      "end": 101,
+                                      "children": [
+                                        {
+                                          "kind": "ExpressionStatement",
+                                          "text": "Row(){}",
+                                          "pos": 91,
+                                          "end": 99,
+                                          "children": [
+                                            {
+                                              "kind": "EtsComponentExpression",
+                                              "text": "Row(){}",
+                                              "pos": 91,
+                                              "end": 99,
+                                              "children": [
+                                                {
+                                                  "kind": "Identifier",
+                                                  "text": "Row",
+                                                  "pos": 91,
+                                                  "end": 95,
+                                                  "children": []
+                                                },
+                                                {
+                                                  "kind": "Block",
+                                                  "text": "{}",
+                                                  "pos": 97,
+                                                  "end": 99,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "kind": "ArrowFunction",
+                                  "text": "(item:number)=>item",
+                                  "pos": 102,
+                                  "end": 121,
+                                  "children": [
+                                    {
+                                      "kind": "Parameter",
+                                      "text": "item:number",
+                                      "pos": 103,
+                                      "end": 114,
+                                      "children": [
+                                        {
+                                          "kind": "Identifier",
+                                          "text": "item",
+                                          "pos": 103,
+                                          "end": 107,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "NumberKeyword",
+                                          "text": "number",
+                                          "pos": 108,
+                                          "end": 114,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "EqualsGreaterThanToken",
+                                      "text": "=>",
+                                      "pos": 115,
+                                      "end": 117,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "item",
+                                      "pos": 117,
+                                      "end": 121,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 125,
+      "end": 125,
+      "children": []
+    }
+  ]
+}

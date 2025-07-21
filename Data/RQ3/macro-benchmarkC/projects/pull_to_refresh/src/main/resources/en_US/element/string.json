@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "zr_pull_down_to_refresh",
+      "value": "Pull Down to Refresh"
+    },
+    {
+      "name": "zr_release_to_refresh",
+      "value": "Release To Refresh"
+    },
+    {
+      "name": "zr_release_to_open_age",
+      "value": "Release To Open Page"
+    },
+    {
+      "name": "zr_refreshing",
+      "value": "Refreshing..."
+    },
+    {
+      "name": "zr_refresh_success",
+      "value": "Refresh Complete"
+    },
+    {
+      "name": "zr_refresh_error",
+      "value": "Refresh Error"
+    },
+    {
+      "name": "zr_last_update",
+      "value": "last update:"
+    },
+    {
+      "name": "zr_seconds_ago",
+      "value": " seconds ago"
+    },
+    {
+      "name": "zr_minutes_ago",
+      "value": " minutes ago"
+    },
+    {
+      "name": "zr_hours_ago",
+      "value": " hours ago"
+    },
+    {
+      "name": "zr_days_ago",
+      "value": " days ago"
+    },
+    {
+      "name": "zr_pull_up_to_load",
+      "value": "Pull Up to Load"
+    },
+    {
+      "name": "zr_release_to_load",
+      "value": "Release To Load"
+    },
+    {
+      "name": "zr_loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "zr_load_success",
+      "value": "Load Complete"
+    },
+    {
+      "name": "zr_load_error",
+      "value": "Load Error"
+    },
+    {
+      "name": "zr_load_no_more",
+      "value": "No More Data"
+    }
+  ]
+}

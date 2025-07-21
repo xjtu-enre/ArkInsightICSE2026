@@ -1,0 +1,422 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A { build() { Column() { ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }}}",
+  "pos": 0,
+  "end": 139,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A { build() { Column() { ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }}}",
+      "pos": 0,
+      "end": 139,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build() { Column() { ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }}",
+          "pos": 10,
+          "end": 138,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 10,
+              "end": 16,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{ Column() { ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }}",
+              "pos": 18,
+              "end": 138,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "Column() { ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }",
+                  "pos": 20,
+                  "end": 137,
+                  "children": [
+                    {
+                      "kind": "EtsComponentExpression",
+                      "text": "Column() { ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }",
+                      "pos": 20,
+                      "end": 137,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "Column",
+                          "pos": 20,
+                          "end": 27,
+                          "children": []
+                        },
+                        {
+                          "kind": "Block",
+                          "text": "{ ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item) }",
+                          "pos": 29,
+                          "end": 137,
+                          "children": [
+                            {
+                              "kind": "ExpressionStatement",
+                              "text": "ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item)",
+                              "pos": 31,
+                              "end": 135,
+                              "children": [
+                                {
+                                  "kind": "CallExpression",
+                                  "text": "ForEach(this,(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} },(item:number)=>item)",
+                                  "pos": 31,
+                                  "end": 135,
+                                  "children": [
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "ForEach",
+                                      "pos": 31,
+                                      "end": 39,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "ThisKeyword",
+                                      "text": "this",
+                                      "pos": 40,
+                                      "end": 44,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "ArrowFunction",
+                                      "text": "(item:string)=>{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} }",
+                                      "pos": 45,
+                                      "end": 114,
+                                      "children": [
+                                        {
+                                          "kind": "Parameter",
+                                          "text": "item:string",
+                                          "pos": 46,
+                                          "end": 57,
+                                          "children": [
+                                            {
+                                              "kind": "Identifier",
+                                              "text": "item",
+                                              "pos": 46,
+                                              "end": 50,
+                                              "children": []
+                                            },
+                                            {
+                                              "kind": "StringKeyword",
+                                              "text": "string",
+                                              "pos": 51,
+                                              "end": 57,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "kind": "EqualsGreaterThanToken",
+                                          "text": "=>",
+                                          "pos": 58,
+                                          "end": 60,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "Block",
+                                          "text": "{ if(1){Row(){}}else if(b){Text('c')}else{Text('v')} }",
+                                          "pos": 60,
+                                          "end": 114,
+                                          "children": [
+                                            {
+                                              "kind": "IfStatement",
+                                              "text": "if(1){Row(){}}else if(b){Text('c')}else{Text('v')}",
+                                              "pos": 61,
+                                              "end": 112,
+                                              "children": [
+                                                {
+                                                  "kind": "FirstLiteralToken",
+                                                  "text": "1",
+                                                  "pos": 65,
+                                                  "end": 66,
+                                                  "children": []
+                                                },
+                                                {
+                                                  "kind": "Block",
+                                                  "text": "{Row(){}}",
+                                                  "pos": 67,
+                                                  "end": 76,
+                                                  "children": [
+                                                    {
+                                                      "kind": "ExpressionStatement",
+                                                      "text": "Row(){}",
+                                                      "pos": 68,
+                                                      "end": 75,
+                                                      "children": [
+                                                        {
+                                                          "kind": "EtsComponentExpression",
+                                                          "text": "Row(){}",
+                                                          "pos": 68,
+                                                          "end": 75,
+                                                          "children": [
+                                                            {
+                                                              "kind": "Identifier",
+                                                              "text": "Row",
+                                                              "pos": 68,
+                                                              "end": 71,
+                                                              "children": []
+                                                            },
+                                                            {
+                                                              "kind": "Block",
+                                                              "text": "{}",
+                                                              "pos": 73,
+                                                              "end": 75,
+                                                              "children": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "kind": "IfStatement",
+                                                  "text": "if(b){Text('c')}else{Text('v')}",
+                                                  "pos": 80,
+                                                  "end": 112,
+                                                  "children": [
+                                                    {
+                                                      "kind": "Identifier",
+                                                      "text": "b",
+                                                      "pos": 84,
+                                                      "end": 85,
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "kind": "Block",
+                                                      "text": "{Text('c')}",
+                                                      "pos": 86,
+                                                      "end": 97,
+                                                      "children": [
+                                                        {
+                                                          "kind": "ExpressionStatement",
+                                                          "text": "Text('c')",
+                                                          "pos": 87,
+                                                          "end": 96,
+                                                          "children": [
+                                                            {
+                                                              "kind": "EtsComponentExpression",
+                                                              "text": "Text('c')",
+                                                              "pos": 87,
+                                                              "end": 96,
+                                                              "children": [
+                                                                {
+                                                                  "kind": "Identifier",
+                                                                  "text": "Text",
+                                                                  "pos": 87,
+                                                                  "end": 91,
+                                                                  "children": []
+                                                                },
+                                                                {
+                                                                  "kind": "StringLiteral",
+                                                                  "text": "'c'",
+                                                                  "pos": 92,
+                                                                  "end": 95,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "kind": "Block",
+                                                      "text": "{Text('v')}",
+                                                      "pos": 101,
+                                                      "end": 112,
+                                                      "children": [
+                                                        {
+                                                          "kind": "ExpressionStatement",
+                                                          "text": "Text('v')",
+                                                          "pos": 102,
+                                                          "end": 111,
+                                                          "children": [
+                                                            {
+                                                              "kind": "EtsComponentExpression",
+                                                              "text": "Text('v')",
+                                                              "pos": 102,
+                                                              "end": 111,
+                                                              "children": [
+                                                                {
+                                                                  "kind": "Identifier",
+                                                                  "text": "Text",
+                                                                  "pos": 102,
+                                                                  "end": 106,
+                                                                  "children": []
+                                                                },
+                                                                {
+                                                                  "kind": "StringLiteral",
+                                                                  "text": "'v'",
+                                                                  "pos": 107,
+                                                                  "end": 110,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "ArrowFunction",
+                                      "text": "(item:number)=>item",
+                                      "pos": 115,
+                                      "end": 134,
+                                      "children": [
+                                        {
+                                          "kind": "Parameter",
+                                          "text": "item:number",
+                                          "pos": 116,
+                                          "end": 127,
+                                          "children": [
+                                            {
+                                              "kind": "Identifier",
+                                              "text": "item",
+                                              "pos": 116,
+                                              "end": 120,
+                                              "children": []
+                                            },
+                                            {
+                                              "kind": "NumberKeyword",
+                                              "text": "number",
+                                              "pos": 121,
+                                              "end": 127,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "kind": "EqualsGreaterThanToken",
+                                          "text": "=>",
+                                          "pos": 128,
+                                          "end": 130,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "Identifier",
+                                          "text": "item",
+                                          "pos": 130,
+                                          "end": 134,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 139,
+      "end": 139,
+      "children": []
+    }
+  ]
+}

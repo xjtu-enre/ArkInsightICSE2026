@@ -1,0 +1,79 @@
+{
+  "our_only": [],
+  "normal_only": [
+    {
+      "uid": 7,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 13,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 14,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "setsize"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 12,
+      "our_raw_type": "NumericLiteral",
+      "our_label": "2",
+      "normal_uid": 15,
+      "normal_raw_type": "FirstLiteralToken",
+      "normal_label": "2",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "@Styles function Foo(){.setsize(2)}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 5,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 9,
+      "normal_raw_type": "Block",
+      "normal_label": "{.setsize(2)}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 7,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": null,
+      "normal_uid": 11,
+      "normal_raw_type": "CallExpression",
+      "normal_label": ".setsize(2)",
+      "confidence": 1.5
+    },
+    {
+      "our_uid": 8,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 12,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": ".setsize",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 9,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Styles_use",
+      "normal_uid": 5,
+      "normal_raw_type": "TypeParameter",
+      "normal_label": null,
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "our_only": [
+    {
+      "uid": 16,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 17,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": "T"
+    },
+    {
+      "uid": 19,
+      "type": "EqualsGreaterThanToken",
+      "raw_type": "EqualsGreaterThanToken",
+      "label": "=>"
+    },
+    {
+      "uid": 36,
+      "type": "EqualsGreaterThanToken",
+      "raw_type": "EqualsGreaterThanToken",
+      "label": "=>"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 13,
+      "our_raw_type": "ThisExpression",
+      "our_label": null,
+      "normal_uid": 13,
+      "normal_raw_type": "ThisKeyword",
+      "normal_label": "this",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 21,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Row",
+      "normal_uid": 22,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Row(){r.b.c();}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 23,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 24,
+      "normal_raw_type": "Block",
+      "normal_label": "{r.b.c();}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 25,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": null,
+      "normal_uid": 26,
+      "normal_raw_type": "CallExpression",
+      "normal_label": "r.b.c()",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 26,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 27,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "r.b.c",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 27,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 28,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "r.b",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 19,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 20,
+      "normal_raw_type": "Block",
+      "normal_label": "{ Row(){r.b.c();} }",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 34,
+      "our_raw_type": "TSNumberKeyword",
+      "our_label": null,
+      "normal_uid": 35,
+      "normal_raw_type": "NumberKeyword",
+      "normal_label": "number",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "@Builder function foo() { Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 5,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 5,
+      "normal_raw_type": "Block",
+      "normal_label": "{ Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 7,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Column",
+      "normal_uid": 7,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }",
+      "confidence": 1.5
+    },
+    {
+      "our_uid": 9,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 9,
+      "normal_raw_type": "Block",
+      "normal_label": "{ ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 11,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "ForEach",
+      "normal_uid": 11,
+      "normal_raw_type": "CallExpression",
+      "normal_label": "ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item)",
+      "confidence": 1.5
+    },
+    {
+      "our_uid": 14,
+      "our_raw_type": "ArrowFunctionExpression",
+      "our_label": null,
+      "normal_uid": 14,
+      "normal_raw_type": "ArrowFunction",
+      "normal_label": "(temp: T)=>{ Row(){r.b.c();} }",
+      "confidence": 1.3333333333333333
+    },
+    {
+      "our_uid": 17,
+      "our_raw_type": "TSTypeReference",
+      "our_label": null,
+      "normal_uid": 15,
+      "normal_raw_type": "Parameter",
+      "normal_label": "temp: T",
+      "confidence": 0.5
+    },
+    {
+      "our_uid": 31,
+      "our_raw_type": "ArrowFunctionExpression",
+      "our_label": null,
+      "normal_uid": 32,
+      "normal_raw_type": "ArrowFunction",
+      "normal_label": "(item:number)=>item",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 33,
+      "our_raw_type": "TSTypeAnnotation",
+      "our_label": null,
+      "normal_uid": 33,
+      "normal_raw_type": "Parameter",
+      "normal_label": "item:number",
+      "confidence": 0.5
+    }
+  ]
+}

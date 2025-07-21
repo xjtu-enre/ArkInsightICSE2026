@@ -1,0 +1,164 @@
+{
+  "kind": "SourceFile",
+  "text": "@Entry @Component export struct A { build() {}}",
+  "pos": 0,
+  "end": 47,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "@Entry @Component export struct A { build() {}}",
+      "pos": 0,
+      "end": 47,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@Entry",
+          "pos": 0,
+          "end": 6,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Entry",
+              "pos": 1,
+              "end": 6,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "Decorator",
+          "text": "@Component",
+          "pos": 6,
+          "end": 17,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Component",
+              "pos": 8,
+              "end": 17,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "ExportKeyword",
+          "text": "export",
+          "pos": 17,
+          "end": 24,
+          "children": []
+        },
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 31,
+          "end": 33,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 33,
+          "end": 33,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 33,
+              "end": 33,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 33,
+                  "end": 33,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build() {}",
+          "pos": 35,
+          "end": 46,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 35,
+              "end": 41,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{}",
+              "pos": 43,
+              "end": 46,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 47,
+      "end": 47,
+      "children": []
+    }
+  ]
+}

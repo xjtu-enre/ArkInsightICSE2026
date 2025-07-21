@@ -1,0 +1,68 @@
+{
+  "our_only": [
+    {
+      "uid": 4,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    },
+    {
+      "uid": 5,
+      "type": "TSStringKeyword",
+      "raw_type": "TSStringKeyword",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 5,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": "a:string"
+    },
+    {
+      "uid": 7,
+      "type": "StringKeyword",
+      "raw_type": "StringKeyword",
+      "label": "string"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 12,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 12,
+      "normal_raw_type": "Block",
+      "normal_label": "{}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 10,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Row",
+      "normal_uid": 10,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Row(){}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 8,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 8,
+      "normal_raw_type": "Block",
+      "normal_label": "{Row(){}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "@Builder function Foo(a:string){Row(){}}",
+      "confidence": 1.0
+    }
+  ]
+}

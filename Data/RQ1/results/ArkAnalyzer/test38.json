@@ -1,0 +1,310 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A { build() { Column('a') { if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } } } }",
+  "pos": 0,
+  "end": 112,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A { build() { Column('a') { if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } } } }",
+      "pos": 0,
+      "end": 112,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build() { Column('a') { if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } } }",
+          "pos": 10,
+          "end": 110,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 10,
+              "end": 16,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{ Column('a') { if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } } }",
+              "pos": 18,
+              "end": 110,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "Column('a') { if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } }",
+                  "pos": 20,
+                  "end": 108,
+                  "children": [
+                    {
+                      "kind": "EtsComponentExpression",
+                      "text": "Column('a') { if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } }",
+                      "pos": 20,
+                      "end": 108,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "Column",
+                          "pos": 20,
+                          "end": 27,
+                          "children": []
+                        },
+                        {
+                          "kind": "StringLiteral",
+                          "text": "'a'",
+                          "pos": 28,
+                          "end": 31,
+                          "children": []
+                        },
+                        {
+                          "kind": "Block",
+                          "text": "{ if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') } }",
+                          "pos": 32,
+                          "end": 108,
+                          "children": [
+                            {
+                              "kind": "IfStatement",
+                              "text": "if (true) { Text('b') } else if (true) { Text('c') } else { Text('d') }",
+                              "pos": 34,
+                              "end": 106,
+                              "children": [
+                                {
+                                  "kind": "TrueKeyword",
+                                  "text": "true",
+                                  "pos": 39,
+                                  "end": 43,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "Block",
+                                  "text": "{ Text('b') }",
+                                  "pos": 44,
+                                  "end": 58,
+                                  "children": [
+                                    {
+                                      "kind": "ExpressionStatement",
+                                      "text": "Text('b')",
+                                      "pos": 46,
+                                      "end": 56,
+                                      "children": [
+                                        {
+                                          "kind": "EtsComponentExpression",
+                                          "text": "Text('b')",
+                                          "pos": 46,
+                                          "end": 56,
+                                          "children": [
+                                            {
+                                              "kind": "Identifier",
+                                              "text": "Text",
+                                              "pos": 46,
+                                              "end": 51,
+                                              "children": []
+                                            },
+                                            {
+                                              "kind": "StringLiteral",
+                                              "text": "'b'",
+                                              "pos": 52,
+                                              "end": 55,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "kind": "IfStatement",
+                                  "text": "if (true) { Text('c') } else { Text('d') }",
+                                  "pos": 63,
+                                  "end": 106,
+                                  "children": [
+                                    {
+                                      "kind": "TrueKeyword",
+                                      "text": "true",
+                                      "pos": 68,
+                                      "end": 72,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Block",
+                                      "text": "{ Text('c') }",
+                                      "pos": 73,
+                                      "end": 87,
+                                      "children": [
+                                        {
+                                          "kind": "ExpressionStatement",
+                                          "text": "Text('c')",
+                                          "pos": 75,
+                                          "end": 85,
+                                          "children": [
+                                            {
+                                              "kind": "EtsComponentExpression",
+                                              "text": "Text('c')",
+                                              "pos": 75,
+                                              "end": 85,
+                                              "children": [
+                                                {
+                                                  "kind": "Identifier",
+                                                  "text": "Text",
+                                                  "pos": 75,
+                                                  "end": 80,
+                                                  "children": []
+                                                },
+                                                {
+                                                  "kind": "StringLiteral",
+                                                  "text": "'c'",
+                                                  "pos": 81,
+                                                  "end": 84,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "Block",
+                                      "text": "{ Text('d') }",
+                                      "pos": 92,
+                                      "end": 106,
+                                      "children": [
+                                        {
+                                          "kind": "ExpressionStatement",
+                                          "text": "Text('d')",
+                                          "pos": 94,
+                                          "end": 104,
+                                          "children": [
+                                            {
+                                              "kind": "EtsComponentExpression",
+                                              "text": "Text('d')",
+                                              "pos": 94,
+                                              "end": 104,
+                                              "children": [
+                                                {
+                                                  "kind": "Identifier",
+                                                  "text": "Text",
+                                                  "pos": 94,
+                                                  "end": 99,
+                                                  "children": []
+                                                },
+                                                {
+                                                  "kind": "StringLiteral",
+                                                  "text": "'d'",
+                                                  "pos": 100,
+                                                  "end": 103,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 112,
+      "end": 112,
+      "children": []
+    }
+  ]
+}

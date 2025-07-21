@@ -1,0 +1,1 @@
+@Build export default function A(){}

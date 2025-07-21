@@ -1,0 +1,1 @@
+@Builder function foo() { Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{ Row(){} },(item:number)=>item) }}

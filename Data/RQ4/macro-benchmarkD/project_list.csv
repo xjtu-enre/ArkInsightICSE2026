@@ -1,0 +1,153 @@
+Project,LOC,Srouce
+AbilityRuntime,2391,*REUSE
+AdaptiveCapabilities,4012,*REUSE
+adc_module_app,1012,*REUSE
+akitutorials,1746,*REUSE
+AlarmClock,2174,*REUSE
+AlarmClock(1),371,*REUSE
+AnimateRefresh,643,*REUSE
+AppAccountManager(1),1370,*REUSE
+AudioEffectManagement,1978,*REUSE
+AutoFill,1389,*REUSE
+Bluetooth(2),450,*REUSE
+Browser(1),704,*REUSE
+button_and_selection,10024,*REUSE
+calendar,584,*REUSE
+Camera(1),2698,*REUSE
+cameraAnimSample,2364,*REUSE
+camera_ndk_demo,2690,*REUSE
+CanvasComponent,955,*REUSE
+Chat,2375,*REUSE
+Clock,291,*REUSE
+common,20469,*REUSE
+common_container,4032,*REUSE
+Component,5318,*REUSE
+components,7577,*REUSE
+Contact(1),1568,*REUSE
+continuationManualTestSuite(1),419,*REUSE
+CustomComponent,1167,*REUSE
+DefiningPageLayoutAndConnection,737,*REUSE
+DefiningPageLayoutAndConnection(1),387,*REUSE
+DeviceManager,381,*REUSE
+DistributeCalc(1),1099,*REUSE
+DistributeCalc(2),741,*REUSE
+DistributedDataGobang(1),997,*REUSE
+DistributedMusicPlayer,1116,*REUSE
+DistributedNote(1),883,*REUSE
+DistributedRdb(1),1600,*REUSE
+ElectronicAlbum,757,*REUSE
+eTSContinuationManager,1279,*REUSE
+FlexLayout,399,*REUSE
+FlipClock(1),1108,*REUSE
+FullScreenStart_Service,1094,*REUSE
+Gallery,22598,*REUSE
+GalleryForm,675,*REUSE
+GameAuthOpenH,789,*REUSE
+GameEtsOpenHarmony,795,*REUSE
+graphic_drawing,15424,*REUSE
+Healthy_life,5347,*REUSE
+ImageEdit,4463,*REUSE
+image_demo,1597,*REUSE
+information_display,7743,*REUSE
+inputcore,7001,*REUSE
+JSRecorder,722,*REUSE
+JsShopping,2890,*REUSE
+KikaInput(1),1804,*REUSE
+Kvstore(1),776,*REUSE
+Launcher(1),2759,*REUSE
+List_HDC,1238,*REUSE
+LiteStorage,390,*REUSE
+Location(1),702,*REUSE
+Logger(1),386,*REUSE
+MediaLibraryExt,517,*REUSE
+Message(1),796,*REUSE
+miscellaneous,5722,*REUSE
+MovieCard,1587,*REUSE
+MultiMedia(1),1542,*REUSE
+napitutorials,14579,*REUSE
+navigation,5505,*REUSE
+NdkXComponent,405,*REUSE
+NewsDataArkTS,1377,*REUSE
+Notification(2),325,*REUSE
+OHLayoutAlign,1510,*REUSE
+openharmony__applications_admin_provisioning,2492,*REUSE
+openharmony__applications_auth_widget,9340,*REUSE
+PatternLock(1),351,*REUSE
+popup_window,12879,*REUSE
+Preferences(2),283,*REUSE
+RadioTech(1),394,*REUSE
+Rdb,1048,*REUSE
+receiver,963,*REUSE
+Recorder(1),1484,*REUSE
+Scan,932,*REUSE
+Screen(1),393,*REUSE
+Screenshot(1),334,*REUSE
+scroll_container,12037,*REUSE
+SetAppFontSize,995,*REUSE
+Settings_FaceAuth,1612,*REUSE
+Shopping,3980,*REUSE
+ShoppingEts,1171,*REUSE
+ShoppingSample,1234,*REUSE
+SimpleVideo,832,*REUSE
+SliderExample,417,*REUSE
+Socket(1),673,*REUSE
+StageAbility,748,*REUSE
+StageAbilityDemo,2617,*REUSE
+StageManualTestSuite,2272,*REUSE
+StepsCardJS,1256,*REUSE
+SystemRouter,1557,*REUSE
+TargetManagement,1168,*REUSE
+text_and_input,13639,*REUSE
+TransitionAnimation,747,*REUSE
+UIExtensionSamples,1427,*REUSE
+USBManager,439,*REUSE
+UtilScope,435,*REUSE
+UtilStringCodec,210,*REUSE
+Vibrator,432,*REUSE
+wifi_testapp,32003,*REUSE
+Wlan(1),643,*REUSE
+ZipLib(1),361,*REUSE
+barrage-component-library_master,1476,https://gitee.com/wuhan-yihai-cloud-peak/barrage-component-library.git
+ccplayer_main v3.1,6059,https://github.com/seagazer/ccplayer.git
+custom_navtion_master,7861,https://gitee.com/mrwang0515/custom_navtion.git
+debug-database_master,5045,https://gitee.com/ohadss/debug-database.git
+float-tab-bar_master,652,https://gitee.com/liang_can/float-tab-bar
+FoldedHover_master,1339,https://gitee.com/harmonyos_samples/FoldedHover.git
+HarmonyOsLitheRefresh_master,1527,https://github.com/AbnerMing888/HarmonyOsLitheRefresh.git
+HarmonyOsRefresh_master,6044,https://github.com/AbnerMing888/HarmonyOsRefresh.git
+HPRichText_master v3.0.9,4084,https://github.com/asasugar/HPRichText.git
+hshare-flipper_master,542,https://gitee.com/hshare/hshare-flipper.git
+ibest-ui_master v2.1.2,35554,https://github.com/ibestservices/ibest-ui.git
+imagePreview_main 2.0.0,993,https://gitee.com/MUYS/imagePreview.git
+image_cropper_main,4195,https://github.com/HarmonyCandies/image_cropper.git
+image_editor_main,1334,https://github.com/HarmonyCandies/image_editor.git
+keyboard_master,1452,https://gitee.com/harmonyos_samples/keyboard.git
+like_button_main,1415,https://github.com/HarmonyCandies/like_button.git
+logger_master,896,https://gitee.com/common-apps/logger.git
+lottie_component_master,1566,https://gitee.com/ji_jiang_rui/lottie_component.git
+lv-markdown-in_master,2145,https://gitee.com/luvi/lv-markdown-in.git
+LvDialog_main v1.1.4,1171,https://gitee.com/lv_nanqing/LvDialog.git
+markdown-preview_master 1.0.0,5630,https://gitee.com/MUYS/markdown-preview.git
+media-preview_main,2237,https://gitee.com/lyb5834/media-preview.git
+media_cache_harmony_os_main 1.0.3,7001,https://gitee.com/changsanjiang/media_cache_harmony_os.git
+multi-mobile-payment_master,2000,https://gitee.com/harmonyos_samples/multi-mobile-payment.git
+mysoft-photoselector_master 1.0.4,1135,https://gitee.com/mysoft-harmony/mysoft-photoselector.git
+oh-crop_main,761,https://github.com/sahooz/oh-crop.git
+ohos-crop_master,1526,https://gitee.com/limuyang2/ohos-crop.git
+PageSlip_master,2497,https://gitee.com/harmonyos_samples/PageSlip.git
+photo-gallery_master,1804,https://gitee.com/tang-yuyi2003/photo-gallery.git
+PJTabBar_master 1.1.3,2330,https://gitee.com/weng-jinshan/PJTabBar.git
+pull_to_refresh_main,721,https://github.com/HarmonyCandies/pull_to_refresh.git
+RdbPlus_main 1.0.8,1315,https://gitee.com/yongoe/RdbPlus.git
+sliding-tabs_main,1180,https://gitee.com/XiaoQiWen/sliding-tabs.git
+sm-crypto_master,2344,https://gitee.com/yyz116/sm-crypto.git
+smartdb_master,1430,https://github.com/liushengyi/smartdb.git
+SmoothSwitchShortVideos_master,783,https://gitee.com/harmonyos_samples/SmoothSwitchShortVideos.git
+StateStore_master,1455,https://gitee.com/hadss/StateStore.git
+storm_master 3.0.8,3113,https://gitee.com/ZXHHYJ/storm.git
+super_fast_file_trans_master 1.0.0,7884,https://gitcode.com/openharmony-sig/super_fast_file_trans.git
+TaoYao_master,2548,https://gitee.com/zhongte/TaoYao.git
+titlebar_master v1.0.1,1363,https://gitee.com/smarthane/titlebar.git
+uvcCamera_master v1.0.17,3845,https://gitee.com/rainOver/uvcCamera
+xpopup_master v0.0.3,4876,https://gitee.com/china-like/xpopup.git
+xwf_component_master,854,https://gitee.com/Maple023/xwf_component.git

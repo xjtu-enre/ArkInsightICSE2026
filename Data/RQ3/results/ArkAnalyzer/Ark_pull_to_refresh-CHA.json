@@ -1,0 +1,2072 @@
+[
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.resetArrowRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.resetArrowRotateLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPullRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPreRefreshRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.setPreRefreshRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.resetArrowRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPullLoadRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPreLoadRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.setPreLoadRotate",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.resetArrowRotateLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.build",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getPullArrowVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getRefreshVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>15",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getTips",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getTimeTipsVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getPullArrowVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getRefreshVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>15",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getTips",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getTimeTipsVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getPullUpArrowVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLoadVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>16",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterViewHorizontal",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLoadTips",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getPullUpArrowVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLoadVisibility",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>16",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterView",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLoadTips",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getTips",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshController.ets>.RefreshController.<Arrow Function>42",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLoadTips",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshController.ets>.RefreshController.<Arrow Function>42",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getRefreshVisibility",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshController.ets>.RefreshController.<Arrow Function>42",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLoadVisibility",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshController.ets>.RefreshController.<Arrow Function>42",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.lineBreak",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLastFormatRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLastRefreshTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLastFormatRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLastFormatRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.lineBreak",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.updateRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.saveRefreshTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.updateRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>21$updateRefreshTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.updateRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.stopUpdateTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.startUpdateTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>22$startUpdateTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>21$updateRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLastFormatRefreshTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>21$updateRefreshTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.startUpdateTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>22$startUpdateTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.getLastFormatRefreshTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>22$startUpdateTime",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.startUpdateTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>0$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>0$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderView",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>0$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defHeaderViewHorizontal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>1$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>2$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>3$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>4",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>4$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>6",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>5$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>8",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>6$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>10",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>7$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>14",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>8$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>8$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterView",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>8$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterViewHorizontal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>9$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>9$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterNoMoreView",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>9$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.defFooterNoMoreViewHorizontal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>11$%AM10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.resetArrowRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>12$%AM10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.setPreRefreshRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>13$%AM10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.setPreLoadRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>14$%AM10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.resetArrowRotateLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.updateRefreshTime",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.<Arrow Function>12",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPullRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>11$%AM10$%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPreRefreshRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>12$%AM10$%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPullLoadRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>13$%AM10$%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.PullToRefreshLayout.isPreLoadRotate",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>10$%instInit",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\PullToRefreshLayout.ets>.%AC1$PullToRefreshLayout.build.<Arrow Function>14$%AM10$%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.build",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshController.ets>.RefreshController.getViewState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadingState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadEmptyState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadErrorState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadNoNetworkState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setAnimListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullOpenPageHeight",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullRefreshHeaderHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadOpenPageHeight",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadFooterHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.isVerticalLayout",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>51$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>55$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>54$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>53$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>52$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>4",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>5",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>6",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>7",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>3",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>57$headerAndContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getOffset",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullRefreshHeaderHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getOffset",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadFooterHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>16",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.autoRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>10",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.autoRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.autoLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>12",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.autoLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshSuccess",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadSuccessState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshSuccess",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshError",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshComplete",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshComplete",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshCancel",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterRefreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenHeaderAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadSuccess",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadError",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadComplete",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadComplete",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadCancel",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterLoadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnimLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenFooterAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatus",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatusLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterRefreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>62$setDefAfterRefreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterLoadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>63$setDefAfterLoadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenHeaderAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>64$hiddenHeaderAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenFooterAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.initLoadAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenFooterAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>65$hiddenFooterAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatus",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullOpenPageHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatus",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullRefreshHeaderHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatusLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadOpenPageHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatusLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadFooterHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnimLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.initLoadAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>10",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>18",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>12",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>20",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.initLoadAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>22$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>23$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>24$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshComplete",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>25$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.refreshCancel",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>26$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>27$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>28$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadComplete",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>29$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.loadCancel",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>32$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.autoRefresh",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>33$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.autoLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>41$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadingState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>42$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadEmptyState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>43$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadErrorState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>44$aboutToAppear",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setViewLoadNoNetworkState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>46$setAnimListener",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenHeaderAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>46$setAnimListener",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>46$setAnimListener",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>46$setAnimListener",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>49$initLoadAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.hiddenFooterAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>49$initLoadAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>49$initLoadAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>49$initLoadAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.changeStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>51$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullRefreshHeaderHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>51$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullOpenPageHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>54$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getOffset",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>54$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>8",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>54$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForRefresh",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>54$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>14",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>54$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.actionUpdateForLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>55$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getOffset",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnimLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterRefreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterLoadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.isLoadStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>56$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>57$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadFooterHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>57$headerAndContent",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.getPullLoadOpenPageHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>59$autoRefresh",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByRefresh",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>61$autoLoad",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.releaseActionByLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>62$setDefAfterRefreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>62$setDefAfterRefreshEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>63$setDefAfterLoadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>63$setDefAfterLoadEnd",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pullDownListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>64$hiddenHeaderAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatus",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>64$hiddenHeaderAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterRefreshEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>64$hiddenHeaderAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>65$hiddenFooterAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefStatusLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>65$hiddenFooterAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.setDefAfterLoadEnd",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.<Arrow Function>65$hiddenFooterAnim",
+    "to": "<File pull_to_refresh\\src\\main\\ets\\RefreshLayout.ets>.RefreshLayout.pauseAnimLoad",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  }
+]

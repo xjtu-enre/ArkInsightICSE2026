@@ -1,0 +1,4282 @@
+[
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getStatusBarHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getIndicatorHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "List",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "ListItemGroup",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "ListItem",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "ForEach",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "ForEach",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "ListItem",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "ListItemGroup",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "List",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.headBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.footBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.footBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.footBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.<Arrow Function>0$build",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.<Arrow Function>0$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.itemBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.<Arrow Function>2$itemBuilder",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ActionSheetDialogView.ets>.ActionSheetDialogView.<Arrow Function>3$footBuilder",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getStatusBarHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getIndicatorHeight",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "List",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "ListItemGroup",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "ForEach",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "ForEach",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "ListItemGroup",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "List",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.itemBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.itemBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.headBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "Divider",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.footBuilder",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.<Arrow Function>1$build",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.<Arrow Function>1$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.itemBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.<Arrow Function>3$itemBuilder",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\BottomSheetDialogView.ets>.BottomSheetDialogView.<Arrow Function>4$footBuilder",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "Date",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "Error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.containsYear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.containsMonth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.containsDay",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.containsHour",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.containsMinute",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.containsSecond",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.initPickerData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getSelectStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getResetDay",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDateByStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getSelectValue",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Row",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Button",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Button",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Row",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "TextPicker",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "TextPicker",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>1$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDateByStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>2$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDateByStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Stack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Progress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Progress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Stack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingProgressView.ets>.LoadingProgressView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingView.ets>.LoadingView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingView.ets>.LoadingView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingView.ets>.LoadingView.build",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingView.ets>.LoadingView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingView.ets>.LoadingView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\LoadingView.ets>.LoadingView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.build",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.InputBuilder",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.InputBuilder",
+    "to": "TextArea",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.InputBuilder",
+    "to": "TextArea",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.InputBuilder",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.<Arrow Function>1$InputBuilder",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.build",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.InputBuilder",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.InputBuilder",
+    "to": "TextInput",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.InputBuilder",
+    "to": "TextInput",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.InputBuilder",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.<Arrow Function>2$InputBuilder",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.aboutToAppear",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.recursionPickerRange",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.recursionPickerRange",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.recursionPickerRange",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.recursionPickerRange",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Row",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Button",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Button",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Row",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "TextPicker",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "TextPicker",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.build",
+    "to": "WithTheme",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.<Arrow Function>1$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextPickerDialogView.ets>.TextPickerDialogView.<Arrow Function>2$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Image",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Image",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Text",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Column",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Row",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "Row",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\ToastTipView.ets>.ToastTipView.build",
+    "to": "If",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.showToast",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "to": "ComponentContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.exist",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.generateDialogId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.addArg",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getTargetId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.generateDialogId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBaseCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBaseCustomDialog",
+    "to": "ComponentContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBaseCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.exist",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBaseCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.addArg",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.removeArg",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.removeArg",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>7$removeArg",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.onDestroy",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.has",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.onDestroy",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.remove",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.onColorModeListener",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>1$openBindSheet",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>1$openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.removeArg",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>1$openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.onDestroy",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>2$openBindSheet",
+    "to": "ComponentContent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>2$openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.addArg",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>2$openBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getTargetId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.AlertDialogBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.ConfirmDialogBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TipsDialogBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.SelectDialogBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.CustomContentDialogBuilder",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TextInputDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TextInputDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TextAreaDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TextAreaDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.BottomSheetDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.BottomSheetDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.ActionSheetDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.ActionSheetDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TextPickerDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.TextPickerDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.DatePickerDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.DatePickerDialogBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.LoadingBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.LoadingBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.LoadingProgressBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.LoadingProgressBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.ToastTipBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogBuilder.ets>.ToastTipBuilder",
+    "to": "View",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>1$showToastTip",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>1$showToastTip",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>2$initButtons",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>2$initButtons",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>2$initButtons",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.get",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>2$initButtons",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getDialogAction",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>3$initPrimarySecondaryButton",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>3$initPrimarySecondaryButton",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>4$initPrimarySecondaryButton",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>4$initPrimarySecondaryButton",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>5$initSelect",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>5$initSelect",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>6$initSelect",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>6$initSelect",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.get",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.<Arrow Function>6$initSelect",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getUIAbilityContext",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getMainUIContext",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getUIAbilityContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getLastUIContext",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getUIAbilityContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.generateId",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.generateId",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.generateDialogId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initAlertTitle",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initPrimarySecondaryButton",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showAlertDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showConfirmDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showConfirmDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showConfirmDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initPrimarySecondaryButton",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showConfirmDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showConfirmDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showConfirmDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initPrimarySecondaryButton",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initImageResSize",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTipsDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showSelectDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showSelectDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showSelectDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initSelect",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showSelectDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showSelectDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showSelectDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initAlertTitle",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initButtons",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextInputDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initAlertTitle",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initButtons",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextAreaDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initDialogDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initAlertTitle",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initButtons",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomContentDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBottomSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBottomSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBottomSheetDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBottomSheetDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBottomSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBottomSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showActionSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showActionSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBottomSheetDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showActionSheetDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showActionSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showActionSheetDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextPickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextPickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initTextPickerDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextPickerDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextPickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showTextPickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showDatePickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showDatePickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initTextPickerDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showDatePickerDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showDatePickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showDatePickerDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.update",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.update",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.isShowing",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.isShowing",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.exist",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.closeCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initLoadingDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingDialog",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingProgress",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initLoadingDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingProgress",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingProgress",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingProgress",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showLoadingProgress",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.updateLoading",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.isShowing",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.updateLoading",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.get",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.updateLoading",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBindSheetDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBindSheet",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.updateBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.updateBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.updateBindSheet",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.closeBindSheet",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToast",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initToastDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToast",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToast",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastLong",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initToastDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastLong",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastLong",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastTip",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initToastTipDefault",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastTip",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.generateId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastTip",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastTip",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastTip",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.showToastTip",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBaseDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getMainUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBottomSheetDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initTextPickerDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initTextPickerDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initButtons",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initPrimarySecondaryButton",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initSelect",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initSelect",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initLoadingDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getMainUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initBindSheetDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getMainUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initToastTipDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getMainUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initToastDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getMainUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.initToastDefault",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getAlignment",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC6$DialogHelper.initButtons.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC6$DialogHelper.initButtons.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.get",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC6$DialogHelper.initButtons.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getDialogAction",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC7$DialogHelper.initPrimarySecondaryButton.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC8$DialogHelper.initPrimarySecondaryButton.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC9$DialogHelper.initSelect.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.put",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC10$DialogHelper.initSelect.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.closeDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.%AC10$DialogHelper.initSelect.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\CacheHelper.ets>.CacheHelper.get",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDaysByMonth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isLeapYear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameMonth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameYear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameDay",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameMonth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameHour",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameDay",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameMinute",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameHour",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameSecond",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameMinute",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameYear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.padZero",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDaysByMonth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameMonth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameDay",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameHour",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getRanges",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.isSameMinute",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getSelectStr",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.padZero",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getResetDay",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getResetDay",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDaysByMonth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getResetDay",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDateByStr",
+    "to": "Date",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.getDateByStr",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\DateHelper.ets>.DateHelper.padZero",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceManager",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getNumber",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceManager",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getString",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceManager",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getResourceStr",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getString",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getStatusBarHeight",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getUIAbilityContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getStatusBarHeight",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getIndicatorHeight",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\DialogHelper.ets>.DialogHelper.getUIAbilityContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getIndicatorHeight",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getDisplayWidth",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getDisplayWidth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.isLargeScreen",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getVpByStr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getNumber",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getString",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getMaxWidth",
+    "to": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getDisplayWidth",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getVpByStr",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getVpByStr",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getVpByStr",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\Helper.ets>.Helper.getVpByStr",
+    "to": "",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": true
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getInstance",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.onColorModeListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>3$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>4$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>5$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>6$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>7$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.<Arrow Function>8$build",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\DatePickerDialogView.ets>.DatePickerDialogView.onChangeData",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.<Arrow Function>0$aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\TextAreaDialogView.ets>.TextAreaDialogView.InputBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.<Arrow Function>0$aboutToAppear",
+    "to": "<File harmony-dialog\\src\\main\\ets\\component\\TextInputDialogView.ets>.TextInputDialogView.InputBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.closeBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getArgById",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.closeBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>3$closeBindSheet",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.updateBindSheet",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getArgById",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.closeCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getArgById",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.closeCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>5$closeCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.update",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getArgById",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.exist",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getArgById",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.getArgById",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>6$getArgById",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.<Arrow Function>4$openCustomDialog",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.openBaseCustomDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.%AC2$BaseActionCore.openBaseCustomDialog.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.removeArg",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.%AC2$BaseActionCore.openBaseCustomDialog.<Arrow Function>0$%instInit",
+    "to": "<File harmony-dialog\\src\\main\\ets\\dialog\\BaseActionCore.ets>.BaseActionCore.onDestroy",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\TextAreaModifier.ets>.TextAreaModifier.applyNormalAttribute",
+    "to": "<File harmony-dialog\\src\\main\\ets\\model\\InputFilter.ets>.InputFilter.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File harmony-dialog\\src\\main\\ets\\utils\\TextInputModifier.ets>.TextInputModifier.applyNormalAttribute",
+    "to": "<File harmony-dialog\\src\\main\\ets\\model\\InputFilter.ets>.InputFilter.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  }
+]

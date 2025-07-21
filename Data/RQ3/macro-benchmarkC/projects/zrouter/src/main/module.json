@@ -1,0 +1,27 @@
+{
+	"app": {
+		"bundleName": "com.harmony.router",
+		"debug": true,
+		"versionCode": 1000000,
+		"versionName": "1.0.0",
+		"minAPIVersion": 50000012,
+		"targetAPIVersion": 50001013,
+		"apiReleaseType": "Release",
+		"compileSdkVersion": "5.0.1.115",
+		"compileSdkType": "HarmonyOS",
+		"appEnvironments": [],
+		"bundleType": "app"
+	},
+	"module": {
+		"name": "RouterApi",
+		"type": "har",
+		"deviceTypes": [
+			"default"
+		],
+		"packageName": "@hzw/zrouter",
+		"installationFree": false,
+		"virtualMachine": "ark12.0.2.0",
+		"compileMode": "esmodule",
+		"dependencies": []
+	}
+}

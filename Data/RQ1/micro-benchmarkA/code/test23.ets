@@ -1,0 +1,1 @@
+@Builder function f() {} struct A{@BuilderParam a: () => void = f;}

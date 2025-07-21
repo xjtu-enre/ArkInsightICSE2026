@@ -1,0 +1,135 @@
+{
+  "kind": "SourceFile",
+  "text": "@Builder function f(a:()=>{}=()=>{}) {Column(){}}",
+  "pos": 0,
+  "end": 49,
+  "children": [
+    {
+      "kind": "FunctionDeclaration",
+      "text": "@Builder function f(a:()=>{}=()=>{}) {Column(){}}",
+      "pos": 0,
+      "end": 49,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@Builder",
+          "pos": 0,
+          "end": 8,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Builder",
+              "pos": 1,
+              "end": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "Identifier",
+          "text": "f",
+          "pos": 17,
+          "end": 19,
+          "children": []
+        },
+        {
+          "kind": "Parameter",
+          "text": "a:()=>{}=()=>{}",
+          "pos": 20,
+          "end": 35,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "a",
+              "pos": 20,
+              "end": 21,
+              "children": []
+            },
+            {
+              "kind": "FunctionType",
+              "text": "()=>{}",
+              "pos": 22,
+              "end": 28,
+              "children": [
+                {
+                  "kind": "TypeLiteral",
+                  "text": "{}",
+                  "pos": 26,
+                  "end": 28,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "ArrowFunction",
+              "text": "()=>{}",
+              "pos": 29,
+              "end": 35,
+              "children": [
+                {
+                  "kind": "EqualsGreaterThanToken",
+                  "text": "=>",
+                  "pos": 31,
+                  "end": 33,
+                  "children": []
+                },
+                {
+                  "kind": "Block",
+                  "text": "{}",
+                  "pos": 33,
+                  "end": 35,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Block",
+          "text": "{Column(){}}",
+          "pos": 36,
+          "end": 49,
+          "children": [
+            {
+              "kind": "ExpressionStatement",
+              "text": "Column(){}",
+              "pos": 38,
+              "end": 48,
+              "children": [
+                {
+                  "kind": "EtsComponentExpression",
+                  "text": "Column(){}",
+                  "pos": 38,
+                  "end": 48,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "Column",
+                      "pos": 38,
+                      "end": 44,
+                      "children": []
+                    },
+                    {
+                      "kind": "Block",
+                      "text": "{}",
+                      "pos": 46,
+                      "end": 48,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 49,
+      "end": 49,
+      "children": []
+    }
+  ]
+}

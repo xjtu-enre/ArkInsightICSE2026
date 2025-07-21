@@ -1,0 +1,1 @@
+@Component struct A{@Styles a(){.h(10)}}

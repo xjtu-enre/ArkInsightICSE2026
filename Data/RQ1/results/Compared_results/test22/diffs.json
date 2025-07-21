@@ -1,0 +1,173 @@
+{
+  "our_only": [
+    {
+      "uid": 8,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    },
+    {
+      "uid": 9,
+      "type": "TSStringKeyword",
+      "raw_type": "TSStringKeyword",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 3,
+      "type": "ExpressionWithTypeArguments",
+      "raw_type": "ExpressionWithTypeArguments",
+      "label": null
+    },
+    {
+      "uid": 5,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": null
+    },
+    {
+      "uid": 7,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 8,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 9,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 13,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "Builder"
+    },
+    {
+      "uid": 14,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "Foo"
+    },
+    {
+      "uid": 15,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": "a:string"
+    },
+    {
+      "uid": 17,
+      "type": "StringKeyword",
+      "raw_type": "StringKeyword",
+      "label": "string"
+    },
+    {
+      "uid": 24,
+      "type": "BLOCK",
+      "raw_type": "Block",
+      "label": "{}"
+    },
+    {
+      "uid": 26,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 27,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 16,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 10,
+      "normal_raw_type": "Block",
+      "normal_label": null,
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 13,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 21,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "Row(){}.h",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 14,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Row",
+      "normal_uid": 22,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Row(){}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 18,
+      "our_raw_type": "NumericLiteral",
+      "our_label": "100",
+      "normal_uid": 28,
+      "normal_raw_type": "FirstLiteralToken",
+      "normal_label": "100",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "struct A{@Builder Foo(a:string){Row(){}.h(100)}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 1,
+      "our_raw_type": "ArkTSStructDeclaration",
+      "our_label": null,
+      "normal_uid": 1,
+      "normal_raw_type": "StructDeclaration",
+      "normal_label": "struct A{@Builder Foo(a:string){Row(){}.h(100)}}",
+      "confidence": 1.2
+    },
+    {
+      "our_uid": 3,
+      "our_raw_type": "ClassMethod",
+      "our_label": null,
+      "normal_uid": 11,
+      "normal_raw_type": "MethodDeclaration",
+      "normal_label": "@Builder Foo(a:string){Row(){}.h(100)}",
+      "confidence": 1.25
+    },
+    {
+      "our_uid": 10,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 18,
+      "normal_raw_type": "Block",
+      "normal_label": "{Row(){}.h(100)}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 12,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": null,
+      "normal_uid": 20,
+      "normal_raw_type": "CallExpression",
+      "normal_label": "Row(){}.h(100)",
+      "confidence": 1.6666666666666665
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+struct Foo{build(){Column().stateStyles({f:height(100)})}}

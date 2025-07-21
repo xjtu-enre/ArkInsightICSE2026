@@ -1,0 +1,1722 @@
+[
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>3$showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showInfo",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>4$showInfo",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showWarning",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>5$showWarning",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showSuccess",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>6$showSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showError",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>7$showError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.hideToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>8$hideToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.hideAllToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>9$hideAllToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>10$showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showRingLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>11$showRingLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showCustomLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>12$showCustomLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.hideLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>13$hideLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.hideAllLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>14$hideAllLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>15$showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.showBarProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>16$showBarProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.hideProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTEasyHUD.ets>.XTEasyHUD.<Arrow Function>17$hideProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTToastCustomDialogView.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTToastCustomDialogView.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDToast.toastCustomDialogView",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTToastCustomDialogView.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDToast._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDToast.<Arrow Function>1$_showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDToast._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDToast.<Arrow Function>2$_showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTLoadingCustomDialogView.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTLoadingCustomDialogView.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDLoading.loadingCustomDialogView",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTLoadingCustomDialogView.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTProgressCustomDialogView.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTProgressCustomDialogView.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTHUDProgress.progressCustomDialogView",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\Deprecated_XTHUD.ets>.XTProgressCustomDialogView.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initLoadingInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initLoadingInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initProgressInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initProgressInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initCustomInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>3",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initCustomInstance",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDCustomClass.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.asyncGetLastWindowUIContext",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>10$asyncGetLastWindowUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.asyncGetLastWindowUIContext",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>9$asyncGetLastWindowUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>5",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalDestroyToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideAllToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>6",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initLoadingInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalDestroyLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideAllLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>7",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initProgressInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalDestroyProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.<Arrow Function>8",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalConfigCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initCustomInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.globalDestroyCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideCustomHUD",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showInfo",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showInfo",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showInfo",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showWarning",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showWarning",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showWarning",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showSuccess",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showSuccess",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showError",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showError",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initToastInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideAllToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.hideAll",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initLoadingInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showRingLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.showRingLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showRingLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initLoadingInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showCustomLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.showCustomLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showCustomLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initLoadingInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideAllLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.hideAll",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initProgressInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showBarProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.showBarProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showBarProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initProgressInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDCustomClass.show",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.showCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.initCustomInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.updateCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDCustomClass.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\XTPromptHUD.ets>.XTPromptHUD.hideCustomHUD",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDCustomClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTToastCustomDialogView.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTToastCustomDialogView.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.toastCustomDialogView",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTToastCustomDialogView.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>1$_showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>2$_showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToastDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTLoadingCustomDialogView.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTLoadingCustomDialogView.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.loadingCustomDialogView",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTLoadingCustomDialogView.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTProgressCustomDialogView.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTProgressCustomDialogView.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.progressCustomDialogView",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTProgressCustomDialogView.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.safeInitXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>40$safeInitXTEasyHUDToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.safeInitXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.asyncGetUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.safeInitXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>42$safeInitXTEasyHUDLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.safeInitXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.asyncGetUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.safeInitXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>44$safeInitXTEasyHUDProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.safeInitXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.asyncGetUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>41$%AM40$safeInitXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>41$%AM40$safeInitXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>3",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>40$safeInitXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>41$%AM40$safeInitXTEasyHUDToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>40$safeInitXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>3",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>43$%AM42$safeInitXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>43$%AM42$safeInitXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>6",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>42$safeInitXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>43$%AM42$safeInitXTEasyHUDLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>42$safeInitXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>6",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>45$%AM44$safeInitXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>45$%AM44$safeInitXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>9",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>44$safeInitXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>45$%AM44$safeInitXTEasyHUDProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>44$safeInitXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>9",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.asyncGetUIContext",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>47$asyncGetUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.asyncGetUIContext",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>46$asyncGetUIContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>46$asyncGetUIContext",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>47$asyncGetUIContext",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showInfo",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showWarning",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showSuccess",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showError",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showIconToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.hideAll",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>1$_showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>1$_showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast._showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>2$_showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>3$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>4$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showInfo",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>5$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showWarning",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>6$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showSuccess",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>7$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.showError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>8$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.<Arrow Function>9$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.hideAll",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.%AC11$XTEasyHUDToast.mounted.<Arrow Function>0$%instInit",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.toastCustomDialogView",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDToast.mounted",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.showLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading._showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.showRingLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading._showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.showCustomLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading._showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.hideAll",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.<Arrow Function>1$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.<Arrow Function>2$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.showRingLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.<Arrow Function>3$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.showCustomLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.<Arrow Function>4$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.<Arrow Function>5$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.hideAll",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.%AC17$XTEasyHUDLoading.mounted.<Arrow Function>0$%instInit",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.loadingCustomDialogView",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDLoading.mounted",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.constructor",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress._showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.showBarProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress._showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress._showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.<Arrow Function>1$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.<Arrow Function>2$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.showBarProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.<Arrow Function>3$mounted",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.%AC25$XTEasyHUDProgress.mounted.<Arrow Function>0$%instInit",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.progressCustomDialogView",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUDManager.ets>._XTEasyHUDManager.initXTEasyHUDProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTEasyHUD.ets>.XTEasyHUDProgress.mounted",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTHUDManager.ets>",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTHUDManager.ets>._XTHUDManager.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showInfo",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showWarning",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showSuccess",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showError",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showIconToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.showIconToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToastDialog",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.<Arrow Function>1$_showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.<Arrow Function>2$_showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToastDialog",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.toastViewBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.<Arrow Function>1$_showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.<Arrow Function>1$_showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass._showToast",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.<Arrow Function>2$_showToast",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDToastClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.showLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass._showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.showRingLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass._showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass.showCustomLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass._showLoading",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDLoadingClass._showLoading",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.loadingViewBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass._showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.showBarProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass._showProgress",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass._showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.XTPromptHUDProgressClass._showProgress",
+    "to": "<File xt_hud\\src\\main\\ets\\components\\_XTPromptHUD.ets>.progressViewBuilder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  }
+]

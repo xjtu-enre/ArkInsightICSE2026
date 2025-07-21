@@ -1,0 +1,1 @@
+@Custom export default struct Inte{ build(){}}

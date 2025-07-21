@@ -1,0 +1,175 @@
+{
+  "our_only": [],
+  "normal_only": [
+    {
+      "uid": 5,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": null
+    },
+    {
+      "uid": 7,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 8,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 15,
+      "type": "BLOCK",
+      "raw_type": "Block",
+      "label": "{Column().stateStyles({f:this.a})}"
+    },
+    {
+      "uid": 20,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "Column"
+    },
+    {
+      "uid": 21,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "stateStyles"
+    },
+    {
+      "uid": 22,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 23,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 25,
+      "type": "PROP",
+      "raw_type": "PropertyAssignment",
+      "label": "f:this.a"
+    },
+    {
+      "uid": 26,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "f"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 17,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 27,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "this.a",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 18,
+      "our_raw_type": "ThisExpression",
+      "our_label": null,
+      "normal_uid": 28,
+      "normal_raw_type": "ThisKeyword",
+      "normal_label": "this",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 10,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 18,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "Column().stateStyles",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 11,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Column",
+      "normal_uid": 19,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Column()",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "struct Foo{a();build(){Column().stateStyles({f:this.a})}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 1,
+      "our_raw_type": "ArkTSStructDeclaration",
+      "our_label": null,
+      "normal_uid": 1,
+      "normal_raw_type": "StructDeclaration",
+      "normal_label": "struct Foo{a();build(){Column().stateStyles({f:this.a})}}",
+      "confidence": 1.1666666666666667
+    },
+    {
+      "our_uid": 3,
+      "our_raw_type": "TSDeclareMethod",
+      "our_label": null,
+      "normal_uid": 3,
+      "normal_raw_type": "ExpressionWithTypeArguments",
+      "normal_label": null,
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 5,
+      "our_raw_type": "ClassMethod",
+      "our_label": null,
+      "normal_uid": 11,
+      "normal_raw_type": "MethodDeclaration",
+      "normal_label": "a();",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 7,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 10,
+      "normal_raw_type": "Block",
+      "normal_label": null,
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 9,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": null,
+      "normal_uid": 17,
+      "normal_raw_type": "CallExpression",
+      "normal_label": "Column().stateStyles({f:this.a})",
+      "confidence": 1.3333333333333333
+    },
+    {
+      "our_uid": 14,
+      "our_raw_type": "ObjectExpression",
+      "our_label": null,
+      "normal_uid": 24,
+      "normal_raw_type": "ObjectLiteralExpression",
+      "normal_label": "{f:this.a}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 15,
+      "our_raw_type": "ObjectProperty",
+      "our_label": "{'type': 'MemberExpression', 'start': 47, 'end': 53, 'loc': {'start': {'line': 1, 'column': 47, 'index': 47}, 'end': {'line': 1, 'column': 53, 'index': 53}}, 'object': {'type': 'ThisExpression', 'start': 47, 'end': 51, 'loc': {'start': {'line': 1, 'column': 47, 'index': 47}, 'end': {'line': 1, 'column': 51, 'index': 51}}}, 'computed': False, 'property': {'type': 'Identifier', 'start': 52, 'end': 53, 'loc': {'start': {'line': 1, 'column': 52, 'index': 52}, 'end': {'line': 1, 'column': 53, 'index': 53}, 'identifierName': 'a'}, 'name': 'a'}}",
+      "normal_uid": 13,
+      "normal_raw_type": "MethodDeclaration",
+      "normal_label": "build(){Column().stateStyles({f:this.a})}",
+      "confidence": 0.5
+    }
+  ]
+}

@@ -1,0 +1,5452 @@
+[
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationMgr.modifier",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationMgr.defaultAnimateBuilder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationMgr.registerAnimParam",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationMgr.getAnimParamBuilder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationMgr.unregisterAnim",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.modifier",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getKey",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.defaultAnimateBuilder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.builder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.defaultAnimateBuilder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.getCallback",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.registerAnimParam",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getKey",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.buildAnimParam",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.registerAnimParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.buildAnimParam",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.builder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getAnimParamBuilder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getKey",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getAnimParamBuilder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.builder",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.unregisterAnim",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getKey",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPushEnter",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getAnimateParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPushEnter",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPushEnter",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.finishTransition",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPushExit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getAnimateParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPushExit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPopEnter",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getAnimateParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPopEnter",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPopExit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getAnimateParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPopExit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.startNavAnimPopExit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.finishTransition",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.finishInteractiveAnimation",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.finishTransition",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.INavSingleAnimationParam.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.update",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.<Arrow Function>1$update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.<Arrow Function>0$%statInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.<Arrow Function>1$update",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.INavSingleAnimationParam.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.%AC3$NavAnimationStore.update.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\NavAnimationMgr.ets>.NavAnimationStore.finishTransition",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimateOptions.ets>.INavAnimateOptions.updateModifier",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\BlurAnimationOptions.ets>.BlurAnimationOptions.updateModifier",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\OpacityAnimateOptions.ets>.OpacityAnimateOptions.updateModifier",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\RotateAnimateOptions.ets>.RotateAnimateOptions.updateModifier",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\ScaleAnimateOptions.ets>.ScaleAnimateOptions.updateModifier",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.<Arrow Function>0$updateList",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\TranslateAnimationOptions.ets>.TranslateAnimationOptions.updateModifier",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC0$NavAnimateOptions.update.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC0$NavAnimateOptions.update.<Arrow Function>1$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC1$NavAnimateOptions.update.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC1$NavAnimateOptions.update.<Arrow Function>1$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC2$NavAnimateOptions.update.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC2$NavAnimateOptions.update.<Arrow Function>1$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC3$NavAnimateOptions.update.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.%AC3$NavAnimateOptions.update.<Arrow Function>1$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.updateList",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.setCustomAnimeOptions",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.setExitAnimate",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.setExitAnimateParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.setExitAnimate",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.addAnimateOptions",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.addOptions",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.addAnimateOptions",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.setEnterAnimate",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.setEnterAnimateParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.setEnterAnimate",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\INavAnimationParam.ets>.NavAnimateOptions.update",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.builder",
+    "to": "<File zrouter\\src\\main\\ets\\animation\\param\\NavAnimParamBuilder.ets>.NavAnimParamBuilder.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.Lifecycle",
+    "to": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.hooks",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.hooks",
+    "to": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.hook",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.%newFun$hook",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.%newFun$hook",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.notifyObservers",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.%AC1$hook.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.%AC1$hook.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.notifyObservers",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\annotation\\Lifecycle.ts>.%AC1$hook.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.updateCurrentStackName",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.Get-currentStackName",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isNotEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.tryRemoveInvalidNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.<Arrow Function>0$tryRemoveInvalidNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStackByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStackByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.registerNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.registerNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavStackState.ets>.NavStackState.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavDestContext",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.isNavBar",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.addRouterInfo",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.<Arrow Function>0$tryRemoveInvalidNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.unregisterNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStackState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavDestContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.isNavBar",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isObject",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>1$%AM0$%instInit",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.%AC0$NavStackMgr.registerNavStack.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.run",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.<Arrow Function>2$initialize",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.<Arrow Function>2$initialize",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.initialize",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.initialize",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setup",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setModuleLoadedListener",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.isDynamicLoadedComplete",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setModuleLoadedListener",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.isDynamicLoadedComplete",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.init",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setup",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setup",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setup",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.init",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.instance",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.instance",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.serviceMgr",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.serviceMgr",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.serviceMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.addService",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.serviceMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.addService",
+    "to": "<File zrouter\\src\\main\\ets\\service\\ServiceMgr.ets>.ServiceMgr.addService",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getService",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.serviceMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getService",
+    "to": "<File zrouter\\src\\main\\ets\\service\\ServiceMgr.ets>.ServiceMgr.getService",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.animateMgr",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.registerNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.registerNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.registerNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.unregisterNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.unregisterNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStackByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getNavStackByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getNavStackByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStackByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getCurrentNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getCurrentNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getNavStackByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getLastNavDestinationId",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getLastNavDestinationId",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getLastNavDestinationId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setGlobalInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setGlobalInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setGlobalInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.setInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.removeInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.removeInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.addGlobalLifecycleObserver",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.addGlobalLifecycleObserver",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.addGlobalObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.addLifecycleObserver",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.addLifecycleObserver",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.addObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.templateMgr",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getCurrentStackName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getParamByKey",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getParamByKey",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParamByKey",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.push",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.push",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.push",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushNavForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popToName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popToName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.clear",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.clear",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.clear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getAllPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getAllPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAllPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getTopPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getTopPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getParamByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getParamByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParamByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getAnnotationParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getAnnotationParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAnnotationParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.removeByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.removeByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.moveToTop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.moveToTop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.moveToTop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.replacePathByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.replacePathByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.replacePathByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushByStackName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushByStackName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.redirectForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.redirectForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getRouterMgr",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.constructor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setCurrentStackName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getLastNavDestinationId",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getLastNavDestinationId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.registerNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.registerNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.registerNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.unregisterNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStackByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStackByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.getNavStackState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.push",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>4$pushNavForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>3$pushNavForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.push",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>5$redirectForResult2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.registerEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.replacePathByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>7$redirect",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\DeviceUtil.ets>.DeviceUtil.isSdkVersion12",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>8$pushDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>9$pushDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>10$handlePushError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.run",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.DestinationInfo.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>11$beforePushOrReplace",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.runAsync",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.DestinationInfo.isContinue",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToNameInternal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToNameWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToNameInternal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popInternal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popInternal",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popInternal",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToNameInternal",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isNotEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAllPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToNameWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.sendEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isNotEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.sendEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.clear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.sendEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.addInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.removeInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.clear",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAllPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAllPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.push",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParamByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParamByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAnnotationParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.moveToTop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.replacePathByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.beforePushOrReplace",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.replacePathByName",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\DeviceUtil.ets>.DeviceUtil.isSdkVersion12",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.replacePathByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.registerEvent",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>12$registerEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterEvent",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.isRegisterEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.sendEvent",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.isRegisterEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setGlobalInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.setGlobalInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.addGlobalInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setGlobalInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByStackName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStackByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\model\\RouterInfo.ts>.RouterInfo.create",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.notifyObservers",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.removeRouterInfo",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getNavStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>2$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\api\\NavStackMgr.ets>.NavStackMgr.addRouterInfo",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>3$pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>4$pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isNotEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>4$pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>4$pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>4$pushNavForResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.registerEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>6$%AM5$redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>5$redirectForResult2",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>6$%AM5$redirectForResult2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>7$redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>8$pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>9$pushDestination",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.handlePushError",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>10$handlePushError",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\IInterceptor.ets>.IGlobalNavigateInterceptor.<Arrow Function>3",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>11$beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\IInterceptor.ets>.IGlobalNavigateInterceptor.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>11$beforePushOrReplace",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>12$registerEvent",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>12$registerEvent",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getCurrentState",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>12$registerEvent",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushByTopName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>12$registerEvent",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.unregisterEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.%AC0$RouterMgr.pushDestination.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.%AC2$RouterMgr.pushDestination.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.%AC7$RouterMgr.addGlobalInterceptor.<Arrow Function>0$%instInit",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.addInterceptorToAllStack",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.<Arrow Function>2$addInterceptorToAllStack",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.addInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.<Arrow Function>3$addInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.addInterceptor",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.<Arrow Function>4$addInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.runAsync",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.runAsync",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.run",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.<Arrow Function>2$addInterceptorToAllStack",
+    "to": "<File zrouter\\src\\main\\ets\\interceptions\\InterceptorMgr.ets>.InterceptorMgr.addInterceptor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.addObserver",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.addListener",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.remove",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>2$remove",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.remove",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>3$remove",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.splitClassNameGetName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.notifyObservers",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.notifyObservers",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>4$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>6$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.findObservers",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>5$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>8$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>7$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>10$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>9$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>12$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>11$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>14$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>13$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>16$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>15$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>18$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>17$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>19$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>20$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>22$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>21$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>24$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>23$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>26$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>25$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>28$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>27$handleObserverEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.remove",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>30$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.findListeners",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>29$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>32$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>31$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>34$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>33$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>36$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>35$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>38$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>37$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>40$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>39$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>42$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>41$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>43$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>44$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>46$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>45$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>48$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>47$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>50$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>49$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>52$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>51$handleCallbackEvent",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.remove",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>2$remove",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.removeObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>2$remove",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>3$remove",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.removeListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>3$remove",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>5$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onShown",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>6$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>7$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onHidden",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>8$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>9$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onWillShow",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>10$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>11$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onWillHide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>12$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>13$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onWillAppear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>14$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>15$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onWillDisappear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>16$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>17$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onAppear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>18$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>19$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>20$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.INavLifecycle.onDisappear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>21$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.IPageLifecycle.aboutToAppear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>22$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>23$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.IPageLifecycle.onPageShow",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>24$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>25$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.IPageLifecycle.onPageHide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>26$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>27$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\ILifecycle.ts>.IPageLifecycle.aboutToDisappear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>28$handleObserverEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>29$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>30$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>31$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>32$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>33$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>34$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>35$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>36$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>37$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>38$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>39$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>40$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>41$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>42$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>43$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentNavDestination",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>44$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>45$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>46$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>47$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>48$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>49$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>50$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>51$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleEvent.ts>.<Arrow Function>0",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.<Arrow Function>52$handleCallbackEvent",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.isCurrentPage",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.addObserver",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.addObserver",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.addObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.removeObserver",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.removeObserver",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.removeObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.addListener",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.addListener",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.addListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.removeListener",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getInstance",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.removeListener",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleMgr.ts>.LifecycleMgr.removeListener",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.create",
+    "to": "<File zrouter\\src\\main\\ets\\lifecycle\\LifecycleRegistry.ets>.LifecycleRegistry.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.constructor",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>3$constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>4$dynamicImportModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.importModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>8$importModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>3$constructor",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.dynamicImportModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>5$%AM4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>1",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>5$%AM4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>6$%AM4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>7$%AM4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.importModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>7$%AM4$dynamicImportModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>6$%AM4$dynamicImportModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>4$dynamicImportModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>5$%AM4$dynamicImportModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>9$%AM8$importModule",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>10$%AM8$importModule",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>8$importModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>10$%AM8$importModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>8$importModule",
+    "to": "<File zrouter\\src\\main\\ets\\model\\ConfigInitializer.ets>.ConfigInitializer.<Arrow Function>9$%AM8$importModule",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.Get-isNeedLogin",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.Get-notRegistered",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.isContext",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.isContext",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isNotEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.create",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.InterceptorInfo.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.DestinationInfo.create",
+    "to": "<File zrouter\\src\\main\\ets\\model\\Model.ets>.DestinationInfo.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.setCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isObject",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.<Arrow Function>0$mergeParams",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.merge",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushNavForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.<Arrow Function>1$navigation",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pushForResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.push",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.push",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.replace",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.replace",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.replace",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.replacePathByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.replaceWithDefaultAnim",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.replaceWithDefaultAnim",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.navigation",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.replaceWithDefaultAnim",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.<Arrow Function>2$replaceWithDefaultAnim",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.mergeParams",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirectForResult2",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.redirect",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.redirect",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.pop",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.pop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.pop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popToName",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popToName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popToNameWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popToNameWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToNameWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popNavWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popNavWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.popToRootWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.popToRootWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.finishWithResult",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.finishWithResult",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.clear",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.clear",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.clear",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getAllPathName",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getAllPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAllPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getTopPathName",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getTopPathName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getTopPathName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParamByName",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParamByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParamByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParamByKey",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParamByKey",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.hasProperty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParamByKey",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.defaultValue",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.defaultValue",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.hasKey",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.hasKey",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.hasProperty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getAnnotationParam",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.getAnnotationParam",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.getAnnotationParam",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.removeByName",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.removeByName",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.moveToTop",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.updateCurrentStackName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.moveToTop",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.moveToTop",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.<Arrow Function>2$replaceWithDefaultAnim",
+    "to": "<File zrouter\\src\\main\\ets\\api\\RouterMgr.ets>.RouterMgr.removeByName",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.create",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavDestBuilder.ets>.NavDestBuilder.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\NavStackState.ets>.NavStackState.create",
+    "to": "<File zrouter\\src\\main\\ets\\model\\NavStackState.ets>.NavStackState.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\RouterInfo.ts>.RouterInfo.toString",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\model\\RouterInfo.ts>.RouterInfo.create",
+    "to": "<File zrouter\\src\\main\\ets\\model\\RouterInfo.ts>.RouterInfo.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\service\\ServiceMgr.ets>.ServiceMgr.addService",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\service\\ServiceMgr.ets>.ServiceMgr.getService",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\service\\ServiceMgr.ets>.ServiceMgr.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\service\\ServiceMgr.ets>.ServiceMgr.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.addObserver",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getLastNavDestinationId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.removeObserver",
+    "to": "<File zrouter\\src\\main\\ets\\api\\Router.ets>.ZRouter.getLastNavDestinationId",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.notifyObservers",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.findObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.dispatch",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.notifyObservers",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.dispatch",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.removeObserver",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.getInstance",
+    "to": "<File zrouter\\src\\main\\ets\\template\\TemplateMgr.ets>.TemplateMgr.constructor",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\DeviceUtil.ets>.DeviceUtil.isSdkVersion11",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\DeviceUtil.ets>.DeviceUtil.getSdkVersion",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\DeviceUtil.ets>.DeviceUtil.isSdkVersion12",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\DeviceUtil.ets>.DeviceUtil.getSdkVersion",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.log",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.error",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\Logger.ts>.Logger.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.log",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.error",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.hide",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\LogUtil.ets>.LogUtil.hide",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isNotEmpty",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isEmpty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.hasProperty",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.isObject",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.deepCopy",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.deepCopy",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.deepCopy",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.hasProperty",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.merge",
+    "to": "<File zrouter\\src\\main\\ets\\utlis\\ObjUtil.ts>.ObjUtil.<Arrow Function>0$merge",
+    "location": {
+      "line": 100,
+      "column": 100
+    },
+    "type": "call",
+    "sdkMethod": false
+  }
+]

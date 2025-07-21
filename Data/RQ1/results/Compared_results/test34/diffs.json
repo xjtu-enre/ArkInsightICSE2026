@@ -1,0 +1,224 @@
+{
+  "our_only": [
+    {
+      "uid": 4,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    },
+    {
+      "uid": 5,
+      "type": "TSUnionType",
+      "raw_type": "TSUnionType",
+      "label": null
+    },
+    {
+      "uid": 6,
+      "type": "TSBooleanKeyword",
+      "raw_type": "TSBooleanKeyword",
+      "label": null
+    },
+    {
+      "uid": 7,
+      "type": "TSUndefinedKeyword",
+      "raw_type": "TSUndefinedKeyword",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 5,
+      "type": "UnionType",
+      "raw_type": "UnionType",
+      "label": "boolean|undefined"
+    },
+    {
+      "uid": 6,
+      "type": "BooleanKeyword",
+      "raw_type": "BooleanKeyword",
+      "label": "boolean"
+    },
+    {
+      "uid": 7,
+      "type": "UndefinedKeyword",
+      "raw_type": "UndefinedKeyword",
+      "label": "undefined"
+    },
+    {
+      "uid": 10,
+      "type": "PrefixUnaryExpression",
+      "raw_type": "PrefixUnaryExpression",
+      "label": "!!s"
+    },
+    {
+      "uid": 11,
+      "type": "PrefixUnaryExpression",
+      "raw_type": "PrefixUnaryExpression",
+      "label": "!s"
+    },
+    {
+      "uid": 15,
+      "type": "ExpressionWithTypeArguments",
+      "raw_type": "ExpressionWithTypeArguments",
+      "label": null
+    },
+    {
+      "uid": 17,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": null
+    },
+    {
+      "uid": 19,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 20,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 24,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "build"
+    },
+    {
+      "uid": 25,
+      "type": "BLOCK",
+      "raw_type": "Block",
+      "label": "{Text({t:this.t!!})}"
+    },
+    {
+      "uid": 28,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "Text"
+    },
+    {
+      "uid": 30,
+      "type": "PROP",
+      "raw_type": "PropertyAssignment",
+      "label": "t:this.t!!"
+    },
+    {
+      "uid": 31,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "t"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 25,
+      "our_raw_type": "ThisExpression",
+      "our_label": null,
+      "normal_uid": 35,
+      "normal_raw_type": "ThisKeyword",
+      "normal_label": "this",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 24,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 34,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "this.t",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 23,
+      "our_raw_type": "ArkTSDoubleExclamationExpression",
+      "our_label": null,
+      "normal_uid": 33,
+      "normal_raw_type": "NonNullExpression",
+      "normal_label": "this.t!",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "function A(s:boolean|undefined){return !!s};struct A{build(){Text({t:this.t!!})}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 8,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 8,
+      "normal_raw_type": "Block",
+      "normal_label": "{return !!s}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 10,
+      "our_raw_type": "UnaryExpression",
+      "our_label": null,
+      "normal_uid": 3,
+      "normal_raw_type": "Parameter",
+      "normal_label": "s:boolean|undefined",
+      "confidence": 0.5
+    },
+    {
+      "our_uid": 12,
+      "our_raw_type": "ArkTSStructDeclaration",
+      "our_label": null,
+      "normal_uid": 13,
+      "normal_raw_type": "StructDeclaration",
+      "normal_label": "struct A{build(){Text({t:this.t!!})}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 14,
+      "our_raw_type": "ClassMethod",
+      "our_label": null,
+      "normal_uid": 23,
+      "normal_raw_type": "MethodDeclaration",
+      "normal_label": "build(){Text({t:this.t!!})}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 16,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 22,
+      "normal_raw_type": "Block",
+      "normal_label": null,
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 18,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Text",
+      "normal_uid": 27,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Text({t:this.t!!})",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 20,
+      "our_raw_type": "ObjectExpression",
+      "our_label": null,
+      "normal_uid": 29,
+      "normal_raw_type": "ObjectLiteralExpression",
+      "normal_label": "{t:this.t!!}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 21,
+      "our_raw_type": "ObjectProperty",
+      "our_label": "{'type': 'ArkTSDoubleExclamationExpression', 'start': 69, 'end': 77, 'loc': {'start': {'line': 1, 'column': 69, 'index': 69}, 'end': {'line': 1, 'column': 77, 'index': 77}}, 'expression': {'type': 'MemberExpression', 'start': 69, 'end': 75, 'loc': {'start': {'line': 1, 'column': 69, 'index': 69}, 'end': {'line': 1, 'column': 75, 'index': 75}}, 'object': {'type': 'ThisExpression', 'start': 69, 'end': 73, 'loc': {'start': {'line': 1, 'column': 69, 'index': 69}, 'end': {'line': 1, 'column': 73, 'index': 73}}}, 'computed': False, 'property': {'type': 'Identifier', 'start': 74, 'end': 75, 'loc': {'start': {'line': 1, 'column': 74, 'index': 74}, 'end': {'line': 1, 'column': 75, 'index': 75}, 'identifierName': 't'}, 'name': 't'}}}",
+      "normal_uid": 32,
+      "normal_raw_type": "NonNullExpression",
+      "normal_label": "this.t!!",
+      "confidence": 0.5
+    }
+  ]
+}

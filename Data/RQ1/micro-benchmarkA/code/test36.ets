@@ -1,0 +1,1 @@
+struct A { build() {}} @Builder function Foo(){A();}

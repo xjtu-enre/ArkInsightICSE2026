@@ -1,0 +1,1 @@
+@AnimatableExtend(Text) function Foo(a:number){.setsize(a)}

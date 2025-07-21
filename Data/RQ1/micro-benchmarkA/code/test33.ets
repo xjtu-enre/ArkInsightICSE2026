@@ -1,0 +1,1 @@
+struct A{@State placeholder: string = getContext().resourceManager.getStringSync($r('app.string.placeholder'));build(){Text({size: $r('app.integer.placeholderFont_size')})}}

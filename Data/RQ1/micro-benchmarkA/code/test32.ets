@@ -1,0 +1,1 @@
+struct A{build(){Text({t:$value, b:$b})}}

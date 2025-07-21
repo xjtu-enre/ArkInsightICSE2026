@@ -1,0 +1,276 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A{@Builder f() {} @BuilderParam a: () => void = this.f;}",
+  "pos": 0,
+  "end": 63,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A{@Builder f() {} @BuilderParam a: () => void = this.f;}",
+      "pos": 0,
+      "end": 63,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeLiteral",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "PropertySignature",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "a",
+                          "pos": 38,
+                          "end": 40,
+                          "children": []
+                        },
+                        {
+                          "kind": "QuestionToken",
+                          "text": "",
+                          "pos": 0,
+                          "end": 0,
+                          "children": []
+                        },
+                        {
+                          "kind": "FunctionType",
+                          "text": "() => void",
+                          "pos": 41,
+                          "end": 52,
+                          "children": [
+                            {
+                              "kind": "VoidKeyword",
+                              "text": "void",
+                              "pos": 47,
+                              "end": 52,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "@Builder f() {}",
+          "pos": 9,
+          "end": 24,
+          "children": [
+            {
+              "kind": "Decorator",
+              "text": "@Builder",
+              "pos": 9,
+              "end": 17,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "Builder",
+                  "pos": 10,
+                  "end": 17,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "Identifier",
+              "text": "f",
+              "pos": 17,
+              "end": 19,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{}",
+              "pos": 21,
+              "end": 24,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "PropertyDeclaration",
+          "text": "@BuilderParam a: () => void = this.f;",
+          "pos": 24,
+          "end": 62,
+          "children": [
+            {
+              "kind": "Decorator",
+              "text": "@BuilderParam",
+              "pos": 24,
+              "end": 38,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "BuilderParam",
+                  "pos": 26,
+                  "end": 38,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "Identifier",
+              "text": "a",
+              "pos": 38,
+              "end": 40,
+              "children": []
+            },
+            {
+              "kind": "FunctionType",
+              "text": "() => void",
+              "pos": 41,
+              "end": 52,
+              "children": [
+                {
+                  "kind": "VoidKeyword",
+                  "text": "void",
+                  "pos": 47,
+                  "end": 52,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "PropertyAccessExpression",
+              "text": "this.f",
+              "pos": 54,
+              "end": 61,
+              "children": [
+                {
+                  "kind": "ThisKeyword",
+                  "text": "this",
+                  "pos": 54,
+                  "end": 59,
+                  "children": []
+                },
+                {
+                  "kind": "Identifier",
+                  "text": "f",
+                  "pos": 60,
+                  "end": 61,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 63,
+      "end": 63,
+      "children": []
+    }
+  ]
+}

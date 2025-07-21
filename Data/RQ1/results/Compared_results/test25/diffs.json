@@ -1,0 +1,88 @@
+{
+  "our_only": [],
+  "normal_only": [
+    {
+      "uid": 10,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 16,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": null
+    },
+    {
+      "uid": 17,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "setsize"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 5,
+      "our_raw_type": "TSNumberKeyword",
+      "our_label": null,
+      "normal_uid": 9,
+      "normal_raw_type": "NumberKeyword",
+      "normal_label": "number",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "@Extend(Text) function Foo(a:number){.setsize(a)}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 4,
+      "our_raw_type": "TSTypeAnnotation",
+      "our_label": null,
+      "normal_uid": 7,
+      "normal_raw_type": "Parameter",
+      "normal_label": "a:number",
+      "confidence": 0.5
+    },
+    {
+      "our_uid": 8,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 12,
+      "normal_raw_type": "Block",
+      "normal_label": "{.setsize(a)}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 10,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": null,
+      "normal_uid": 3,
+      "normal_raw_type": "CallExpression",
+      "normal_label": "Extend(Text)",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 11,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 15,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": ".setsize",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 12,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Text",
+      "normal_uid": 14,
+      "normal_raw_type": "CallExpression",
+      "normal_label": ".setsize(a)",
+      "confidence": 1.0
+    }
+  ]
+}

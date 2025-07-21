@@ -1,0 +1,188 @@
+{
+  "kind": "SourceFile",
+  "text": "struct Index{ build() {this.c?.builder()}}",
+  "pos": 0,
+  "end": 43,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct Index{ build() {this.c?.builder()}}",
+      "pos": 0,
+      "end": 43,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "Index",
+          "pos": 7,
+          "end": 13,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 13,
+          "end": 13,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 13,
+              "end": 13,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 13,
+                  "end": 13,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build() {this.c?.builder()}",
+          "pos": 14,
+          "end": 42,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 14,
+              "end": 20,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{this.c?.builder()}",
+              "pos": 22,
+              "end": 42,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "this.c?.builder()",
+                  "pos": 24,
+                  "end": 41,
+                  "children": [
+                    {
+                      "kind": "CallExpression",
+                      "text": "this.c?.builder()",
+                      "pos": 24,
+                      "end": 41,
+                      "children": [
+                        {
+                          "kind": "PropertyAccessExpression",
+                          "text": "this.c?.builder",
+                          "pos": 24,
+                          "end": 39,
+                          "children": [
+                            {
+                              "kind": "PropertyAccessExpression",
+                              "text": "this.c",
+                              "pos": 24,
+                              "end": 30,
+                              "children": [
+                                {
+                                  "kind": "ThisKeyword",
+                                  "text": "this",
+                                  "pos": 24,
+                                  "end": 28,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "Identifier",
+                                  "text": "c",
+                                  "pos": 29,
+                                  "end": 30,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "kind": "QuestionDotToken",
+                              "text": "?.",
+                              "pos": 30,
+                              "end": 32,
+                              "children": []
+                            },
+                            {
+                              "kind": "Identifier",
+                              "text": "builder",
+                              "pos": 32,
+                              "end": 39,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 43,
+      "end": 43,
+      "children": []
+    }
+  ]
+}

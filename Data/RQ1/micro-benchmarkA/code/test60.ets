@@ -1,0 +1,1 @@
+struct A { build() { Column() { ForEach(this,(dateItem: CalendarItem, temp: number)=>{A(){}.a() if(Text(a)){}else{}  },(item:number)=>item)  }}}

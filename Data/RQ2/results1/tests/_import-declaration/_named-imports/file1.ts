@@ -1,0 +1,1 @@
+import {func, Class, OptionalNumber} from './file0';

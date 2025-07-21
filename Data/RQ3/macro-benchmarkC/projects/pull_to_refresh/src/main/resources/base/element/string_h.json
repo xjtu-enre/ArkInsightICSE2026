@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "h_zr_pull_down_to_refresh",
+      "value": "右\n拉\n刷\n新"
+    },
+    {
+      "name": "h_zr_release_to_refresh",
+      "value": "释\n放\n立\n即\n刷\n新"
+    },
+    {
+      "name": "h_zr_release_to_open_age",
+      "value": "释\n放\n打\n开\n其\n他\n页\n面"
+    },
+    {
+      "name": "h_zr_refreshing",
+      "value": "正\n在\n刷\n新\n..."
+    },
+    {
+      "name": "h_zr_refresh_success",
+      "value": "刷\n新\n完\n成"
+    },
+    {
+      "name": "h_zr_refresh_error",
+      "value": "刷\n新\n失\n败"
+    },
+    {
+      "name": "h_zr_last_update",
+      "value": "上\n次\n更\n新"
+    },
+    {
+      "name": "h_zr_seconds_ago",
+      "value": "秒\n之\n前"
+    },
+    {
+      "name": "h_zr_minutes_ago",
+      "value": "分\n钟\n之\n前"
+    },
+    {
+      "name": "h_zr_hours_ago",
+      "value": "小\n时\n之\n前"
+    },
+    {
+      "name": "h_zr_days_ago",
+      "value": "天\n之\n前"
+    },
+    {
+      "name": "h_zr_pull_up_to_load",
+      "value": "左\n拉\n加\n载"
+    },
+    {
+      "name": "h_zr_release_to_load",
+      "value": "释\n放\n立\n即\n加\n载"
+    },
+    {
+      "name": "h_zr_loading",
+      "value": "正\n在\n加\n载\n..."
+    },
+    {
+      "name": "h_zr_load_success",
+      "value": "加\n载\n完\n成"
+    },
+    {
+      "name": "h_zr_load_error",
+      "value": "加\n载\n失\n败"
+    },
+    {
+      "name": "h_zr_load_no_more",
+      "value": "暂\n无\n更\n多"
+    }
+  ]
+}

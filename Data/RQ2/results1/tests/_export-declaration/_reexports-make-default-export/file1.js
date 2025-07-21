@@ -1,0 +1,1 @@
+export {a as default} from './file0.js';

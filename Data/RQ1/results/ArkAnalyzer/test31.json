@@ -1,0 +1,292 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A{@State $value:number;build(){Text({t:$$this.$value})}}",
+  "pos": 0,
+  "end": 63,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A{@State $value:number;build(){Text({t:$$this.$value})}}",
+      "pos": 0,
+      "end": 63,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeLiteral",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "PropertySignature",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "$value",
+                          "pos": 15,
+                          "end": 22,
+                          "children": []
+                        },
+                        {
+                          "kind": "QuestionToken",
+                          "text": "",
+                          "pos": 0,
+                          "end": 0,
+                          "children": []
+                        },
+                        {
+                          "kind": "NumberKeyword",
+                          "text": "number",
+                          "pos": 23,
+                          "end": 29,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "PropertyDeclaration",
+          "text": "@State $value:number;",
+          "pos": 9,
+          "end": 30,
+          "children": [
+            {
+              "kind": "Decorator",
+              "text": "@State",
+              "pos": 9,
+              "end": 15,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "State",
+                  "pos": 10,
+                  "end": 15,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "Identifier",
+              "text": "$value",
+              "pos": 15,
+              "end": 22,
+              "children": []
+            },
+            {
+              "kind": "NumberKeyword",
+              "text": "number",
+              "pos": 23,
+              "end": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build(){Text({t:$$this.$value})}",
+          "pos": 30,
+          "end": 62,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 30,
+              "end": 35,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{Text({t:$$this.$value})}",
+              "pos": 37,
+              "end": 62,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "Text({t:$$this.$value})",
+                  "pos": 38,
+                  "end": 61,
+                  "children": [
+                    {
+                      "kind": "EtsComponentExpression",
+                      "text": "Text({t:$$this.$value})",
+                      "pos": 38,
+                      "end": 61,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "Text",
+                          "pos": 38,
+                          "end": 42,
+                          "children": []
+                        },
+                        {
+                          "kind": "ObjectLiteralExpression",
+                          "text": "{t:$$this.$value}",
+                          "pos": 43,
+                          "end": 60,
+                          "children": [
+                            {
+                              "kind": "PropertyAssignment",
+                              "text": "t:$$this.$value",
+                              "pos": 44,
+                              "end": 59,
+                              "children": [
+                                {
+                                  "kind": "Identifier",
+                                  "text": "t",
+                                  "pos": 44,
+                                  "end": 45,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "PropertyAccessExpression",
+                                  "text": "$$this.$value",
+                                  "pos": 46,
+                                  "end": 59,
+                                  "children": [
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "$$this",
+                                      "pos": 46,
+                                      "end": 52,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "$value",
+                                      "pos": 53,
+                                      "end": 59,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 63,
+      "end": 63,
+      "children": []
+    }
+  ]
+}

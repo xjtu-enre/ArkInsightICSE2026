@@ -1,0 +1,1 @@
+struct Foo{a();build(){Column().stateStyles({f:this.a})}}

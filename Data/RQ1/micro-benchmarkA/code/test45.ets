@@ -1,0 +1,1 @@
+@Component struct A { a;build(){ Row(){this.a()}}}

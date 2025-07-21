@@ -1,0 +1,101 @@
+[
+  {
+    "our_uid": 2,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "A",
+    "normal_uid": 2,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "A",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 4,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "s",
+    "normal_uid": 4,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 8,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "B",
+    "normal_uid": 6,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 10,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "s",
+    "normal_uid": 11,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "s",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 6,
+    "our_type": "NUMBER",
+    "our_raw_type": "TSNumberKeyword",
+    "our_label": null,
+    "normal_uid": 13,
+    "normal_type": "NUMBER",
+    "normal_raw_type": "NumberKeyword",
+    "normal_label": "number",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "struct A { accessor s:number;} class B{accessor s:string;}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 1,
+    "our_type": "STRUCT",
+    "our_raw_type": "ArkTSStructDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "STRUCT",
+    "normal_raw_type": "StructDeclaration",
+    "normal_label": "struct A { accessor s:number;}",
+    "confidence": 1.1666666666666667
+  },
+  {
+    "our_uid": 3,
+    "our_type": "ClassAccessorProperty",
+    "our_raw_type": "ClassAccessorProperty",
+    "our_label": null,
+    "normal_uid": 3,
+    "normal_type": "ExpressionWithTypeArguments",
+    "normal_raw_type": "ExpressionWithTypeArguments",
+    "normal_label": null,
+    "confidence": 0.5
+  },
+  {
+    "our_uid": 7,
+    "our_type": "ClassDeclaration",
+    "our_raw_type": "ClassDeclaration",
+    "our_label": null,
+    "normal_uid": 24,
+    "normal_type": "ClassDeclaration",
+    "normal_raw_type": "ClassDeclaration",
+    "normal_label": "class B{accessor s:string;}",
+    "confidence": 1.0
+  }
+]

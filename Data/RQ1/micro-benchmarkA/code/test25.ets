@@ -1,0 +1,1 @@
+@Extend(Text) function Foo(a:number){.setsize(a)}

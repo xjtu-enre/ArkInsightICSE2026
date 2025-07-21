@@ -1,0 +1,145 @@
+[
+  {
+    "our_uid": 2,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Foo",
+    "normal_uid": 3,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Styles",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 4,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Styles",
+    "normal_uid": 4,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Foo",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 10,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Styles_use",
+    "normal_uid": 6,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 11,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "setsize",
+    "normal_uid": 8,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 3,
+    "our_type": "DECORATOR",
+    "our_raw_type": "Decorator",
+    "our_label": "Styles",
+    "normal_uid": 2,
+    "normal_type": "DECORATOR",
+    "normal_raw_type": "Decorator",
+    "normal_label": "@Styles",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 12,
+    "our_type": "NUMBER",
+    "our_raw_type": "NumericLiteral",
+    "our_label": "2",
+    "normal_uid": 15,
+    "normal_type": "NUMBER",
+    "normal_raw_type": "FirstLiteralToken",
+    "normal_label": "2",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "@Styles function Foo(){.setsize(2)}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 1,
+    "our_type": "FunctionDeclaration",
+    "our_raw_type": "FunctionDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "FunctionDeclaration",
+    "normal_raw_type": "FunctionDeclaration",
+    "normal_label": "@Styles function Foo(){.setsize(2)}",
+    "confidence": 1.2
+  },
+  {
+    "our_uid": 5,
+    "our_type": "BLOCK",
+    "our_raw_type": "BlockStatement",
+    "our_label": null,
+    "normal_uid": 9,
+    "normal_type": "BLOCK",
+    "normal_raw_type": "Block",
+    "normal_label": "{.setsize(2)}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 6,
+    "our_type": "EXPR_STMT",
+    "our_raw_type": "ExpressionStatement",
+    "our_label": null,
+    "normal_uid": 10,
+    "normal_type": "EXPR_STMT",
+    "normal_raw_type": "ExpressionStatement",
+    "normal_label": ".setsize(2)",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 7,
+    "our_type": "CALL",
+    "our_raw_type": "ArkTSCallExpression",
+    "our_label": null,
+    "normal_uid": 11,
+    "normal_type": "CALL",
+    "normal_raw_type": "CallExpression",
+    "normal_label": ".setsize(2)",
+    "confidence": 1.5
+  },
+  {
+    "our_uid": 8,
+    "our_type": "MEMBER",
+    "our_raw_type": "MemberExpression",
+    "our_label": null,
+    "normal_uid": 12,
+    "normal_type": "MEMBER",
+    "normal_raw_type": "PropertyAccessExpression",
+    "normal_label": ".setsize",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 9,
+    "our_type": "CALL",
+    "our_raw_type": "ArkTSCallExpression",
+    "our_label": "Styles_use",
+    "normal_uid": 5,
+    "normal_type": "TypeParameter",
+    "normal_raw_type": "TypeParameter",
+    "normal_label": null,
+    "confidence": 1.0
+  }
+]

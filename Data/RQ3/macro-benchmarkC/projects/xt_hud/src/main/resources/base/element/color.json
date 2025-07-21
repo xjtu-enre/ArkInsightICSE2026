@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "text_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tint_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_color",
+      "value": "#CC000000"
+    },
+    {
+      "name": "mask_color",
+      "value": "#00000000"
+    }
+  ]
+}

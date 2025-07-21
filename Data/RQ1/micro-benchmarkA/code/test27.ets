@@ -1,0 +1,1 @@
+@Styles function Foo(){.setsize(2)}

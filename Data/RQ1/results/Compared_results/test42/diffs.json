@@ -1,0 +1,44 @@
+{
+  "our_only": [
+    {
+      "uid": 1,
+      "type": "ExportDefaultDeclaration",
+      "raw_type": "ExportDefaultDeclaration",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 2,
+      "type": "ExportKeyword",
+      "raw_type": "ExportKeyword",
+      "label": "export"
+    },
+    {
+      "uid": 3,
+      "type": "DefaultKeyword",
+      "raw_type": "DefaultKeyword",
+      "label": "default"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 4,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 5,
+      "normal_raw_type": "Block",
+      "normal_label": "{}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "export default function A(){}",
+      "confidence": 1.0
+    }
+  ]
+}

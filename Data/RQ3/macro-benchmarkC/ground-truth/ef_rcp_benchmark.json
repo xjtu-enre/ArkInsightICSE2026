@@ -1,0 +1,1062 @@
+[
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 50,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 62,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 203,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 211,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 570,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 643,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi",
+        "location": {
+            "line": 651,
+            "column": 35
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.getInstance",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp",
+        "location": {
+            "line": 91,
+            "column": 33
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 115,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addLogInterceptor",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\RcpLogInterceptor.ets>.RcpLogInterceptor",
+        "location": {
+            "line": 126,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addSysCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor",
+        "location": {
+            "line": 224,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addBusinessCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor",
+        "location": {
+            "line": 238,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor",
+        "location": {
+            "line": 252,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addCryptoEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCryptoInterceptor.ets>.EfCryptoInterceptor",
+        "location": {
+            "line": 266,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCryptoInterceptor.ets>.EfCryptoInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 41,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 61,
+            "column": 34
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 67,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 68,
+            "column": 34
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError",
+        "location": {
+            "line": 74,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 50,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 62,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.showLoading",
+        "location": {
+            "line": 131,
+            "column": 13
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildHeaders",
+        "location": {
+            "line": 142,
+            "column": 48
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildCookies",
+        "location": {
+            "line": 143,
+            "column": 7
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildSecurity",
+        "location": {
+            "line": 162,
+            "column": 46
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.closeLoading",
+        "location": {
+            "line": 176,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.closeLoading",
+        "location": {
+            "line": 199,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 203,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 211,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.post",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildParams",
+        "location": {
+            "line": 252,
+            "column": 26
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.post",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 255,
+            "column": 27
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.postForm",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildParams",
+        "location": {
+            "line": 282,
+            "column": 26
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.postForm",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 293,
+            "column": 27
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.postMultipartForm",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildParams",
+        "location": {
+            "line": 320,
+            "column": 26
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.postMultipartForm",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 331,
+            "column": 27
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.get",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildParams",
+        "location": {
+            "line": 359,
+            "column": 25
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.get",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 363,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.put",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 385,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.delete",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 407,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.patch",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 433,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.uploadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildRequest",
+        "location": {
+            "line": 477,
+            "column": 27
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.showLoading",
+        "location": {
+            "line": 528,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.closeLoading",
+        "location": {
+            "line": 542,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.closeLoading",
+        "location": {
+            "line": 566,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 570,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.showLoading",
+        "location": {
+            "line": 601,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.closeLoading",
+        "location": {
+            "line": 616,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\RcpLoadingUtil.ets>.RcpLoadingUtil.closeLoading",
+        "location": {
+            "line": 639,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 643,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.getInstance",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.constructor",
+        "location": {
+            "line": 91,
+            "column": 33
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 115,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addSysCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.constructor",
+        "location": {
+            "line": 224,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addBusinessCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.constructor",
+        "location": {
+            "line": 238,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.constructor",
+        "location": {
+            "line": 252,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addCryptoEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCryptoInterceptor.ets>.EfCryptoInterceptor.constructor",
+        "location": {
+            "line": 266,
+            "column": 38
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.getInstance",
+        "location": {
+            "line": 534,
+            "column": 22
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCryptoInterceptor.ets>.EfCryptoInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 41,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.extractJsonFragment",
+        "location": {
+            "line": 52,
+            "column": 34
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.getValueFromJsonFragment",
+        "location": {
+            "line": 55,
+            "column": 33
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 61,
+            "column": 34
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 67,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.extractJsonFragment",
+        "location": {
+            "line": 59,
+            "column": 34
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.getValueFromJsonFragment",
+        "location": {
+            "line": 62,
+            "column": 33
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 68,
+            "column": 34
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfBusinessCodeInterceptor.ets>.EfBusinessCodeInterceptor.intercept",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 74,
+            "column": 30
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.UserDTO.constructor",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.User.constructor",
+        "location": {
+            "line": 24,
+            "column": 5
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@273:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.login",
+        "location": {
+            "line": 274,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@291:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.postJSON",
+        "location": {
+            "line": 292,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@309:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.postForm",
+        "location": {
+            "line": 310,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@327:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testGet",
+        "location": {
+            "line": 328,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@345:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testDelete",
+        "location": {
+            "line": 346,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@363:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testPUT",
+        "location": {
+            "line": 364,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@381:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testPATCH",
+        "location": {
+            "line": 382,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@400:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testUploadFile",
+        "location": {
+            "line": 401,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@418:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testDownloadFile",
+        "location": {
+            "line": 419,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.build.<Arrow Function>@436:20",
+        "to": "<File ef_rcp\\src\\efRcpIndex.ets>.EfRcpIndex.testDownloadStream",
+        "location": {
+            "line": 437,
+            "column": 19
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 194,
+            "column": 29
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.enableLogInterceptor",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addLogInterceptor",
+        "location": {
+            "line": 140,
+            "column": 14
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addSysCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.constructor",
+        "location": {
+            "line": 226,
+            "column": 36
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addBusinessCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfSysCodeInterceptor.ets>.EfSysCodeInterceptor.constructor",
+        "location": {
+            "line": 240,
+            "column": 36
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addCodeEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCodeInterceptor.ets>.EfCodeInterceptor.constructor",
+        "location": {
+            "line": 254,
+            "column": 36
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.addCryptoEvent",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfCryptoInterceptor.ets>.EfCryptoInterceptor.constructor",
+        "location": {
+            "line": 268,
+            "column": 36
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.post",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 264,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.postForm",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 302,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.postMultipartForm",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 340,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.get",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 366,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.put",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 390,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.delete",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 414,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.patch",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 438,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.uploadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "location": {
+            "line": 486,
+            "column": 20
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 560,
+            "column": 29
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpError.ets>.EfRcpError.constructor",
+        "location": {
+            "line": 634,
+            "column": 29
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.lottieImg",
+        "location": {
+            "line": 86,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.imgBuilder",
+        "location": {
+            "line": 90,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.lottieImg",
+        "location": {
+            "line": 106,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.imgBuilder",
+        "location": {
+            "line": 110,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.lottieImg",
+        "location": {
+            "line": 122,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.imgBuilder",
+        "location": {
+            "line": 126,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.lottieImg",
+        "location": {
+            "line": 138,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.build",
+        "to": "<File ef_rcp\\src\\main\\ets\\ui\\rcpLoading.ets>.rcpLoading.imgBuilder",
+        "location": {
+            "line": 142,
+            "column": 17
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildHeaders",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "location": {
+            "line": 56,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildCookies",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "location": {
+            "line": 84,
+            "column": 15
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.cancel",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "location": {
+            "line": 453,
+            "column": 7
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadFile",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "location": {
+            "line": 538,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.downloadStream",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "location": {
+            "line": 612,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    },
+    {
+        "from": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcpClientApi.ets>.EfRcpClientApi.buildResponse",
+        "to": "<File ef_rcp\\src\\main\\ets\\rcp\\EfRcp.ets>.EfRcp.builder",
+        "location": {
+            "line": 173,
+            "column": 28
+        },
+        "type": "call",
+        "sdkMethod": false
+    }
+]

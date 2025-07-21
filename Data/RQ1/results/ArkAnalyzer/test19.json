@@ -1,0 +1,234 @@
+{
+  "kind": "SourceFile",
+  "text": "struct Foo{build(){Column().stateStyles({f:height(100)})}}",
+  "pos": 0,
+  "end": 58,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct Foo{build(){Column().stateStyles({f:height(100)})}}",
+      "pos": 0,
+      "end": 58,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "Foo",
+          "pos": 6,
+          "end": 10,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 10,
+          "end": 10,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 10,
+              "end": 10,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 10,
+                  "end": 10,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build(){Column().stateStyles({f:height(100)})}",
+          "pos": 11,
+          "end": 57,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 11,
+              "end": 16,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{Column().stateStyles({f:height(100)})}",
+              "pos": 18,
+              "end": 57,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "Column().stateStyles({f:height(100)})",
+                  "pos": 19,
+                  "end": 56,
+                  "children": [
+                    {
+                      "kind": "CallExpression",
+                      "text": "Column().stateStyles({f:height(100)})",
+                      "pos": 19,
+                      "end": 56,
+                      "children": [
+                        {
+                          "kind": "PropertyAccessExpression",
+                          "text": "Column().stateStyles",
+                          "pos": 19,
+                          "end": 39,
+                          "children": [
+                            {
+                              "kind": "EtsComponentExpression",
+                              "text": "Column()",
+                              "pos": 19,
+                              "end": 27,
+                              "children": [
+                                {
+                                  "kind": "Identifier",
+                                  "text": "Column",
+                                  "pos": 19,
+                                  "end": 25,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "kind": "Identifier",
+                              "text": "stateStyles",
+                              "pos": 28,
+                              "end": 39,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "kind": "TypeReference",
+                          "text": "",
+                          "pos": 19,
+                          "end": 19,
+                          "children": [
+                            {
+                              "kind": "Identifier",
+                              "text": "",
+                              "pos": 19,
+                              "end": 19,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "kind": "ObjectLiteralExpression",
+                          "text": "{f:height(100)}",
+                          "pos": 40,
+                          "end": 55,
+                          "children": [
+                            {
+                              "kind": "PropertyAssignment",
+                              "text": "f:height(100)",
+                              "pos": 41,
+                              "end": 54,
+                              "children": [
+                                {
+                                  "kind": "Identifier",
+                                  "text": "f",
+                                  "pos": 41,
+                                  "end": 42,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "CallExpression",
+                                  "text": "height(100)",
+                                  "pos": 43,
+                                  "end": 54,
+                                  "children": [
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "height",
+                                      "pos": 43,
+                                      "end": 49,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "FirstLiteralToken",
+                                      "text": "100",
+                                      "pos": 50,
+                                      "end": 53,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 58,
+      "end": 58,
+      "children": []
+    }
+  ]
+}

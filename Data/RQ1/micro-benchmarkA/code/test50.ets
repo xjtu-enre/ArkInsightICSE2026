@@ -1,0 +1,1 @@
+struct A { build() { Column() { ForEach(this,(item:string)=>{ ForEach(this,(item:string)=>{ if(1){Row('a').b()}else if(b){Text('c')}else{Text('v')} },(item:number)=>item); Row('c').b()},(item:number)=>item) }}}

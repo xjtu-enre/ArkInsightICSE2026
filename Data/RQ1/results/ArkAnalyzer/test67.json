@@ -1,0 +1,295 @@
+{
+  "kind": "SourceFile",
+  "text": "@Builder function foo() { Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }}",
+  "pos": 0,
+  "end": 104,
+  "children": [
+    {
+      "kind": "FunctionDeclaration",
+      "text": "@Builder function foo() { Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }}",
+      "pos": 0,
+      "end": 104,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@Builder",
+          "pos": 0,
+          "end": 8,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Builder",
+              "pos": 1,
+              "end": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "Identifier",
+          "text": "foo",
+          "pos": 17,
+          "end": 21,
+          "children": []
+        },
+        {
+          "kind": "Block",
+          "text": "{ Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }}",
+          "pos": 23,
+          "end": 104,
+          "children": [
+            {
+              "kind": "ExpressionStatement",
+              "text": "Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }",
+              "pos": 25,
+              "end": 103,
+              "children": [
+                {
+                  "kind": "EtsComponentExpression",
+                  "text": "Column() { ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }",
+                  "pos": 25,
+                  "end": 103,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "Column",
+                      "pos": 25,
+                      "end": 32,
+                      "children": []
+                    },
+                    {
+                      "kind": "Block",
+                      "text": "{ ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item) }",
+                      "pos": 34,
+                      "end": 103,
+                      "children": [
+                        {
+                          "kind": "ExpressionStatement",
+                          "text": "ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item)",
+                          "pos": 36,
+                          "end": 101,
+                          "children": [
+                            {
+                              "kind": "CallExpression",
+                              "text": "ForEach(this,(temp: T)=>{ Row(){r.b.c();} },(item:number)=>item)",
+                              "pos": 36,
+                              "end": 101,
+                              "children": [
+                                {
+                                  "kind": "Identifier",
+                                  "text": "ForEach",
+                                  "pos": 36,
+                                  "end": 44,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "ThisKeyword",
+                                  "text": "this",
+                                  "pos": 45,
+                                  "end": 49,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "ArrowFunction",
+                                  "text": "(temp: T)=>{ Row(){r.b.c();} }",
+                                  "pos": 50,
+                                  "end": 80,
+                                  "children": [
+                                    {
+                                      "kind": "Parameter",
+                                      "text": "temp: T",
+                                      "pos": 51,
+                                      "end": 58,
+                                      "children": [
+                                        {
+                                          "kind": "Identifier",
+                                          "text": "temp",
+                                          "pos": 51,
+                                          "end": 55,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "TypeReference",
+                                          "text": "T",
+                                          "pos": 56,
+                                          "end": 58,
+                                          "children": [
+                                            {
+                                              "kind": "Identifier",
+                                              "text": "T",
+                                              "pos": 56,
+                                              "end": 58,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "EqualsGreaterThanToken",
+                                      "text": "=>",
+                                      "pos": 59,
+                                      "end": 61,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Block",
+                                      "text": "{ Row(){r.b.c();} }",
+                                      "pos": 61,
+                                      "end": 80,
+                                      "children": [
+                                        {
+                                          "kind": "ExpressionStatement",
+                                          "text": "Row(){r.b.c();}",
+                                          "pos": 62,
+                                          "end": 78,
+                                          "children": [
+                                            {
+                                              "kind": "EtsComponentExpression",
+                                              "text": "Row(){r.b.c();}",
+                                              "pos": 62,
+                                              "end": 78,
+                                              "children": [
+                                                {
+                                                  "kind": "Identifier",
+                                                  "text": "Row",
+                                                  "pos": 62,
+                                                  "end": 66,
+                                                  "children": []
+                                                },
+                                                {
+                                                  "kind": "Block",
+                                                  "text": "{r.b.c();}",
+                                                  "pos": 68,
+                                                  "end": 78,
+                                                  "children": [
+                                                    {
+                                                      "kind": "ExpressionStatement",
+                                                      "text": "r.b.c();",
+                                                      "pos": 69,
+                                                      "end": 77,
+                                                      "children": [
+                                                        {
+                                                          "kind": "CallExpression",
+                                                          "text": "r.b.c()",
+                                                          "pos": 69,
+                                                          "end": 76,
+                                                          "children": [
+                                                            {
+                                                              "kind": "PropertyAccessExpression",
+                                                              "text": "r.b.c",
+                                                              "pos": 69,
+                                                              "end": 74,
+                                                              "children": [
+                                                                {
+                                                                  "kind": "PropertyAccessExpression",
+                                                                  "text": "r.b",
+                                                                  "pos": 69,
+                                                                  "end": 72,
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "Identifier",
+                                                                      "text": "r",
+                                                                      "pos": 69,
+                                                                      "end": 70,
+                                                                      "children": []
+                                                                    },
+                                                                    {
+                                                                      "kind": "Identifier",
+                                                                      "text": "b",
+                                                                      "pos": 71,
+                                                                      "end": 72,
+                                                                      "children": []
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "kind": "Identifier",
+                                                                  "text": "c",
+                                                                  "pos": 73,
+                                                                  "end": 74,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "kind": "ArrowFunction",
+                                  "text": "(item:number)=>item",
+                                  "pos": 81,
+                                  "end": 100,
+                                  "children": [
+                                    {
+                                      "kind": "Parameter",
+                                      "text": "item:number",
+                                      "pos": 82,
+                                      "end": 93,
+                                      "children": [
+                                        {
+                                          "kind": "Identifier",
+                                          "text": "item",
+                                          "pos": 82,
+                                          "end": 86,
+                                          "children": []
+                                        },
+                                        {
+                                          "kind": "NumberKeyword",
+                                          "text": "number",
+                                          "pos": 87,
+                                          "end": 93,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "kind": "EqualsGreaterThanToken",
+                                      "text": "=>",
+                                      "pos": 94,
+                                      "end": 96,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "item",
+                                      "pos": 96,
+                                      "end": 100,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 104,
+      "end": 104,
+      "children": []
+    }
+  ]
+}

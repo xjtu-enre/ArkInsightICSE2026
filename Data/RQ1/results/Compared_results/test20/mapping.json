@@ -1,0 +1,57 @@
+[
+  {
+    "our_uid": 3,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "all",
+    "normal_uid": 4,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "all",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 4,
+    "our_type": "STRING",
+    "our_raw_type": "StringLiteral",
+    "our_label": "./export",
+    "normal_uid": 5,
+    "normal_type": "STRING",
+    "normal_raw_type": "StringLiteral",
+    "normal_label": "'./export'",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "import * as all from './export'",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 1,
+    "our_type": "ImportDeclaration",
+    "our_raw_type": "ImportDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "ImportDeclaration",
+    "normal_raw_type": "ImportDeclaration",
+    "normal_label": "import * as all from './export'",
+    "confidence": 1.5
+  },
+  {
+    "our_uid": 2,
+    "our_type": "ImportNamespaceSpecifier",
+    "our_raw_type": "ImportNamespaceSpecifier",
+    "our_label": null,
+    "normal_uid": 3,
+    "normal_type": "NamespaceImport",
+    "normal_raw_type": "NamespaceImport",
+    "normal_label": "* as all",
+    "confidence": 1.0
+  }
+]

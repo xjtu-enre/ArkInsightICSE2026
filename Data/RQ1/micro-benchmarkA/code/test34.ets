@@ -1,0 +1,1 @@
+function A(s:boolean|undefined){return !!s};struct A{build(){Text({t:this.t!!})}}

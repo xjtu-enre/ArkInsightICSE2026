@@ -1,0 +1,1 @@
+struct A { build() { Column() { A();if(Text(a)){} }}}

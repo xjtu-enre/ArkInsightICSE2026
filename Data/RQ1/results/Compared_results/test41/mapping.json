@@ -1,0 +1,68 @@
+[
+  {
+    "our_uid": 4,
+    "our_type": "BLOCK",
+    "our_raw_type": "BlockStatement",
+    "our_label": null,
+    "normal_uid": 7,
+    "normal_type": "BLOCK",
+    "normal_raw_type": "Block",
+    "normal_label": "{}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 3,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "A",
+    "normal_uid": 3,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Build",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 6,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Build",
+    "normal_uid": 6,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "A",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 5,
+    "our_type": "DECORATOR",
+    "our_raw_type": "Decorator",
+    "our_label": "Build",
+    "normal_uid": 2,
+    "normal_type": "DECORATOR",
+    "normal_raw_type": "Decorator",
+    "normal_label": "@Build",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "@Build export default function A(){}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 2,
+    "our_type": "FunctionDeclaration",
+    "our_raw_type": "FunctionDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "FunctionDeclaration",
+    "normal_raw_type": "FunctionDeclaration",
+    "normal_label": "@Build export default function A(){}",
+    "confidence": 1.4
+  }
+]

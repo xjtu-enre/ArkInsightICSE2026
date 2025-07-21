@@ -1,0 +1,1 @@
+struct A{@State $value:number;build(){Text({t:$$this.$value})}}

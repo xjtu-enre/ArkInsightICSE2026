@@ -1,0 +1,187 @@
+{
+  "@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.func2(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM1())",
+    "@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.func3()",
+    "@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.func1(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM0(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM1()), unknown)"
+  ],
+  "@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.%AM1()",
+    "@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.foo(@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_function-importin/file1.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_function-importin/file1.ets: %dflt.paramFunc()",
+    "@my_cases/_implicit-args/_function-importin/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-importin/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_function-importing-with-alia/file1.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_function-importing-with-alia/file1.ets: %dflt.paramFunc()",
+    "@my_cases/_implicit-args/_function-importing-with-alia/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-importing-with-alia/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_function-importing-with-assignmen/file1.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_function-importing-with-assignmen/file1.ets: %dflt.paramFunc()",
+    "@my_cases/_implicit-args/_function-importing-with-assignmen/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-importing-with-assignmen/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.paramFunc()",
+    "@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.paramFunc()",
+    "@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.paramFunc(@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-args/_param-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-args/_param-call/file0.ets: %dflt.func2()",
+    "@my_cases/_implicit-args/_param-call/file0.ets: %dflt.%AM1()",
+    "@my_cases/_implicit-args/_param-call/file0.ets: %dflt.func(@my_cases/_implicit-args/_param-call/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-arkts/_buil/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-arkts/_buil/file0.ets: A.constructor(LocalStorage)"
+  ],
+  "@my_cases/_implicit-arkts/_decorator-/file0.ets: MyComponent1.build()": [
+    "@my_cases/_implicit-arkts/_decorator-/file0.ets: MyComponent1.%AM0$build()"
+  ],
+  "@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Index.build()": [
+    "@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Star.constructor(@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Star, LocalStorage)"
+  ],
+  "@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: A.constructor(LocalStorage)": [
+    "@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: A.%instInit()"
+  ],
+  "@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: B.build()": [
+    "@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: A.constructor(LocalStorage)",
+    "@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: B.%AM0$build()"
+  ],
+  "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: MyClass.func2()"
+  ],
+  "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: MyClass.func2()": [
+    "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: MyClass.func1()"
+  ],
+  "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: MyClass.func2()"
+  ],
+  "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: MyClass.func2()": [
+    "@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: MyClass.func1()"
+  ],
+  "@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: B.constructor()",
+    "@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: C.constructor()"
+  ],
+  "@my_cases/_implicit-class-calls/_call-and-assigned-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_call-and-assigned-call/file0.ets: MyClass.func()"
+  ],
+  "@my_cases/_implicit-class-calls/_call-returned-function/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_call-returned-function/file0.ets: MyClass.func1()"
+  ],
+  "@my_cases/_implicit-class-calls/_default-call-to-constructor/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_default-call-to-constructor/file0.ets: B.func()"
+  ],
+  "@my_cases/_implicit-class-calls/_field-assignments/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.constructor(@my_cases/_implicit-class-calls/_field-assignments/file0.ets: A)",
+    "@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.func()"
+  ],
+  "@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.func()": [
+    "@my_cases/_implicit-class-calls/_field-assignments/file0.ets: A.func()",
+    "@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.%AM0()"
+  ],
+  "@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.constructor()"
+  ],
+  "@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.constructor()": [
+    "@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.%AM0()",
+    "@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.%AM1()"
+  ],
+  "@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: A.funcA()"
+  ],
+  "@my_cases/_implicit-class-calls/_method-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_method-call/file0.ets: MyClass.[static]func()"
+  ],
+  "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: A.constructor()",
+    "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: A.func()"
+  ],
+  "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: B.func()": [
+    "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: C.func()"
+  ],
+  "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: B.constructor(@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: C)": [
+    "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: B.%instInit()"
+  ],
+  "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: A.func()": [
+    "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: B.constructor(@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: C)",
+    "@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: B.func()"
+  ],
+  "@my_cases/_implicit-class-calls/_parameter-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func2(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM0())",
+    "@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func3()",
+    "@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM2()), @my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM3())"
+  ],
+  "@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM2()), @my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM3())": [
+    "@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM3()"
+  ],
+  "@my_cases/_implicit-class-calls/_return-super-class-s-member/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_return-super-class-s-member/file0.ets: B.func2()"
+  ],
+  "@my_cases/_implicit-class-calls/_self-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.constructor()",
+    "@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.func2()"
+  ],
+  "@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.constructor()": [
+    "@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.func1()"
+  ],
+  "@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.func2()": [
+    "@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.func1()"
+  ],
+  "@my_cases/_implicit-class-calls/_super-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-class-calls/_super-call/file0.ets: C.constructor()"
+  ],
+  "@my_cases/_implicit-exception-calls/_exception-class-assigned/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-exception-calls/_exception-class-assigned/file0.ets: AError.constructor()"
+  ],
+  "@my_cases/_implicit-exception-calls/_throw/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-exception-calls/_throw/file0.ets: AError.constructor()"
+  ],
+  "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM6()",
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM7()",
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM8()",
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func1(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM3(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM4(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM5())"
+  ],
+  "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func2(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM1(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM2())": [
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM2()",
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func3(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM0())"
+  ],
+  "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func1(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM3(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM4(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM5())": [
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM4()",
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM5()",
+    "@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func2(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM1(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM2())"
+  ],
+  "@my_cases/_implicit-functions/_arrow-function-as-returned-value/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-functions/_arrow-function-as-returned-value/file0.ets: %dflt.func()"
+  ],
+  "@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM3(number)",
+    "@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.func2(@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM0(number))",
+    "@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM4(number)"
+  ],
+  "@my_cases/_implicit-functions/_call-returned-function/file2.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-functions/_call-returned-function/file1.ets: %dflt.func()"
+  ],
+  "@my_cases/_implicit-functions/_return-call/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-functions/_return-call/file0.ets: %dflt.func()"
+  ],
+  "@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.func3()",
+    "@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.func()"
+  ],
+  "@my_cases/_implicit-object-mechanism/_constant-parameter/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-object-mechanism/_constant-parameter/file0.ets: %dflt.foo(number)"
+  ],
+  "@my_cases/_implicit-object-mechanism/_param/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-object-mechanism/_param/file0.ets: %dflt.func(@my_cases/_implicit-object-mechanism/_param/file0.ets: OBJ)"
+  ],
+  "@my_cases/_implicit-object-mechanism/_return-object/file0.ets: %dflt.[static]%dflt()": [
+    "@my_cases/_implicit-object-mechanism/_return-object/file0.ets: %dflt.func1()"
+  ]
+}

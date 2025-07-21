@@ -1,0 +1,1 @@
+struct A{build(){Column(){Text().b(); Text()}.a();}}

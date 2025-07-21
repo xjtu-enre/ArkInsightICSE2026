@@ -1,0 +1,51 @@
+{
+  "kind": "SourceFile",
+  "text": "export default function A(){}",
+  "pos": 0,
+  "end": 29,
+  "children": [
+    {
+      "kind": "FunctionDeclaration",
+      "text": "export default function A(){}",
+      "pos": 0,
+      "end": 29,
+      "children": [
+        {
+          "kind": "ExportKeyword",
+          "text": "export",
+          "pos": 0,
+          "end": 6,
+          "children": []
+        },
+        {
+          "kind": "DefaultKeyword",
+          "text": "default",
+          "pos": 6,
+          "end": 14,
+          "children": []
+        },
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 23,
+          "end": 25,
+          "children": []
+        },
+        {
+          "kind": "Block",
+          "text": "{}",
+          "pos": 27,
+          "end": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 29,
+      "end": 29,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+struct Index{ @Builder foo() {this.c.builder()}}

@@ -1,0 +1,249 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A { build() { Column() { A(){}.a();if(Text(a)){} }}}",
+  "pos": 0,
+  "end": 59,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A { build() { Column() { A(){}.a();if(Text(a)){} }}}",
+      "pos": 0,
+      "end": 59,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build() { Column() { A(){}.a();if(Text(a)){} }}",
+          "pos": 10,
+          "end": 58,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 10,
+              "end": 16,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{ Column() { A(){}.a();if(Text(a)){} }}",
+              "pos": 18,
+              "end": 58,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "Column() { A(){}.a();if(Text(a)){} }",
+                  "pos": 20,
+                  "end": 57,
+                  "children": [
+                    {
+                      "kind": "EtsComponentExpression",
+                      "text": "Column() { A(){}.a();if(Text(a)){} }",
+                      "pos": 20,
+                      "end": 57,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "Column",
+                          "pos": 20,
+                          "end": 27,
+                          "children": []
+                        },
+                        {
+                          "kind": "Block",
+                          "text": "{ A(){}.a();if(Text(a)){} }",
+                          "pos": 29,
+                          "end": 57,
+                          "children": [
+                            {
+                              "kind": "ExpressionStatement",
+                              "text": "A(){}",
+                              "pos": 31,
+                              "end": 37,
+                              "children": [
+                                {
+                                  "kind": "EtsComponentExpression",
+                                  "text": "A(){}",
+                                  "pos": 31,
+                                  "end": 37,
+                                  "children": [
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "A",
+                                      "pos": 31,
+                                      "end": 33,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Block",
+                                      "text": "{}",
+                                      "pos": 35,
+                                      "end": 37,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "kind": "ExpressionStatement",
+                              "text": "a();",
+                              "pos": 38,
+                              "end": 42,
+                              "children": [
+                                {
+                                  "kind": "CallExpression",
+                                  "text": "a()",
+                                  "pos": 38,
+                                  "end": 41,
+                                  "children": [
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "a",
+                                      "pos": 38,
+                                      "end": 39,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "kind": "IfStatement",
+                              "text": "if(Text(a)){}",
+                              "pos": 42,
+                              "end": 55,
+                              "children": [
+                                {
+                                  "kind": "EtsComponentExpression",
+                                  "text": "Text(a)",
+                                  "pos": 45,
+                                  "end": 52,
+                                  "children": [
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "Text",
+                                      "pos": 45,
+                                      "end": 49,
+                                      "children": []
+                                    },
+                                    {
+                                      "kind": "Identifier",
+                                      "text": "a",
+                                      "pos": 50,
+                                      "end": 51,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "kind": "Block",
+                                  "text": "{}",
+                                  "pos": 53,
+                                  "end": 55,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 59,
+      "end": 59,
+      "children": []
+    }
+  ]
+}

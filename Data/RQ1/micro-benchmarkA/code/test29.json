@@ -1,0 +1,212 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A{build(){Text({t:this.t!!})}}",
+  "pos": 0,
+  "end": 37,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A{build(){Text({t:this.t!!})}}",
+      "pos": 0,
+      "end": 37,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build(){Text({t:this.t!!})}",
+          "pos": 9,
+          "end": 36,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 9,
+              "end": 14,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{Text({t:this.t!!})}",
+              "pos": 16,
+              "end": 36,
+              "children": [
+                {
+                  "kind": "ExpressionStatement",
+                  "text": "Text({t:this.t!!})",
+                  "pos": 17,
+                  "end": 35,
+                  "children": [
+                    {
+                      "kind": "EtsComponentExpression",
+                      "text": "Text({t:this.t!!})",
+                      "pos": 17,
+                      "end": 35,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "Text",
+                          "pos": 17,
+                          "end": 21,
+                          "children": []
+                        },
+                        {
+                          "kind": "ObjectLiteralExpression",
+                          "text": "{t:this.t!!}",
+                          "pos": 22,
+                          "end": 34,
+                          "children": [
+                            {
+                              "kind": "PropertyAssignment",
+                              "text": "t:this.t!!",
+                              "pos": 23,
+                              "end": 33,
+                              "children": [
+                                {
+                                  "kind": "Identifier",
+                                  "text": "t",
+                                  "pos": 23,
+                                  "end": 24,
+                                  "children": []
+                                },
+                                {
+                                  "kind": "NonNullExpression",
+                                  "text": "this.t!!",
+                                  "pos": 25,
+                                  "end": 33,
+                                  "children": [
+                                    {
+                                      "kind": "NonNullExpression",
+                                      "text": "this.t!",
+                                      "pos": 25,
+                                      "end": 32,
+                                      "children": [
+                                        {
+                                          "kind": "PropertyAccessExpression",
+                                          "text": "this.t",
+                                          "pos": 25,
+                                          "end": 31,
+                                          "children": [
+                                            {
+                                              "kind": "ThisKeyword",
+                                              "text": "this",
+                                              "pos": 25,
+                                              "end": 29,
+                                              "children": []
+                                            },
+                                            {
+                                              "kind": "Identifier",
+                                              "text": "t",
+                                              "pos": 30,
+                                              "end": 31,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 37,
+      "end": 37,
+      "children": []
+    }
+  ]
+}

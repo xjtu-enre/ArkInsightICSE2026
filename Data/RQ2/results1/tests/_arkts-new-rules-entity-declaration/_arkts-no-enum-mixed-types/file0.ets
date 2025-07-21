@@ -1,0 +1,14 @@
+enum E1 {
+    A = 0xa,
+    B = 0xb,
+    C = 0xc,
+    D = 0xd,
+    E // 推断出0xe
+}
+
+enum E2 {
+    A = "0xa",
+    B = "0xb",
+    C = "0xc",
+    D = "0xd"
+}

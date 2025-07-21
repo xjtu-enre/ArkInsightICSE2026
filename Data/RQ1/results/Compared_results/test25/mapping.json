@@ -1,0 +1,178 @@
+[
+  {
+    "our_uid": 2,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Foo",
+    "normal_uid": 4,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Extend",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 7,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Extend",
+    "normal_uid": 5,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Text",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 13,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Text",
+    "normal_uid": 6,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Foo",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 14,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "setsize",
+    "normal_uid": 8,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "a",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 15,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "a",
+    "normal_uid": 11,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 5,
+    "our_type": "NUMBER",
+    "our_raw_type": "TSNumberKeyword",
+    "our_label": null,
+    "normal_uid": 9,
+    "normal_type": "NUMBER",
+    "normal_raw_type": "NumberKeyword",
+    "normal_label": "number",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "@Extend(Text) function Foo(a:number){.setsize(a)}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 1,
+    "our_type": "FunctionDeclaration",
+    "our_raw_type": "FunctionDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "FunctionDeclaration",
+    "normal_raw_type": "FunctionDeclaration",
+    "normal_label": "@Extend(Text) function Foo(a:number){.setsize(a)}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 3,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "a",
+    "normal_uid": 18,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "a",
+    "confidence": 2.0
+  },
+  {
+    "our_uid": 4,
+    "our_type": "TYPE_ANN",
+    "our_raw_type": "TSTypeAnnotation",
+    "our_label": null,
+    "normal_uid": 7,
+    "normal_type": "PARAM",
+    "normal_raw_type": "Parameter",
+    "normal_label": "a:number",
+    "confidence": 0.5
+  },
+  {
+    "our_uid": 6,
+    "our_type": "DECORATOR",
+    "our_raw_type": "Decorator",
+    "our_label": "Extend",
+    "normal_uid": 2,
+    "normal_type": "DECORATOR",
+    "normal_raw_type": "Decorator",
+    "normal_label": "@Extend(Text)",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 8,
+    "our_type": "BLOCK",
+    "our_raw_type": "BlockStatement",
+    "our_label": null,
+    "normal_uid": 12,
+    "normal_type": "BLOCK",
+    "normal_raw_type": "Block",
+    "normal_label": "{.setsize(a)}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 9,
+    "our_type": "EXPR_STMT",
+    "our_raw_type": "ExpressionStatement",
+    "our_label": null,
+    "normal_uid": 13,
+    "normal_type": "EXPR_STMT",
+    "normal_raw_type": "ExpressionStatement",
+    "normal_label": ".setsize(a)",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 10,
+    "our_type": "CALL",
+    "our_raw_type": "ArkTSCallExpression",
+    "our_label": null,
+    "normal_uid": 3,
+    "normal_type": "CALL",
+    "normal_raw_type": "CallExpression",
+    "normal_label": "Extend(Text)",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 11,
+    "our_type": "MEMBER",
+    "our_raw_type": "MemberExpression",
+    "our_label": null,
+    "normal_uid": 15,
+    "normal_type": "MEMBER",
+    "normal_raw_type": "PropertyAccessExpression",
+    "normal_label": ".setsize",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 12,
+    "our_type": "CALL",
+    "our_raw_type": "ArkTSCallExpression",
+    "our_label": "Text",
+    "normal_uid": 14,
+    "normal_type": "CALL",
+    "normal_raw_type": "CallExpression",
+    "normal_label": ".setsize(a)",
+    "confidence": 1.0
+  }
+]

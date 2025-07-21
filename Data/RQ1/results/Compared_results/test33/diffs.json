@@ -1,0 +1,212 @@
+{
+  "our_only": [
+    {
+      "uid": 7,
+      "type": "TYPE_ANN",
+      "raw_type": "TSTypeAnnotation",
+      "label": null
+    },
+    {
+      "uid": 8,
+      "type": "TSStringKeyword",
+      "raw_type": "TSStringKeyword",
+      "label": null
+    }
+  ],
+  "normal_only": [
+    {
+      "uid": 3,
+      "type": "ExpressionWithTypeArguments",
+      "raw_type": "ExpressionWithTypeArguments",
+      "label": null
+    },
+    {
+      "uid": 5,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": null
+    },
+    {
+      "uid": 7,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 8,
+      "type": "TypeLiteral",
+      "raw_type": "TypeLiteral",
+      "label": null
+    },
+    {
+      "uid": 9,
+      "type": "PROP",
+      "raw_type": "PropertySignature",
+      "label": null
+    },
+    {
+      "uid": 11,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 12,
+      "type": "StringKeyword",
+      "raw_type": "StringKeyword",
+      "label": "string"
+    },
+    {
+      "uid": 13,
+      "type": "PARAM",
+      "raw_type": "Parameter",
+      "label": null
+    },
+    {
+      "uid": 15,
+      "type": "QuestionToken",
+      "raw_type": "QuestionToken",
+      "label": null
+    },
+    {
+      "uid": 16,
+      "type": "TypeReference",
+      "raw_type": "TypeReference",
+      "label": null
+    },
+    {
+      "uid": 23,
+      "type": "StringKeyword",
+      "raw_type": "StringKeyword",
+      "label": "string"
+    },
+    {
+      "uid": 32,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "$r"
+    },
+    {
+      "uid": 35,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "build"
+    },
+    {
+      "uid": 36,
+      "type": "BLOCK",
+      "raw_type": "Block",
+      "label": "{Text({size: $r('app.integer.placeholderFont_size')})}"
+    },
+    {
+      "uid": 39,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "Text"
+    },
+    {
+      "uid": 42,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "size"
+    },
+    {
+      "uid": 44,
+      "type": "Identifier",
+      "raw_type": "Identifier",
+      "label": "$r"
+    }
+  ],
+  "type_changes": [
+    {
+      "our_uid": 10,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 25,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "getContext().resourceManager.getStringSync",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 11,
+      "our_raw_type": "MemberExpression",
+      "our_label": null,
+      "normal_uid": 26,
+      "normal_raw_type": "PropertyAccessExpression",
+      "normal_label": "getContext().resourceManager",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 0,
+      "our_raw_type": "File",
+      "our_label": null,
+      "normal_uid": 0,
+      "normal_raw_type": "SourceFile",
+      "normal_label": "struct A{@State placeholder: string = getContext().resourceManager.getStringSync($r('app.string.placeholder'));build(){Text({size: $r('app.integer.placeholderFont_size')})}}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 1,
+      "our_raw_type": "ArkTSStructDeclaration",
+      "our_label": null,
+      "normal_uid": 1,
+      "normal_raw_type": "StructDeclaration",
+      "normal_label": "struct A{@State placeholder: string = getContext().resourceManager.getStringSync($r('app.string.placeholder'));build(){Text({size: $r('app.integer.placeholderFont_size')})}}",
+      "confidence": 1.1428571428571428
+    },
+    {
+      "our_uid": 3,
+      "our_raw_type": "ClassProperty",
+      "our_label": "{'type': 'CallExpression', 'start': 38, 'end': 110, 'loc': {'start': {'line': 1, 'column': 38, 'index': 38}, 'end': {'line': 1, 'column': 110, 'index': 110}}, 'callee': {'type': 'MemberExpression', 'start': 38, 'end': 80, 'loc': {'start': {'line': 1, 'column': 38, 'index': 38}, 'end': {'line': 1, 'column': 80, 'index': 80}}, 'object': {'type': 'MemberExpression', 'start': 38, 'end': 66, 'loc': {'start': {'line': 1, 'column': 38, 'index': 38}, 'end': {'line': 1, 'column': 66, 'index': 66}}, 'object': {'type': 'CallExpression', 'start': 38, 'end': 50, 'loc': {'start': {'line': 1, 'column': 38, 'index': 38}, 'end': {'line': 1, 'column': 50, 'index': 50}}, 'callee': {'type': 'Identifier', 'start': 38, 'end': 48, 'loc': {'start': {'line': 1, 'column': 38, 'index': 38}, 'end': {'line': 1, 'column': 48, 'index': 48}, 'identifierName': 'getContext'}, 'name': 'getContext'}, 'arguments': []}, 'computed': False, 'property': {'type': 'Identifier', 'start': 51, 'end': 66, 'loc': {'start': {'line': 1, 'column': 51, 'index': 51}, 'end': {'line': 1, 'column': 66, 'index': 66}, 'identifierName': 'resourceManager'}, 'name': 'resourceManager'}}, 'computed': False, 'property': {'type': 'Identifier', 'start': 67, 'end': 80, 'loc': {'start': {'line': 1, 'column': 67, 'index': 67}, 'end': {'line': 1, 'column': 80, 'index': 80}, 'identifierName': 'getStringSync'}, 'name': 'getStringSync'}}, 'arguments': [{'type': 'CallExpression', 'start': 81, 'end': 109, 'loc': {'start': {'line': 1, 'column': 81, 'index': 81}, 'end': {'line': 1, 'column': 109, 'index': 109}}, 'callee': {'type': 'Identifier', 'start': 81, 'end': 83, 'loc': {'start': {'line': 1, 'column': 81, 'index': 81}, 'end': {'line': 1, 'column': 83, 'index': 83}, 'identifierName': '$r'}, 'name': '$r'}, 'arguments': [{'type': 'StringLiteral', 'start': 84, 'end': 108, 'loc': {'start': {'line': 1, 'column': 84, 'index': 84}, 'end': {'line': 1, 'column': 108, 'index': 108}}, 'extra': {'rawValue': 'app.string.placeholder', 'raw': \"'app.string.placeholder'\"}, 'value': 'app.string.placeholder'}]}]}",
+      "normal_uid": 19,
+      "normal_raw_type": "PropertyDeclaration",
+      "normal_label": "@State placeholder: string = getContext().resourceManager.getStringSync($r('app.string.placeholder'));",
+      "confidence": 1.5
+    },
+    {
+      "our_uid": 19,
+      "our_raw_type": "ClassMethod",
+      "our_label": null,
+      "normal_uid": 34,
+      "normal_raw_type": "MethodDeclaration",
+      "normal_label": "build(){Text({size: $r('app.integer.placeholderFont_size')})}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 21,
+      "our_raw_type": "BlockStatement",
+      "our_label": null,
+      "normal_uid": 18,
+      "normal_raw_type": "Block",
+      "normal_label": null,
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 23,
+      "our_raw_type": "ArkTSCallExpression",
+      "our_label": "Text",
+      "normal_uid": 38,
+      "normal_raw_type": "EtsComponentExpression",
+      "normal_label": "Text({size: $r('app.integer.placeholderFont_size')})",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 25,
+      "our_raw_type": "ObjectExpression",
+      "our_label": null,
+      "normal_uid": 40,
+      "normal_raw_type": "ObjectLiteralExpression",
+      "normal_label": "{size: $r('app.integer.placeholderFont_size')}",
+      "confidence": 1.0
+    },
+    {
+      "our_uid": 26,
+      "our_raw_type": "ObjectProperty",
+      "our_label": "{'type': 'CallExpression', 'start': 131, 'end': 169, 'loc': {'start': {'line': 1, 'column': 131, 'index': 131}, 'end': {'line': 1, 'column': 169, 'index': 169}}, 'callee': {'type': 'Identifier', 'start': 131, 'end': 133, 'loc': {'start': {'line': 1, 'column': 131, 'index': 131}, 'end': {'line': 1, 'column': 133, 'index': 133}, 'identifierName': '$r'}, 'name': '$r'}, 'arguments': [{'type': 'StringLiteral', 'start': 134, 'end': 168, 'loc': {'start': {'line': 1, 'column': 134, 'index': 134}, 'end': {'line': 1, 'column': 168, 'index': 168}}, 'extra': {'rawValue': 'app.integer.placeholderFont_size', 'raw': \"'app.integer.placeholderFont_size'\"}, 'value': 'app.integer.placeholderFont_size'}]}",
+      "normal_uid": 41,
+      "normal_raw_type": "PropertyAssignment",
+      "normal_label": "size: $r('app.integer.placeholderFont_size')",
+      "confidence": 0.5
+    }
+  ]
+}

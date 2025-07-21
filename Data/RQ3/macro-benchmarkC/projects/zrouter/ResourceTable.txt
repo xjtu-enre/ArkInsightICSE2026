@@ -1,0 +1,2 @@
+string agcit_router_tools 0x01000001
+string page_show 0x01000000

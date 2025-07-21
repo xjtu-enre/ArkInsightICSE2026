@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "zr_pull_down_to_refresh",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "zr_release_to_refresh",
+      "value": "释放立即刷新"
+    },
+    {
+      "name": "zr_release_to_open_age",
+      "value": "释放打开其他页面"
+    },
+    {
+      "name": "zr_refreshing",
+      "value": "正在刷新..."
+    },
+    {
+      "name": "zr_refresh_success",
+      "value": "刷新完成"
+    },
+    {
+      "name": "zr_refresh_error",
+      "value": "刷新失败"
+    },
+    {
+      "name": "zr_last_update",
+      "value": "上次更新:"
+    },
+    {
+      "name": "zr_seconds_ago",
+      "value": " 秒之前"
+    },
+    {
+      "name": "zr_minutes_ago",
+      "value": " 分钟之前"
+    },
+    {
+      "name": "zr_hours_ago",
+      "value": " 小时之前"
+    },
+    {
+      "name": "zr_days_ago",
+      "value": " 天之前"
+    },
+    {
+      "name": "zr_pull_up_to_load",
+      "value": "上拉加载"
+    },
+    {
+      "name": "zr_release_to_load",
+      "value": "释放立即加载"
+    },
+    {
+      "name": "zr_loading",
+      "value": "正在加载..."
+    },
+    {
+      "name": "zr_load_success",
+      "value": "加载完成"
+    },
+    {
+      "name": "zr_load_error",
+      "value": "加载失败"
+    },
+    {
+      "name": "zr_load_no_more",
+      "value": "暂无更多"
+    }
+  ]
+}

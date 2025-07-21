@@ -1,0 +1,1 @@
+let regex: RegExp = new RegExp("/bc*d/")

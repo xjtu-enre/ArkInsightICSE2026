@@ -1,0 +1,188 @@
+{
+  "kind": "SourceFile",
+  "text": "struct A { build() {}} @Builder function Foo(){A();}",
+  "pos": 0,
+  "end": 52,
+  "children": [
+    {
+      "kind": "StructDeclaration",
+      "text": "struct A { build() {}}",
+      "pos": 0,
+      "end": 22,
+      "children": [
+        {
+          "kind": "Identifier",
+          "text": "A",
+          "pos": 6,
+          "end": 8,
+          "children": []
+        },
+        {
+          "kind": "HeritageClause",
+          "text": "",
+          "pos": 8,
+          "end": 8,
+          "children": [
+            {
+              "kind": "ExpressionWithTypeArguments",
+              "text": "",
+              "pos": 8,
+              "end": 8,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 8,
+                  "end": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "text": "",
+          "pos": 0,
+          "end": 0,
+          "children": [
+            {
+              "kind": "Parameter",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "QuestionToken",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": []
+                },
+                {
+                  "kind": "TypeReference",
+                  "text": "",
+                  "pos": 0,
+                  "end": 0,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "",
+                      "pos": 0,
+                      "end": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "Block",
+              "text": "",
+              "pos": 0,
+              "end": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "MethodDeclaration",
+          "text": "build() {}",
+          "pos": 10,
+          "end": 21,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "build",
+              "pos": 10,
+              "end": 16,
+              "children": []
+            },
+            {
+              "kind": "Block",
+              "text": "{}",
+              "pos": 18,
+              "end": 21,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "FunctionDeclaration",
+      "text": "@Builder function Foo(){A();}",
+      "pos": 22,
+      "end": 52,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@Builder",
+          "pos": 22,
+          "end": 31,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "Builder",
+              "pos": 24,
+              "end": 31,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "Identifier",
+          "text": "Foo",
+          "pos": 40,
+          "end": 44,
+          "children": []
+        },
+        {
+          "kind": "Block",
+          "text": "{A();}",
+          "pos": 46,
+          "end": 52,
+          "children": [
+            {
+              "kind": "ExpressionStatement",
+              "text": "A();",
+              "pos": 47,
+              "end": 51,
+              "children": [
+                {
+                  "kind": "CallExpression",
+                  "text": "A()",
+                  "pos": 47,
+                  "end": 50,
+                  "children": [
+                    {
+                      "kind": "Identifier",
+                      "text": "A",
+                      "pos": 47,
+                      "end": 48,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 52,
+      "end": 52,
+      "children": []
+    }
+  ]
+}

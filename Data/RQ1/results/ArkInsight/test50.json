@@ -1,0 +1,1313 @@
+{
+  "type": "File",
+  "start": 0,
+  "end": 210,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 210,
+      "index": 210
+    }
+  },
+  "errors": [],
+  "program": {
+    "type": "Program",
+    "start": 0,
+    "end": 210,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 0,
+        "index": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 210,
+        "index": 210
+      }
+    },
+    "sourceType": "module",
+    "interpreter": null,
+    "body": [
+      {
+        "type": "ArkTSStructDeclaration",
+        "start": 0,
+        "end": 210,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "index": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 210,
+            "index": 210
+          }
+        },
+        "id": {
+          "type": "Identifier",
+          "start": 7,
+          "end": 8,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 7,
+              "index": 7
+            },
+            "end": {
+              "line": 1,
+              "column": 8,
+              "index": 8
+            },
+            "identifierName": "A"
+          },
+          "name": "A"
+        },
+        "body": {
+          "type": "ClassBody",
+          "start": 9,
+          "end": 210,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 9,
+              "index": 9
+            },
+            "end": {
+              "line": 1,
+              "column": 210,
+              "index": 210
+            }
+          },
+          "body": [
+            {
+              "type": "ClassMethod",
+              "start": 11,
+              "end": 209,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 11,
+                  "index": 11
+                },
+                "end": {
+                  "line": 1,
+                  "column": 209,
+                  "index": 209
+                }
+              },
+              "static": false,
+              "key": {
+                "type": "Identifier",
+                "start": 11,
+                "end": 16,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 11,
+                    "index": 11
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 16,
+                    "index": 16
+                  },
+                  "identifierName": "build"
+                },
+                "name": "build"
+              },
+              "computed": false,
+              "kind": "build",
+              "id": null,
+              "generator": false,
+              "async": false,
+              "params": [],
+              "body": {
+                "type": "BlockStatement",
+                "start": 19,
+                "end": 209,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 19,
+                    "index": 19
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 209,
+                    "index": 209
+                  }
+                },
+                "body": [
+                  {
+                    "type": "ExpressionStatement",
+                    "start": 21,
+                    "end": 208,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 21,
+                        "index": 21
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 208,
+                        "index": 208
+                      }
+                    },
+                    "expression": {
+                      "type": "ArkTSCallExpression",
+                      "start": 21,
+                      "end": 208,
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 21,
+                          "index": 21
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 208,
+                          "index": 208
+                        }
+                      },
+                      "callee": {
+                        "type": "Identifier",
+                        "start": 21,
+                        "end": 27,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 21,
+                            "index": 21
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 27,
+                            "index": 27
+                          },
+                          "identifierName": "Column"
+                        },
+                        "name": "Column"
+                      },
+                      "arguments": [],
+                      "trailingClosure": {
+                        "type": "BlockStatement",
+                        "start": 30,
+                        "end": 208,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 30,
+                            "index": 30
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 208,
+                            "index": 208
+                          }
+                        },
+                        "body": [
+                          {
+                            "type": "ExpressionStatement",
+                            "start": 32,
+                            "end": 206,
+                            "loc": {
+                              "start": {
+                                "line": 1,
+                                "column": 32,
+                                "index": 32
+                              },
+                              "end": {
+                                "line": 1,
+                                "column": 206,
+                                "index": 206
+                              }
+                            },
+                            "expression": {
+                              "type": "ArkTSCallExpression",
+                              "start": 32,
+                              "end": 206,
+                              "loc": {
+                                "start": {
+                                  "line": 1,
+                                  "column": 32,
+                                  "index": 32
+                                },
+                                "end": {
+                                  "line": 1,
+                                  "column": 206,
+                                  "index": 206
+                                }
+                              },
+                              "callee": {
+                                "type": "Identifier",
+                                "start": 32,
+                                "end": 39,
+                                "loc": {
+                                  "start": {
+                                    "line": 1,
+                                    "column": 32,
+                                    "index": 32
+                                  },
+                                  "end": {
+                                    "line": 1,
+                                    "column": 39,
+                                    "index": 39
+                                  },
+                                  "identifierName": "ForEach"
+                                },
+                                "name": "ForEach"
+                              },
+                              "arguments": [
+                                {
+                                  "type": "ThisExpression",
+                                  "start": 40,
+                                  "end": 44,
+                                  "loc": {
+                                    "start": {
+                                      "line": 1,
+                                      "column": 40,
+                                      "index": 40
+                                    },
+                                    "end": {
+                                      "line": 1,
+                                      "column": 44,
+                                      "index": 44
+                                    }
+                                  }
+                                },
+                                {
+                                  "type": "ArrowFunctionExpression",
+                                  "start": 45,
+                                  "end": 185,
+                                  "loc": {
+                                    "start": {
+                                      "line": 1,
+                                      "column": 45,
+                                      "index": 45
+                                    },
+                                    "end": {
+                                      "line": 1,
+                                      "column": 185,
+                                      "index": 185
+                                    }
+                                  },
+                                  "id": null,
+                                  "generator": false,
+                                  "async": false,
+                                  "params": [
+                                    {
+                                      "type": "Identifier",
+                                      "start": 46,
+                                      "end": 57,
+                                      "loc": {
+                                        "start": {
+                                          "line": 1,
+                                          "column": 46,
+                                          "index": 46
+                                        },
+                                        "end": {
+                                          "line": 1,
+                                          "column": 57,
+                                          "index": 57
+                                        },
+                                        "identifierName": "item"
+                                      },
+                                      "name": "item",
+                                      "typeAnnotation": {
+                                        "type": "TSTypeAnnotation",
+                                        "start": 50,
+                                        "end": 57,
+                                        "loc": {
+                                          "start": {
+                                            "line": 1,
+                                            "column": 50,
+                                            "index": 50
+                                          },
+                                          "end": {
+                                            "line": 1,
+                                            "column": 57,
+                                            "index": 57
+                                          }
+                                        },
+                                        "typeAnnotation": {
+                                          "type": "TSStringKeyword",
+                                          "start": 51,
+                                          "end": 57,
+                                          "loc": {
+                                            "start": {
+                                              "line": 1,
+                                              "column": 51,
+                                              "index": 51
+                                            },
+                                            "end": {
+                                              "line": 1,
+                                              "column": 57,
+                                              "index": 57
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "body": {
+                                    "type": "BlockStatement",
+                                    "start": 60,
+                                    "end": 185,
+                                    "loc": {
+                                      "start": {
+                                        "line": 1,
+                                        "column": 60,
+                                        "index": 60
+                                      },
+                                      "end": {
+                                        "line": 1,
+                                        "column": 185,
+                                        "index": 185
+                                      }
+                                    },
+                                    "body": [
+                                      {
+                                        "type": "ExpressionStatement",
+                                        "start": 62,
+                                        "end": 171,
+                                        "loc": {
+                                          "start": {
+                                            "line": 1,
+                                            "column": 62,
+                                            "index": 62
+                                          },
+                                          "end": {
+                                            "line": 1,
+                                            "column": 171,
+                                            "index": 171
+                                          }
+                                        },
+                                        "expression": {
+                                          "type": "ArkTSCallExpression",
+                                          "start": 62,
+                                          "end": 170,
+                                          "loc": {
+                                            "start": {
+                                              "line": 1,
+                                              "column": 62,
+                                              "index": 62
+                                            },
+                                            "end": {
+                                              "line": 1,
+                                              "column": 170,
+                                              "index": 170
+                                            }
+                                          },
+                                          "callee": {
+                                            "type": "Identifier",
+                                            "start": 62,
+                                            "end": 69,
+                                            "loc": {
+                                              "start": {
+                                                "line": 1,
+                                                "column": 62,
+                                                "index": 62
+                                              },
+                                              "end": {
+                                                "line": 1,
+                                                "column": 69,
+                                                "index": 69
+                                              },
+                                              "identifierName": "ForEach"
+                                            },
+                                            "name": "ForEach"
+                                          },
+                                          "arguments": [
+                                            {
+                                              "type": "ThisExpression",
+                                              "start": 70,
+                                              "end": 74,
+                                              "loc": {
+                                                "start": {
+                                                  "line": 1,
+                                                  "column": 70,
+                                                  "index": 70
+                                                },
+                                                "end": {
+                                                  "line": 1,
+                                                  "column": 74,
+                                                  "index": 74
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "type": "ArrowFunctionExpression",
+                                              "start": 75,
+                                              "end": 149,
+                                              "loc": {
+                                                "start": {
+                                                  "line": 1,
+                                                  "column": 75,
+                                                  "index": 75
+                                                },
+                                                "end": {
+                                                  "line": 1,
+                                                  "column": 149,
+                                                  "index": 149
+                                                }
+                                              },
+                                              "id": null,
+                                              "generator": false,
+                                              "async": false,
+                                              "params": [
+                                                {
+                                                  "type": "Identifier",
+                                                  "start": 76,
+                                                  "end": 87,
+                                                  "loc": {
+                                                    "start": {
+                                                      "line": 1,
+                                                      "column": 76,
+                                                      "index": 76
+                                                    },
+                                                    "end": {
+                                                      "line": 1,
+                                                      "column": 87,
+                                                      "index": 87
+                                                    },
+                                                    "identifierName": "item"
+                                                  },
+                                                  "name": "item",
+                                                  "typeAnnotation": {
+                                                    "type": "TSTypeAnnotation",
+                                                    "start": 80,
+                                                    "end": 87,
+                                                    "loc": {
+                                                      "start": {
+                                                        "line": 1,
+                                                        "column": 80,
+                                                        "index": 80
+                                                      },
+                                                      "end": {
+                                                        "line": 1,
+                                                        "column": 87,
+                                                        "index": 87
+                                                      }
+                                                    },
+                                                    "typeAnnotation": {
+                                                      "type": "TSStringKeyword",
+                                                      "start": 81,
+                                                      "end": 87,
+                                                      "loc": {
+                                                        "start": {
+                                                          "line": 1,
+                                                          "column": 81,
+                                                          "index": 81
+                                                        },
+                                                        "end": {
+                                                          "line": 1,
+                                                          "column": 87,
+                                                          "index": 87
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              ],
+                                              "body": {
+                                                "type": "BlockStatement",
+                                                "start": 90,
+                                                "end": 149,
+                                                "loc": {
+                                                  "start": {
+                                                    "line": 1,
+                                                    "column": 90,
+                                                    "index": 90
+                                                  },
+                                                  "end": {
+                                                    "line": 1,
+                                                    "column": 149,
+                                                    "index": 149
+                                                  }
+                                                },
+                                                "body": [
+                                                  {
+                                                    "type": "IfStatement",
+                                                    "start": 92,
+                                                    "end": 147,
+                                                    "loc": {
+                                                      "start": {
+                                                        "line": 1,
+                                                        "column": 92,
+                                                        "index": 92
+                                                      },
+                                                      "end": {
+                                                        "line": 1,
+                                                        "column": 147,
+                                                        "index": 147
+                                                      }
+                                                    },
+                                                    "test": {
+                                                      "type": "NumericLiteral",
+                                                      "start": 95,
+                                                      "end": 96,
+                                                      "loc": {
+                                                        "start": {
+                                                          "line": 1,
+                                                          "column": 95,
+                                                          "index": 95
+                                                        },
+                                                        "end": {
+                                                          "line": 1,
+                                                          "column": 96,
+                                                          "index": 96
+                                                        }
+                                                      },
+                                                      "extra": {
+                                                        "rawValue": 1,
+                                                        "raw": "1"
+                                                      },
+                                                      "value": 1
+                                                    },
+                                                    "consequent": {
+                                                      "type": "BlockStatement",
+                                                      "start": 97,
+                                                      "end": 111,
+                                                      "loc": {
+                                                        "start": {
+                                                          "line": 1,
+                                                          "column": 97,
+                                                          "index": 97
+                                                        },
+                                                        "end": {
+                                                          "line": 1,
+                                                          "column": 111,
+                                                          "index": 111
+                                                        }
+                                                      },
+                                                      "body": [
+                                                        {
+                                                          "type": "ExpressionStatement",
+                                                          "start": 98,
+                                                          "end": 110,
+                                                          "loc": {
+                                                            "start": {
+                                                              "line": 1,
+                                                              "column": 98,
+                                                              "index": 98
+                                                            },
+                                                            "end": {
+                                                              "line": 1,
+                                                              "column": 110,
+                                                              "index": 110
+                                                            }
+                                                          },
+                                                          "expression": {
+                                                            "type": "ArkTSCallExpression",
+                                                            "start": 98,
+                                                            "end": 110,
+                                                            "loc": {
+                                                              "start": {
+                                                                "line": 1,
+                                                                "column": 98,
+                                                                "index": 98
+                                                              },
+                                                              "end": {
+                                                                "line": 1,
+                                                                "column": 110,
+                                                                "index": 110
+                                                              }
+                                                            },
+                                                            "callee": {
+                                                              "type": "MemberExpression",
+                                                              "start": 98,
+                                                              "end": 108,
+                                                              "loc": {
+                                                                "start": {
+                                                                  "line": 1,
+                                                                  "column": 98,
+                                                                  "index": 98
+                                                                },
+                                                                "end": {
+                                                                  "line": 1,
+                                                                  "column": 108,
+                                                                  "index": 108
+                                                                }
+                                                              },
+                                                              "object": {
+                                                                "type": "ArkTSCallExpression",
+                                                                "start": 98,
+                                                                "end": 106,
+                                                                "loc": {
+                                                                  "start": {
+                                                                    "line": 1,
+                                                                    "column": 98,
+                                                                    "index": 98
+                                                                  },
+                                                                  "end": {
+                                                                    "line": 1,
+                                                                    "column": 106,
+                                                                    "index": 106
+                                                                  }
+                                                                },
+                                                                "callee": {
+                                                                  "type": "Identifier",
+                                                                  "start": 98,
+                                                                  "end": 101,
+                                                                  "loc": {
+                                                                    "start": {
+                                                                      "line": 1,
+                                                                      "column": 98,
+                                                                      "index": 98
+                                                                    },
+                                                                    "end": {
+                                                                      "line": 1,
+                                                                      "column": 101,
+                                                                      "index": 101
+                                                                    },
+                                                                    "identifierName": "Row"
+                                                                  },
+                                                                  "name": "Row"
+                                                                },
+                                                                "arguments": [
+                                                                  {
+                                                                    "type": "StringLiteral",
+                                                                    "start": 102,
+                                                                    "end": 105,
+                                                                    "loc": {
+                                                                      "start": {
+                                                                        "line": 1,
+                                                                        "column": 102,
+                                                                        "index": 102
+                                                                      },
+                                                                      "end": {
+                                                                        "line": 1,
+                                                                        "column": 105,
+                                                                        "index": 105
+                                                                      }
+                                                                    },
+                                                                    "extra": {
+                                                                      "rawValue": "a",
+                                                                      "raw": "'a'"
+                                                                    },
+                                                                    "value": "a"
+                                                                  }
+                                                                ]
+                                                              },
+                                                              "property": {
+                                                                "type": "Identifier",
+                                                                "start": 107,
+                                                                "end": 108,
+                                                                "loc": {
+                                                                  "start": {
+                                                                    "line": 1,
+                                                                    "column": 107,
+                                                                    "index": 107
+                                                                  },
+                                                                  "end": {
+                                                                    "line": 1,
+                                                                    "column": 108,
+                                                                    "index": 108
+                                                                  },
+                                                                  "identifierName": "b"
+                                                                },
+                                                                "name": "b"
+                                                              }
+                                                            },
+                                                            "arguments": []
+                                                          }
+                                                        }
+                                                      ]
+                                                    },
+                                                    "alternate": {
+                                                      "type": "",
+                                                      "start": 111,
+                                                      "end": 0,
+                                                      "loc": {
+                                                        "start": {
+                                                          "line": 1,
+                                                          "column": 111,
+                                                          "index": 111
+                                                        }
+                                                      },
+                                                      "body": [
+                                                        {
+                                                          "type": "IfStatement",
+                                                          "start": 116,
+                                                          "end": 147,
+                                                          "loc": {
+                                                            "start": {
+                                                              "line": 1,
+                                                              "column": 116,
+                                                              "index": 116
+                                                            },
+                                                            "end": {
+                                                              "line": 1,
+                                                              "column": 147,
+                                                              "index": 147
+                                                            }
+                                                          },
+                                                          "test": {
+                                                            "type": "Identifier",
+                                                            "start": 119,
+                                                            "end": 120,
+                                                            "loc": {
+                                                              "start": {
+                                                                "line": 1,
+                                                                "column": 119,
+                                                                "index": 119
+                                                              },
+                                                              "end": {
+                                                                "line": 1,
+                                                                "column": 120,
+                                                                "index": 120
+                                                              },
+                                                              "identifierName": "b"
+                                                            },
+                                                            "name": "b"
+                                                          },
+                                                          "consequent": {
+                                                            "type": "BlockStatement",
+                                                            "start": 121,
+                                                            "end": 132,
+                                                            "loc": {
+                                                              "start": {
+                                                                "line": 1,
+                                                                "column": 121,
+                                                                "index": 121
+                                                              },
+                                                              "end": {
+                                                                "line": 1,
+                                                                "column": 132,
+                                                                "index": 132
+                                                              }
+                                                            },
+                                                            "body": [
+                                                              {
+                                                                "type": "ExpressionStatement",
+                                                                "start": 122,
+                                                                "end": 131,
+                                                                "loc": {
+                                                                  "start": {
+                                                                    "line": 1,
+                                                                    "column": 122,
+                                                                    "index": 122
+                                                                  },
+                                                                  "end": {
+                                                                    "line": 1,
+                                                                    "column": 131,
+                                                                    "index": 131
+                                                                  }
+                                                                },
+                                                                "expression": {
+                                                                  "type": "ArkTSCallExpression",
+                                                                  "start": 122,
+                                                                  "end": 131,
+                                                                  "loc": {
+                                                                    "start": {
+                                                                      "line": 1,
+                                                                      "column": 122,
+                                                                      "index": 122
+                                                                    },
+                                                                    "end": {
+                                                                      "line": 1,
+                                                                      "column": 131,
+                                                                      "index": 131
+                                                                    }
+                                                                  },
+                                                                  "callee": {
+                                                                    "type": "Identifier",
+                                                                    "start": 122,
+                                                                    "end": 126,
+                                                                    "loc": {
+                                                                      "start": {
+                                                                        "line": 1,
+                                                                        "column": 122,
+                                                                        "index": 122
+                                                                      },
+                                                                      "end": {
+                                                                        "line": 1,
+                                                                        "column": 126,
+                                                                        "index": 126
+                                                                      },
+                                                                      "identifierName": "Text"
+                                                                    },
+                                                                    "name": "Text"
+                                                                  },
+                                                                  "arguments": [
+                                                                    {
+                                                                      "type": "StringLiteral",
+                                                                      "start": 127,
+                                                                      "end": 130,
+                                                                      "loc": {
+                                                                        "start": {
+                                                                          "line": 1,
+                                                                          "column": 127,
+                                                                          "index": 127
+                                                                        },
+                                                                        "end": {
+                                                                          "line": 1,
+                                                                          "column": 130,
+                                                                          "index": 130
+                                                                        }
+                                                                      },
+                                                                      "extra": {
+                                                                        "rawValue": "c",
+                                                                        "raw": "'c'"
+                                                                      },
+                                                                      "value": "c"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              }
+                                                            ]
+                                                          },
+                                                          "alternate": {
+                                                            "type": "BlockStatement",
+                                                            "start": 132,
+                                                            "end": 147,
+                                                            "loc": {
+                                                              "start": {
+                                                                "line": 1,
+                                                                "column": 132,
+                                                                "index": 132
+                                                              },
+                                                              "end": {
+                                                                "line": 1,
+                                                                "column": 147,
+                                                                "index": 147
+                                                              }
+                                                            },
+                                                            "body": [
+                                                              {
+                                                                "type": "ExpressionStatement",
+                                                                "start": 137,
+                                                                "end": 146,
+                                                                "loc": {
+                                                                  "start": {
+                                                                    "line": 1,
+                                                                    "column": 137,
+                                                                    "index": 137
+                                                                  },
+                                                                  "end": {
+                                                                    "line": 1,
+                                                                    "column": 146,
+                                                                    "index": 146
+                                                                  }
+                                                                },
+                                                                "expression": {
+                                                                  "type": "ArkTSCallExpression",
+                                                                  "start": 137,
+                                                                  "end": 146,
+                                                                  "loc": {
+                                                                    "start": {
+                                                                      "line": 1,
+                                                                      "column": 137,
+                                                                      "index": 137
+                                                                    },
+                                                                    "end": {
+                                                                      "line": 1,
+                                                                      "column": 146,
+                                                                      "index": 146
+                                                                    }
+                                                                  },
+                                                                  "callee": {
+                                                                    "type": "Identifier",
+                                                                    "start": 137,
+                                                                    "end": 141,
+                                                                    "loc": {
+                                                                      "start": {
+                                                                        "line": 1,
+                                                                        "column": 137,
+                                                                        "index": 137
+                                                                      },
+                                                                      "end": {
+                                                                        "line": 1,
+                                                                        "column": 141,
+                                                                        "index": 141
+                                                                      },
+                                                                      "identifierName": "Text"
+                                                                    },
+                                                                    "name": "Text"
+                                                                  },
+                                                                  "arguments": [
+                                                                    {
+                                                                      "type": "StringLiteral",
+                                                                      "start": 142,
+                                                                      "end": 145,
+                                                                      "loc": {
+                                                                        "start": {
+                                                                          "line": 1,
+                                                                          "column": 142,
+                                                                          "index": 142
+                                                                        },
+                                                                        "end": {
+                                                                          "line": 1,
+                                                                          "column": 145,
+                                                                          "index": 145
+                                                                        }
+                                                                      },
+                                                                      "extra": {
+                                                                        "rawValue": "v",
+                                                                        "raw": "'v'"
+                                                                      },
+                                                                      "value": "v"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              }
+                                                            ]
+                                                          }
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
+                                              "type": "ArrowFunctionExpression",
+                                              "start": 150,
+                                              "end": 169,
+                                              "loc": {
+                                                "start": {
+                                                  "line": 1,
+                                                  "column": 150,
+                                                  "index": 150
+                                                },
+                                                "end": {
+                                                  "line": 1,
+                                                  "column": 169,
+                                                  "index": 169
+                                                }
+                                              },
+                                              "id": null,
+                                              "generator": false,
+                                              "async": false,
+                                              "params": [
+                                                {
+                                                  "type": "Identifier",
+                                                  "start": 151,
+                                                  "end": 162,
+                                                  "loc": {
+                                                    "start": {
+                                                      "line": 1,
+                                                      "column": 151,
+                                                      "index": 151
+                                                    },
+                                                    "end": {
+                                                      "line": 1,
+                                                      "column": 162,
+                                                      "index": 162
+                                                    },
+                                                    "identifierName": "item"
+                                                  },
+                                                  "name": "item",
+                                                  "typeAnnotation": {
+                                                    "type": "TSTypeAnnotation",
+                                                    "start": 155,
+                                                    "end": 162,
+                                                    "loc": {
+                                                      "start": {
+                                                        "line": 1,
+                                                        "column": 155,
+                                                        "index": 155
+                                                      },
+                                                      "end": {
+                                                        "line": 1,
+                                                        "column": 162,
+                                                        "index": 162
+                                                      }
+                                                    },
+                                                    "typeAnnotation": {
+                                                      "type": "TSNumberKeyword",
+                                                      "start": 156,
+                                                      "end": 162,
+                                                      "loc": {
+                                                        "start": {
+                                                          "line": 1,
+                                                          "column": 156,
+                                                          "index": 156
+                                                        },
+                                                        "end": {
+                                                          "line": 1,
+                                                          "column": 162,
+                                                          "index": 162
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              ],
+                                              "body": {
+                                                "type": "Identifier",
+                                                "start": 165,
+                                                "end": 169,
+                                                "loc": {
+                                                  "start": {
+                                                    "line": 1,
+                                                    "column": 165,
+                                                    "index": 165
+                                                  },
+                                                  "end": {
+                                                    "line": 1,
+                                                    "column": 169,
+                                                    "index": 169
+                                                  },
+                                                  "identifierName": "item"
+                                                },
+                                                "name": "item"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      {
+                                        "type": "ExpressionStatement",
+                                        "start": 172,
+                                        "end": 184,
+                                        "loc": {
+                                          "start": {
+                                            "line": 1,
+                                            "column": 172,
+                                            "index": 172
+                                          },
+                                          "end": {
+                                            "line": 1,
+                                            "column": 184,
+                                            "index": 184
+                                          }
+                                        },
+                                        "expression": {
+                                          "type": "ArkTSCallExpression",
+                                          "start": 172,
+                                          "end": 184,
+                                          "loc": {
+                                            "start": {
+                                              "line": 1,
+                                              "column": 172,
+                                              "index": 172
+                                            },
+                                            "end": {
+                                              "line": 1,
+                                              "column": 184,
+                                              "index": 184
+                                            }
+                                          },
+                                          "callee": {
+                                            "type": "MemberExpression",
+                                            "start": 172,
+                                            "end": 182,
+                                            "loc": {
+                                              "start": {
+                                                "line": 1,
+                                                "column": 172,
+                                                "index": 172
+                                              },
+                                              "end": {
+                                                "line": 1,
+                                                "column": 182,
+                                                "index": 182
+                                              }
+                                            },
+                                            "object": {
+                                              "type": "ArkTSCallExpression",
+                                              "start": 172,
+                                              "end": 180,
+                                              "loc": {
+                                                "start": {
+                                                  "line": 1,
+                                                  "column": 172,
+                                                  "index": 172
+                                                },
+                                                "end": {
+                                                  "line": 1,
+                                                  "column": 180,
+                                                  "index": 180
+                                                }
+                                              },
+                                              "callee": {
+                                                "type": "Identifier",
+                                                "start": 172,
+                                                "end": 175,
+                                                "loc": {
+                                                  "start": {
+                                                    "line": 1,
+                                                    "column": 172,
+                                                    "index": 172
+                                                  },
+                                                  "end": {
+                                                    "line": 1,
+                                                    "column": 175,
+                                                    "index": 175
+                                                  },
+                                                  "identifierName": "Row"
+                                                },
+                                                "name": "Row"
+                                              },
+                                              "arguments": [
+                                                {
+                                                  "type": "StringLiteral",
+                                                  "start": 176,
+                                                  "end": 179,
+                                                  "loc": {
+                                                    "start": {
+                                                      "line": 1,
+                                                      "column": 176,
+                                                      "index": 176
+                                                    },
+                                                    "end": {
+                                                      "line": 1,
+                                                      "column": 179,
+                                                      "index": 179
+                                                    }
+                                                  },
+                                                  "extra": {
+                                                    "rawValue": "c",
+                                                    "raw": "'c'"
+                                                  },
+                                                  "value": "c"
+                                                }
+                                              ]
+                                            },
+                                            "property": {
+                                              "type": "Identifier",
+                                              "start": 181,
+                                              "end": 182,
+                                              "loc": {
+                                                "start": {
+                                                  "line": 1,
+                                                  "column": 181,
+                                                  "index": 181
+                                                },
+                                                "end": {
+                                                  "line": 1,
+                                                  "column": 182,
+                                                  "index": 182
+                                                },
+                                                "identifierName": "b"
+                                              },
+                                              "name": "b"
+                                            }
+                                          },
+                                          "arguments": []
+                                        }
+                                      }
+                                    ]
+                                  }
+                                },
+                                {
+                                  "type": "ArrowFunctionExpression",
+                                  "start": 186,
+                                  "end": 205,
+                                  "loc": {
+                                    "start": {
+                                      "line": 1,
+                                      "column": 186,
+                                      "index": 186
+                                    },
+                                    "end": {
+                                      "line": 1,
+                                      "column": 205,
+                                      "index": 205
+                                    }
+                                  },
+                                  "id": null,
+                                  "generator": false,
+                                  "async": false,
+                                  "params": [
+                                    {
+                                      "type": "Identifier",
+                                      "start": 187,
+                                      "end": 198,
+                                      "loc": {
+                                        "start": {
+                                          "line": 1,
+                                          "column": 187,
+                                          "index": 187
+                                        },
+                                        "end": {
+                                          "line": 1,
+                                          "column": 198,
+                                          "index": 198
+                                        },
+                                        "identifierName": "item"
+                                      },
+                                      "name": "item",
+                                      "typeAnnotation": {
+                                        "type": "TSTypeAnnotation",
+                                        "start": 191,
+                                        "end": 198,
+                                        "loc": {
+                                          "start": {
+                                            "line": 1,
+                                            "column": 191,
+                                            "index": 191
+                                          },
+                                          "end": {
+                                            "line": 1,
+                                            "column": 198,
+                                            "index": 198
+                                          }
+                                        },
+                                        "typeAnnotation": {
+                                          "type": "TSNumberKeyword",
+                                          "start": 192,
+                                          "end": 198,
+                                          "loc": {
+                                            "start": {
+                                              "line": 1,
+                                              "column": 192,
+                                              "index": 192
+                                            },
+                                            "end": {
+                                              "line": 1,
+                                              "column": 198,
+                                              "index": 198
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  ],
+                                  "body": {
+                                    "type": "Identifier",
+                                    "start": 201,
+                                    "end": 205,
+                                    "loc": {
+                                      "start": {
+                                        "line": 1,
+                                        "column": 201,
+                                        "index": 201
+                                      },
+                                      "end": {
+                                        "line": 1,
+                                        "column": 205,
+                                        "index": 205
+                                      },
+                                      "identifierName": "item"
+                                    },
+                                    "name": "item"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "directives": []
+  },
+  "comments": []
+}

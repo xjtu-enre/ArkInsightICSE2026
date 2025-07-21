@@ -1,0 +1,1 @@
+@Component struct A{build(){Text(){} this.a }}

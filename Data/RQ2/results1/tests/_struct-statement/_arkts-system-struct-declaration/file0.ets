@@ -1,0 +1,5 @@
+struct Column {
+    build(){
+        /* Empty */
+    }
+}

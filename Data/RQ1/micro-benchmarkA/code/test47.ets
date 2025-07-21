@@ -1,0 +1,1 @@
+struct A{build(){if(Text(a)){}else{}}}

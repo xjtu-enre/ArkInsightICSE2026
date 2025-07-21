@@ -1,0 +1,211 @@
+[
+  {
+    "our_uid": 2,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "A",
+    "normal_uid": 2,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "A",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 5,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "State",
+    "normal_uid": 4,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 6,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "$value",
+    "normal_uid": 6,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 10,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "build",
+    "normal_uid": 10,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "$value",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 14,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Text",
+    "normal_uid": 14,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 17,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "t",
+    "normal_uid": 17,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 21,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "$value",
+    "normal_uid": 21,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "State",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 4,
+    "our_type": "DECORATOR",
+    "our_raw_type": "Decorator",
+    "our_label": "State",
+    "normal_uid": 20,
+    "normal_type": "DECORATOR",
+    "normal_raw_type": "Decorator",
+    "normal_label": "@State",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 8,
+    "our_type": "NUMBER",
+    "our_raw_type": "TSNumberKeyword",
+    "our_label": null,
+    "normal_uid": 12,
+    "normal_type": "NUMBER",
+    "normal_raw_type": "NumberKeyword",
+    "normal_label": "number",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "struct A{@State $value:number;build(){Text({t:$$this.$value})}}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 1,
+    "our_type": "STRUCT",
+    "our_raw_type": "ArkTSStructDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "STRUCT",
+    "normal_raw_type": "StructDeclaration",
+    "normal_label": "struct A{@State $value:number;build(){Text({t:$$this.$value})}}",
+    "confidence": 1.1428571428571428
+  },
+  {
+    "our_uid": 3,
+    "our_type": "PROP",
+    "our_raw_type": "ClassProperty",
+    "our_label": null,
+    "normal_uid": 19,
+    "normal_type": "PROP",
+    "normal_raw_type": "PropertyDeclaration",
+    "normal_label": "@State $value:number;",
+    "confidence": 1.3333333333333333
+  },
+  {
+    "our_uid": 9,
+    "our_type": "METHOD",
+    "our_raw_type": "ClassMethod",
+    "our_label": null,
+    "normal_uid": 24,
+    "normal_type": "METHOD",
+    "normal_raw_type": "MethodDeclaration",
+    "normal_label": "build(){Text({t:$$this.$value})}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 11,
+    "our_type": "BLOCK",
+    "our_raw_type": "BlockStatement",
+    "our_label": null,
+    "normal_uid": 18,
+    "normal_type": "BLOCK",
+    "normal_raw_type": "Block",
+    "normal_label": null,
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 12,
+    "our_type": "EXPR_STMT",
+    "our_raw_type": "ExpressionStatement",
+    "our_label": null,
+    "normal_uid": 27,
+    "normal_type": "EXPR_STMT",
+    "normal_raw_type": "ExpressionStatement",
+    "normal_label": "Text({t:$$this.$value})",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 13,
+    "our_type": "CALL",
+    "our_raw_type": "ArkTSCallExpression",
+    "our_label": "Text",
+    "normal_uid": 28,
+    "normal_type": "CALL",
+    "normal_raw_type": "EtsComponentExpression",
+    "normal_label": "Text({t:$$this.$value})",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 15,
+    "our_type": "OBJECT",
+    "our_raw_type": "ObjectExpression",
+    "our_label": null,
+    "normal_uid": 30,
+    "normal_type": "OBJECT",
+    "normal_raw_type": "ObjectLiteralExpression",
+    "normal_label": "{t:$$this.$value}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 16,
+    "our_type": "ObjectProperty",
+    "our_raw_type": "ObjectProperty",
+    "our_label": "{'type': 'ArkTSTwoWayBindingExpression', 'start': 46, 'end': 59, 'loc': {'start': {'line': 1, 'column': 46, 'index': 46}, 'end': {'line': 1, 'column': 59, 'index': 59}}, 'expression': {'type': 'MemberExpression', 'start': 46, 'end': 59, 'loc': {'start': {'line': 1, 'column': 46, 'index': 46}, 'end': {'line': 1, 'column': 59, 'index': 59}}, 'object': {'type': 'ThisExpression', 'start': 48, 'end': 52, 'loc': {'start': {'line': 1, 'column': 48, 'index': 48}, 'end': {'line': 1, 'column': 52, 'index': 52}}}, 'computed': False, 'property': {'type': 'Identifier', 'start': 53, 'end': 59, 'loc': {'start': {'line': 1, 'column': 53, 'index': 53}, 'end': {'line': 1, 'column': 59, 'index': 59}, 'identifierName': '$value'}, 'name': '$value'}}}",
+    "normal_uid": 16,
+    "normal_type": "TypeReference",
+    "normal_raw_type": "TypeReference",
+    "normal_label": null,
+    "confidence": 0.5
+  },
+  {
+    "our_uid": 19,
+    "our_type": "MEMBER",
+    "our_raw_type": "MemberExpression",
+    "our_label": null,
+    "normal_uid": 33,
+    "normal_type": "MEMBER",
+    "normal_raw_type": "PropertyAccessExpression",
+    "normal_label": "$$this.$value",
+    "confidence": 1.0
+  }
+]

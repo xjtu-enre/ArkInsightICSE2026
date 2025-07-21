@@ -1,0 +1,150 @@
+{
+  "kind": "SourceFile",
+  "text": "@AnimatableExtend(Text) function Foo(a:number){.setsize(a)}",
+  "pos": 0,
+  "end": 59,
+  "children": [
+    {
+      "kind": "FunctionDeclaration",
+      "text": "@AnimatableExtend(Text) function Foo(a:number){.setsize(a)}",
+      "pos": 0,
+      "end": 59,
+      "children": [
+        {
+          "kind": "Decorator",
+          "text": "@AnimatableExtend(Text)",
+          "pos": 0,
+          "end": 23,
+          "children": [
+            {
+              "kind": "CallExpression",
+              "text": "AnimatableExtend(Text)",
+              "pos": 1,
+              "end": 23,
+              "children": [
+                {
+                  "kind": "Identifier",
+                  "text": "AnimatableExtend",
+                  "pos": 1,
+                  "end": 17,
+                  "children": []
+                },
+                {
+                  "kind": "Identifier",
+                  "text": "Text",
+                  "pos": 18,
+                  "end": 22,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "Identifier",
+          "text": "Foo",
+          "pos": 32,
+          "end": 36,
+          "children": []
+        },
+        {
+          "kind": "Parameter",
+          "text": "a:number",
+          "pos": 37,
+          "end": 45,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "a",
+              "pos": 37,
+              "end": 38,
+              "children": []
+            },
+            {
+              "kind": "NumberKeyword",
+              "text": "number",
+              "pos": 39,
+              "end": 45,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "TypeReference",
+          "text": "",
+          "pos": 46,
+          "end": 46,
+          "children": [
+            {
+              "kind": "Identifier",
+              "text": "",
+              "pos": 46,
+              "end": 46,
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "Block",
+          "text": "{.setsize(a)}",
+          "pos": 46,
+          "end": 59,
+          "children": [
+            {
+              "kind": "ExpressionStatement",
+              "text": ".setsize(a)",
+              "pos": 47,
+              "end": 58,
+              "children": [
+                {
+                  "kind": "CallExpression",
+                  "text": ".setsize(a)",
+                  "pos": 47,
+                  "end": 58,
+                  "children": [
+                    {
+                      "kind": "PropertyAccessExpression",
+                      "text": ".setsize",
+                      "pos": 47,
+                      "end": 55,
+                      "children": [
+                        {
+                          "kind": "Identifier",
+                          "text": "",
+                          "pos": 47,
+                          "end": 47,
+                          "children": []
+                        },
+                        {
+                          "kind": "Identifier",
+                          "text": "setsize",
+                          "pos": 48,
+                          "end": 55,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "Identifier",
+                      "text": "a",
+                      "pos": 56,
+                      "end": 57,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "EndOfFileToken",
+      "text": "",
+      "pos": 59,
+      "end": 59,
+      "children": []
+    }
+  ]
+}

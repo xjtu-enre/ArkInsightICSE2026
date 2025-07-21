@@ -1,0 +1,1 @@
+struct A{@Builder f() {} @BuilderParam a: () => void = this.f;}

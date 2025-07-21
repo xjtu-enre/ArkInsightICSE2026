@@ -1,0 +1,1672 @@
+[
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController",
+    "location": {
+      "line": 25,
+      "column": 54
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource",
+    "location": {
+      "line": 31,
+      "column": 45
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJTabBarOptions.ets>.PJTabBarOptions",
+    "location": {
+      "line": 33,
+      "column": 56
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJBuilder",
+    "location": {
+      "line": 47,
+      "column": 28
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar",
+    "location": {
+      "line": 218,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource",
+    "location": {
+      "line": 32,
+      "column": 37
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJBuilder",
+    "location": {
+      "line": 55,
+      "column": 28
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.initData",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJTabBarOptions.ets>.PJTabBarOptions",
+    "location": {
+      "line": 87,
+      "column": 32
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.didItemAreaChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJTabBarItemAttribute.ets>.PJTabBarItemAttribute",
+    "location": {
+      "line": 114,
+      "column": 18
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemContentBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent",
+    "location": {
+      "line": 510,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\models\\PJTabBarItem.ets>.PJTabBarItem.constructor",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJTabBarItem.ets>.PJTabBarItem.getStringFromResource",
+    "location": {
+      "line": 34,
+      "column": 20
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.generateId",
+    "location": {
+      "line": 38,
+      "column": 15
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.generateId",
+    "location": {
+      "line": 43,
+      "column": 30
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.notifyDataAdd",
+    "location": {
+      "line": 46,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.generateId",
+    "location": {
+      "line": 53,
+      "column": 21
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.notifyDataAdd",
+    "location": {
+      "line": 56,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.notifyDataChange",
+    "location": {
+      "line": 62,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.setUpItems",
+    "location": {
+      "line": 66,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.reloadData",
+    "location": {
+      "line": 68,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.updateItemIndexs",
+    "location": {
+      "line": 77,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.updateItemIds",
+    "location": {
+      "line": 78,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.notifyDataDelete",
+    "location": {
+      "line": 79,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.updateItemIds",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.generateId",
+    "location": {
+      "line": 91,
+      "column": 30
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.setUpItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.generateId",
+    "location": {
+      "line": 101,
+      "column": 28
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.reloadData",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.notifyDataReload",
+    "location": {
+      "line": 114,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.identifier",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.getData",
+    "location": {
+      "line": 173,
+      "column": 16
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.delay",
+    "location": {
+      "line": 117,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.getItem",
+    "location": {
+      "line": 198,
+      "column": 18
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.delay.<Arrow Function>@211:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.setItems.<Arrow Function>@117:21",
+    "location": {
+      "line": 212,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "location": {
+      "line": 218,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@220:23",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnSelectItem",
+    "location": {
+      "line": 221,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@228:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.bindDataSource",
+    "location": {
+      "line": 229,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@237:42",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 238,
+      "column": 15
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@255:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnChange",
+    "location": {
+      "line": 256,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@258:29",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationStart",
+    "location": {
+      "line": 259,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@261:27",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationEnd",
+    "location": {
+      "line": 262,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@264:20",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnTouch",
+    "location": {
+      "line": 265,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@267:25",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.syncTabContentWidth",
+    "location": {
+      "line": 268,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@273:33",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 275,
+      "column": 17
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@288:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnChange",
+    "location": {
+      "line": 289,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@291:29",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationStart",
+    "location": {
+      "line": 292,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@294:27",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationEnd",
+    "location": {
+      "line": 295,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@297:20",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnTouch",
+    "location": {
+      "line": 298,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@300:25",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.syncTabContentWidth",
+    "location": {
+      "line": 301,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.textBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 33,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.textBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.isSelectedItem",
+    "location": {
+      "line": 38,
+      "column": 31
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.textBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.isSelectedItem",
+    "location": {
+      "line": 39,
+      "column": 26
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.textBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.isSelectedItem",
+    "location": {
+      "line": 40,
+      "column": 17
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.textBuilder",
+    "location": {
+      "line": 49,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.aboutToAppear",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.initData",
+    "location": {
+      "line": 73,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.didItemAreaChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJTabBarItemAttribute.ets>.PJTabBarItemAttribute.constructor",
+    "location": {
+      "line": 114,
+      "column": 18
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.didItemAreaChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.updateItemAttribute",
+    "location": {
+      "line": 116,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.didItemAreaChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollItemToIndex",
+    "location": {
+      "line": 120,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.didItemAreaChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollIndicatorToIndex",
+    "location": {
+      "line": 131,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollIndicatorToIndex",
+    "location": {
+      "line": 211,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay",
+    "location": {
+      "line": 213,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex.<Arrow Function>@213:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollItemToIndex",
+    "location": {
+      "line": 214,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay.<Arrow Function>@254:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex.<Arrow Function>@213:21",
+    "location": {
+      "line": 255,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay.<Arrow Function>@254:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.update.<Arrow Function>@328:21",
+    "location": {
+      "line": 255,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay.<Arrow Function>@254:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert.<Arrow Function>@356:21",
+    "location": {
+      "line": 255,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay.<Arrow Function>@254:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete.<Arrow Function>@376:21",
+    "location": {
+      "line": 255,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay.<Arrow Function>@254:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.setItems.<Arrow Function>@396:21",
+    "location": {
+      "line": 255,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay.<Arrow Function>@254:13",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleScrollAreaChanged.<Arrow Function>@600:29",
+    "location": {
+      "line": 255,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItemCenterX",
+    "location": {
+      "line": 278,
+      "column": 27
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItemCenterX",
+    "location": {
+      "line": 279,
+      "column": 30
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItemWidth",
+    "location": {
+      "line": 288,
+      "column": 31
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItemWidth",
+    "location": {
+      "line": 289,
+      "column": 32
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollIndicatorToIndex",
+    "location": {
+      "line": 312,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay",
+    "location": {
+      "line": 328,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.update.<Arrow Function>@328:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "location": {
+      "line": 329,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "location": {
+      "line": 336,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "location": {
+      "line": 353,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay",
+    "location": {
+      "line": 356,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert.<Arrow Function>@356:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollIndicatorToIndex",
+    "location": {
+      "line": 357,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay",
+    "location": {
+      "line": 376,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete.<Arrow Function>@376:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollIndicatorToIndex",
+    "location": {
+      "line": 377,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete.<Arrow Function>@376:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollItemToIndex",
+    "location": {
+      "line": 379,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete.<Arrow Function>@376:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItem",
+    "location": {
+      "line": 381,
+      "column": 30
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay",
+    "location": {
+      "line": 396,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.setItems.<Arrow Function>@396:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "location": {
+      "line": 397,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.indicatorBuilder",
+    "location": {
+      "line": 436,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemContentBuilder",
+    "location": {
+      "line": 437,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.indicatorBuilder",
+    "location": {
+      "line": 443,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemContentBuilder",
+    "location": {
+      "line": 446,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.indicatorBuilder",
+    "location": {
+      "line": 450,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder.<Arrow Function>@454:19",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.didItemAreaChange",
+    "location": {
+      "line": 455,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder.<Arrow Function>@457:14",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "location": {
+      "line": 458,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder.<Arrow Function>@457:14",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItem",
+    "location": {
+      "line": 460,
+      "column": 28
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.indicatorBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 477,
+      "column": 17
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemContentBuilder",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBarItemComponent.ets>.PJTabBarItemComponent.build",
+    "location": {
+      "line": 510,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 520,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getFlexAlign",
+    "location": {
+      "line": 553,
+      "column": 25
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 533,
+      "column": 15
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 546,
+      "column": 15
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build.<Arrow Function>@565:21",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleScrollAreaChanged",
+    "location": {
+      "line": 566,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\models\\PJBuilder.ets>.PJNullBuilder",
+    "location": {
+      "line": 577,
+      "column": 11
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleScrollAreaChanged",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delay",
+    "location": {
+      "line": 600,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleScrollAreaChanged.<Arrow Function>@600:29",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollItemToIndex",
+    "location": {
+      "line": 601,
+      "column": 15
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.insert",
+    "location": {
+      "line": 350,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollIndicatorToIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 141,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.scrollItemToIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 189,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.selectItemAtIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 205,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 322,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 341,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.update",
+    "location": {
+      "line": 326,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.push",
+    "location": {
+      "line": 334,
+      "column": 21
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 362,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.delete",
+    "location": {
+      "line": 374,
+      "column": 24
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.setItems",
+    "location": {
+      "line": 394,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.findIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.findIndex",
+    "location": {
+      "line": 402,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.find",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.find",
+    "location": {
+      "line": 406,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItem",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "location": {
+      "line": 410,
+      "column": 10
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItem",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.getData",
+    "location": {
+      "line": 414,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "location": {
+      "line": 540,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.update",
+    "location": {
+      "line": 658,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.push",
+    "location": {
+      "line": 666,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.insert",
+    "location": {
+      "line": 675,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.delete",
+    "location": {
+      "line": 685,
+      "column": 14
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.setItems",
+    "location": {
+      "line": 696,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.findIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.findIndex",
+    "location": {
+      "line": 709,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.find",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.find",
+    "location": {
+      "line": 722,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.getItem",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.getItem",
+    "location": {
+      "line": 731,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.syncTabContentWidth",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.syncTabContentWidth",
+    "location": {
+      "line": 741,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.currentIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.currentIndex",
+    "location": {
+      "line": 64,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.changeIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.selectItemAtIndex",
+    "location": {
+      "line": 68,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.bindDataSource",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.dataSource",
+    "location": {
+      "line": 77,
+      "column": 22
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.update",
+    "location": {
+      "line": 87,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.push",
+    "location": {
+      "line": 91,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.totalCount",
+    "location": {
+      "line": 95,
+      "column": 53
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.insert",
+    "location": {
+      "line": 99,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.totalCount",
+    "location": {
+      "line": 103,
+      "column": 19
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.delete",
+    "location": {
+      "line": 110,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.currentIndex",
+    "location": {
+      "line": 113,
+      "column": 70
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.setItems",
+    "location": {
+      "line": 116,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.selectItemAtIndex",
+    "location": {
+      "line": 193,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@239:16",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.identifier",
+    "location": {
+      "line": 240,
+      "column": 22
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.build.<Arrow Function>@280:16",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.identifier",
+    "location": {
+      "line": 281,
+      "column": 22
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.currentIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.currentIndex",
+    "location": {
+      "line": 323,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.changeIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.changeIndex",
+    "location": {
+      "line": 331,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.update",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.update",
+    "location": {
+      "line": 348,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.push",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.push",
+    "location": {
+      "line": 356,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.insert",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.insert",
+    "location": {
+      "line": 365,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.delete",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.delete",
+    "location": {
+      "line": 375,
+      "column": 14
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.currentIndex",
+    "location": {
+      "line": 385,
+      "column": 70
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.setItems",
+    "location": {
+      "line": 386,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.findIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.findIndex",
+    "location": {
+      "line": 399,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.find",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.find",
+    "location": {
+      "line": 412,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.getItem",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.getItem",
+    "location": {
+      "line": 421,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.preloadItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.preloadItems",
+    "location": {
+      "line": 435,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.syncTabContentWidth",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.syncTabContentWidth",
+    "location": {
+      "line": 445,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.initData",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.bind",
+    "location": {
+      "line": 96,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.isValidIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.totalCount",
+    "location": {
+      "line": 245,
+      "column": 35
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.handleTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.totalCount",
+    "location": {
+      "line": 311,
+      "column": 46
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.setItems",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.totalCount",
+    "location": {
+      "line": 395,
+      "column": 38
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.aboutToAppear",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponentController.bind",
+    "location": {
+      "line": 58,
+      "column": 9
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.initData",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.setItems",
+    "location": {
+      "line": 80,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build.<Arrow Function>@539:31",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.itemBuilder",
+    "location": {
+      "line": 540,
+      "column": 13
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.findIndex",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.findIndex",
+    "location": {
+      "line": 127,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.find",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.find",
+    "location": {
+      "line": 131,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.getItem",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.getItem",
+    "location": {
+      "line": 135,
+      "column": 12
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.syncTabContentWidth",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.syncTabContentWidth",
+    "location": {
+      "line": 147,
+      "column": 5
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationStart",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.selectItemAtIndex",
+    "location": {
+      "line": 169,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationStart",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.selectItemAtIndex",
+    "location": {
+      "line": 171,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnAnimationEnd",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.selectItemAtIndex",
+    "location": {
+      "line": 178,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnTouch",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.handleTouch",
+    "location": {
+      "line": 184,
+      "column": 7
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabComponent.ets>.PJTabComponent.handleOnChange",
+    "to": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBarController.currentIndex",
+    "location": {
+      "line": 192,
+      "column": 122
+    },
+    "type": "call",
+    "sdkMethod": false
+  },
+  {
+    "from": "<File pjtabbar\\src\\main\\ets\\components\\PJTabBar.ets>.PJTabBar.build.<Arrow Function>@541:14",
+    "to": "<File pjtabbar\\src\\main\\ets\\datasources\\PJTabDataSource.ets>.PJTabDataSource.identifier",
+    "location": {
+      "line": 541,
+      "column": 59
+    },
+    "type": "call",
+    "sdkMethod": false
+  }
+]

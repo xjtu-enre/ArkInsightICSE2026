@@ -1,0 +1,1 @@
+struct A { build() { Column({ a:b,b:c, c:{d:e,e:f}})} }

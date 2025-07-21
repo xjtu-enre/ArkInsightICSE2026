@@ -1,0 +1,1 @@
+export struct A { build() {}}

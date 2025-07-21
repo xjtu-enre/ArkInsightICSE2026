@@ -1,0 +1,1 @@
+struct A { accessor s:number;} class B{accessor s:string;}

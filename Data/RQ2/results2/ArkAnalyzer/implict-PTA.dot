@@ -1,0 +1,358 @@
+digraph "CG" {
+
+	label="CG";
+
+	Node0 [shape=recode,shape=box,label="ID: 0\n@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.[static]%dflt()"];
+	Node0 -> Node5[color=black]
+	Node1 [shape=recode,shape=box,label="ID: 1\n@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.func3()"];
+	Node2 [shape=recode,shape=box,label="ID: 2\n@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.func2(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM1())"];
+	Node2 -> Node1[color=red]
+	Node3 [shape=recode,shape=box,label="ID: 3\n@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM1()"];
+	Node4 [shape=recode,shape=box,label="ID: 4\n@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM0(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM1())"];
+	Node5 [shape=recode,shape=box,label="ID: 5\n@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.func1(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM0(@my_cases/_implicit-args/_args-default-values/file0.ets: %dflt.%AM1()), unknown)"];
+	Node5 -> Node2[color=red]
+	Node6 [shape=recode,shape=box,label="ID: 6\n@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.[static]%dflt()"];
+	Node6 -> Node8[color=black]
+	Node7 [shape=recode,shape=box,label="ID: 7\n@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.%AM0()"];
+	Node8 [shape=recode,shape=box,label="ID: 8\n@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.foo(@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.%AM0())"];
+	Node8 -> Node9[color=red]
+	Node9 [shape=recode,shape=box,label="ID: 9\n@my_cases/_implicit-args/_declarations-as-arguments/file0.ets: %dflt.%AM1()"];
+	Node10 [shape=recode,shape=box,label="ID: 10\n@my_cases/_implicit-args/_function-importin/file0.ets: %dflt.[static]%dflt()"];
+	Node11 [shape=recode,shape=box,label="ID: 11\n@my_cases/_implicit-args/_function-importin/file0.ets: %dflt.%AM0()"];
+	Node12 [shape=recode,shape=box,label="ID: 12\n@my_cases/_implicit-args/_function-importin/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-importin/file0.ets: %dflt.%AM0())"];
+	Node12 -> Node14[color=red]
+	Node13 [shape=recode,shape=box,label="ID: 13\n@my_cases/_implicit-args/_function-importin/file1.ets: %dflt.[static]%dflt()"];
+	Node13 -> Node12[color=black]
+	Node14 [shape=recode,shape=box,label="ID: 14\n@my_cases/_implicit-args/_function-importin/file1.ets: %dflt.paramFunc()"];
+	Node15 [shape=recode,shape=box,label="ID: 15\n@my_cases/_implicit-args/_function-importing-with-alia/file0.ets: %dflt.[static]%dflt()"];
+	Node16 [shape=recode,shape=box,label="ID: 16\n@my_cases/_implicit-args/_function-importing-with-alia/file0.ets: %dflt.%AM0()"];
+	Node17 [shape=recode,shape=box,label="ID: 17\n@my_cases/_implicit-args/_function-importing-with-alia/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-importing-with-alia/file0.ets: %dflt.%AM0())"];
+	Node17 -> Node19[color=red]
+	Node18 [shape=recode,shape=box,label="ID: 18\n@my_cases/_implicit-args/_function-importing-with-alia/file1.ets: %dflt.[static]%dflt()"];
+	Node18 -> Node17[color=black]
+	Node19 [shape=recode,shape=box,label="ID: 19\n@my_cases/_implicit-args/_function-importing-with-alia/file1.ets: %dflt.paramFunc()"];
+	Node20 [shape=recode,shape=box,label="ID: 20\n@my_cases/_implicit-args/_function-importing-with-assignmen/file0.ets: %dflt.[static]%dflt()"];
+	Node21 [shape=recode,shape=box,label="ID: 21\n@my_cases/_implicit-args/_function-importing-with-assignmen/file0.ets: %dflt.%AM0()"];
+	Node22 [shape=recode,shape=box,label="ID: 22\n@my_cases/_implicit-args/_function-importing-with-assignmen/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-importing-with-assignmen/file0.ets: %dflt.%AM0())"];
+	Node22 -> Node24[color=red]
+	Node23 [shape=recode,shape=box,label="ID: 23\n@my_cases/_implicit-args/_function-importing-with-assignmen/file1.ets: %dflt.[static]%dflt()"];
+	Node23 -> Node22[color=black]
+	Node24 [shape=recode,shape=box,label="ID: 24\n@my_cases/_implicit-args/_function-importing-with-assignmen/file1.ets: %dflt.paramFunc()"];
+	Node25 [shape=recode,shape=box,label="ID: 25\n@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.[static]%dflt()"];
+	Node25 -> Node28[color=black]
+	Node26 [shape=recode,shape=box,label="ID: 26\n@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.paramFunc()"];
+	Node27 [shape=recode,shape=box,label="ID: 27\n@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.%AM0()"];
+	Node28 [shape=recode,shape=box,label="ID: 28\n@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-pass-as-argument/file0.ets: %dflt.%AM0())"];
+	Node28 -> Node26[color=red]
+	Node29 [shape=recode,shape=box,label="ID: 29\n@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.[static]%dflt()"];
+	Node29 -> Node32[color=black]
+	Node30 [shape=recode,shape=box,label="ID: 30\n@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.paramFunc()"];
+	Node31 [shape=recode,shape=box,label="ID: 31\n@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.%AM0()"];
+	Node32 [shape=recode,shape=box,label="ID: 32\n@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.func(@my_cases/_implicit-args/_function-pass-as-argument-2/file0.ets: %dflt.%AM0())"];
+	Node32 -> Node30[color=red]
+	Node33 [shape=recode,shape=box,label="ID: 33\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.[static]%dflt()"];
+	Node33 -> Node39[color=red]
+	Node34 [shape=recode,shape=box,label="ID: 34\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.nestedFunc()"];
+	Node35 [shape=recode,shape=box,label="ID: 35\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM0()"];
+	Node36 [shape=recode,shape=box,label="ID: 36\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.paramFunc(@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM0())"];
+	Node37 [shape=recode,shape=box,label="ID: 37\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM2()"];
+	Node38 [shape=recode,shape=box,label="ID: 38\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM1(@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM2())"];
+	Node39 [shape=recode,shape=box,label="ID: 39\n@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.func(@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM1(@my_cases/_implicit-args/_nested-call/file0.ets: %dflt.%AM2()))"];
+	Node39 -> Node36[color=red]
+	Node40 [shape=recode,shape=box,label="ID: 40\n@my_cases/_implicit-args/_param-call/file0.ets: %dflt.[static]%dflt()"];
+	Node40 -> Node44[color=black]
+	Node40 -> Node42[color=black]
+	Node41 [shape=recode,shape=box,label="ID: 41\n@my_cases/_implicit-args/_param-call/file0.ets: %dflt.%AM0()"];
+	Node42 [shape=recode,shape=box,label="ID: 42\n@my_cases/_implicit-args/_param-call/file0.ets: %dflt.func(@my_cases/_implicit-args/_param-call/file0.ets: %dflt.%AM0())"];
+	Node43 [shape=recode,shape=box,label="ID: 43\n@my_cases/_implicit-args/_param-call/file0.ets: %dflt.%AM1()"];
+	Node44 [shape=recode,shape=box,label="ID: 44\n@my_cases/_implicit-args/_param-call/file0.ets: %dflt.func2()"];
+	Node45 [shape=recode,shape=box,label="ID: 45\n@my_cases/_implicit-args/_param-call/file0.ets: %dflt.func3()"];
+	Node46 [shape=recode,shape=box,label="ID: 46\n@my_cases/_implicit-arkts/_buil/file0.ets: %dflt.[static]%dflt()"];
+	Node46 -> Node367[color=black]
+	Node46 -> Node368[color=black]
+	Node50 [shape=recode,shape=box,label="ID: 50\n@my_cases/_implicit-arkts/_buil/file0.ets: A.build()"];
+	Node50 -> Node369[color=black]
+	Node50 -> Node370[color=black]
+	Node51 [shape=recode,shape=box,label="ID: 51\n@my_cases/_implicit-arkts/_decorator-/file0.ets: %dflt.[static]%dflt()"];
+	Node55 [shape=recode,shape=box,label="ID: 55\n@my_cases/_implicit-arkts/_decorator-/file0.ets: MyComponent1.build()"];
+	Node55 -> Node371[color=black]
+	Node55 -> Node372[color=black]
+	Node55 -> Node373[color=black]
+	Node55 -> Node375[color=black]
+	Node55 -> Node376[color=black]
+	Node55 -> Node377[color=black]
+	Node55 -> Node378[color=black]
+	Node55 -> Node380[color=black]
+	Node56 [shape=recode,shape=box,label="ID: 56\n@my_cases/_implicit-arkts/_decorator-/file0.ets: MyComponent1.%AM0$build()"];
+	Node59 [shape=recode,shape=box,label="ID: 59\n@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: %dflt.[static]%dflt()"];
+	Node63 [shape=recode,shape=box,label="ID: 63\n@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Index.build()"];
+	Node63 -> Node367[color=black]
+	Node63 -> Node368[color=black]
+	Node64 [shape=recode,shape=box,label="ID: 64\n@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: %AC1.%AM0(number)"];
+	Node68 [shape=recode,shape=box,label="ID: 68\n@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Star.build()"];
+	Node68 -> Node371[color=black]
+	Node68 -> Node380[color=black]
+	Node69 [shape=recode,shape=box,label="ID: 69\n@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Star.%AM0(number)"];
+	Node70 [shape=recode,shape=box,label="ID: 70\n@my_cases/_implicit-arkts/_synchronized-variable-/file0.ets: Star.%AM1$%instInit(number)"];
+	Node73 [shape=recode,shape=box,label="ID: 73\n@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: %dflt.[static]%dflt()"];
+	Node77 [shape=recode,shape=box,label="ID: 77\n@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: A.build()"];
+	Node77 -> Node369[color=black]
+	Node77 -> Node370[color=black]
+	Node81 [shape=recode,shape=box,label="ID: 81\n@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: B.build()"];
+	Node81 -> Node367[color=black]
+	Node81 -> Node368[color=black]
+	Node82 [shape=recode,shape=box,label="ID: 82\n@my_cases/_implicit-arkts/_trailing-closure-/file0.ets: B.%AM0$build()"];
+	Node83 [shape=recode,shape=box,label="ID: 83\n@my_cases/_implicit-assignments/_basic-assignments/file0.ets: %dflt.[static]%dflt()"];
+	Node83 -> Node84[color=red]
+	Node83 -> Node85[color=red]
+	Node84 [shape=recode,shape=box,label="ID: 84\n@my_cases/_implicit-assignments/_basic-assignments/file0.ets: %dflt.func1()"];
+	Node85 [shape=recode,shape=box,label="ID: 85\n@my_cases/_implicit-assignments/_basic-assignments/file0.ets: %dflt.func2()"];
+	Node86 [shape=recode,shape=box,label="ID: 86\n@my_cases/_implicit-assignments/_chained-assignments/file0.ets: %dflt.[static]%dflt()"];
+	Node86 -> Node87[color=red]
+	Node87 [shape=recode,shape=box,label="ID: 87\n@my_cases/_implicit-assignments/_chained-assignments/file0.ets: %dflt.func()"];
+	Node88 [shape=recode,shape=box,label="ID: 88\n@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: %dflt.[static]%dflt()"];
+	Node88 -> Node92[color=red]
+	Node91 [shape=recode,shape=box,label="ID: 91\n@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: MyClass.func1()"];
+	Node92 [shape=recode,shape=box,label="ID: 92\n@my_cases/_implicit-class-calls/_access-sibling-method-through-this-/file0.ets: MyClass.func2()"];
+	Node92 -> Node91[color=red]
+	Node94 [shape=recode,shape=box,label="ID: 94\n@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: %dflt.[static]%dflt()"];
+	Node94 -> Node98[color=red]
+	Node97 [shape=recode,shape=box,label="ID: 97\n@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: MyClass.func1()"];
+	Node98 [shape=recode,shape=box,label="ID: 98\n@my_cases/_implicit-class-calls/_access-sibling-method-through-this-2/file0.ets: MyClass.func2()"];
+	Node98 -> Node97[color=red]
+	Node100 [shape=recode,shape=box,label="ID: 100\n@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: %dflt.[static]%dflt()"];
+	Node100 -> Node103[color=red]
+	Node103 [shape=recode,shape=box,label="ID: 103\n@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: A.func()"];
+	Node104 [shape=recode,shape=box,label="ID: 104\n@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: A.%AM0$%instInit()"];
+	Node109 [shape=recode,shape=box,label="ID: 109\n@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: B.func2()"];
+	Node113 [shape=recode,shape=box,label="ID: 113\n@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: C.func2()"];
+	Node114 [shape=recode,shape=box,label="ID: 114\n@my_cases/_implicit-class-calls/_basic/file0.ets: %dflt.[static]%dflt()"];
+	Node114 -> Node117[color=red]
+	Node117 [shape=recode,shape=box,label="ID: 117\n@my_cases/_implicit-class-calls/_basic/file0.ets: A.func()"];
+	Node122 [shape=recode,shape=box,label="ID: 122\n@my_cases/_implicit-class-calls/_call-and-assigned-call/file0.ets: %dflt.[static]%dflt()"];
+	Node122 -> Node125[color=red]
+	Node125 [shape=recode,shape=box,label="ID: 125\n@my_cases/_implicit-class-calls/_call-and-assigned-call/file0.ets: MyClass.func()"];
+	Node127 [shape=recode,shape=box,label="ID: 127\n@my_cases/_implicit-class-calls/_call-returned-function/file0.ets: %dflt.[static]%dflt()"];
+	Node127 -> Node383[color=black]
+	Node127 -> Node384[color=black]
+	Node127 -> Node131[color=red]
+	Node130 [shape=recode,shape=box,label="ID: 130\n@my_cases/_implicit-class-calls/_call-returned-function/file0.ets: MyClass.func2()"];
+	Node131 [shape=recode,shape=box,label="ID: 131\n@my_cases/_implicit-class-calls/_call-returned-function/file0.ets: MyClass.func1()"];
+	Node133 [shape=recode,shape=box,label="ID: 133\n@my_cases/_implicit-class-calls/_default-call-to-constructor/file0.ets: %dflt.[static]%dflt()"];
+	Node133 -> Node139[color=red]
+	Node139 [shape=recode,shape=box,label="ID: 139\n@my_cases/_implicit-class-calls/_default-call-to-constructor/file0.ets: B.func()"];
+	Node141 [shape=recode,shape=box,label="ID: 141\n@my_cases/_implicit-class-calls/_field-assignments/file0.ets: %dflt.[static]%dflt()"];
+	Node141 -> Node149[color=red]
+	Node144 [shape=recode,shape=box,label="ID: 144\n@my_cases/_implicit-class-calls/_field-assignments/file0.ets: A.func()"];
+	Node149 [shape=recode,shape=box,label="ID: 149\n@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.func()"];
+	Node149 -> Node144[color=red]
+	Node150 [shape=recode,shape=box,label="ID: 150\n@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.func2()"];
+	Node151 [shape=recode,shape=box,label="ID: 151\n@my_cases/_implicit-class-calls/_field-assignments/file0.ets: B.%AM0()"];
+	Node152 [shape=recode,shape=box,label="ID: 152\n@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: %dflt.[static]%dflt()"];
+	Node153 [shape=recode,shape=box,label="ID: 153\n@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: %dflt.func2()"];
+	Node157 [shape=recode,shape=box,label="ID: 157\n@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.func1()"];
+	Node158 [shape=recode,shape=box,label="ID: 158\n@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.func2()"];
+	Node159 [shape=recode,shape=box,label="ID: 159\n@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.%AM0()"];
+	Node160 [shape=recode,shape=box,label="ID: 160\n@my_cases/_implicit-class-calls/_field-assignments-2/file0.ets: A.%AM1()"];
+	Node161 [shape=recode,shape=box,label="ID: 161\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: %dflt.[static]%dflt()"];
+	Node161 -> Node164[color=red]
+	Node161 -> Node170[color=red]
+	Node164 [shape=recode,shape=box,label="ID: 164\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: B.funcB()"];
+	Node165 [shape=recode,shape=box,label="ID: 165\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: B.func()"];
+	Node166 [shape=recode,shape=box,label="ID: 166\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: B.%AM0$%instInit()"];
+	Node170 [shape=recode,shape=box,label="ID: 170\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: A.funcA()"];
+	Node171 [shape=recode,shape=box,label="ID: 171\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: A.func()"];
+	Node173 [shape=recode,shape=box,label="ID: 173\n@my_cases/_implicit-class-calls/_method-call/file0.ets: %dflt.[static]%dflt()"];
+	Node173 -> Node177[color=black]
+	Node177 [shape=recode,shape=box,label="ID: 177\n@my_cases/_implicit-class-calls/_method-call/file0.ets: MyClass.[static]func()"];
+	Node178 [shape=recode,shape=box,label="ID: 178\n@my_cases/_implicit-class-calls/_nested-call/file0.ets: %dflt.[static]%dflt()"];
+	Node181 [shape=recode,shape=box,label="ID: 181\n@my_cases/_implicit-class-calls/_nested-call/file0.ets: MyClass.func()"];
+	Node181 -> Node182[color=red]
+	Node182 [shape=recode,shape=box,label="ID: 182\n@my_cases/_implicit-class-calls/_nested-call/file0.ets: MyClass.%AM0$func()"];
+	Node184 [shape=recode,shape=box,label="ID: 184\n@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: %dflt.[static]%dflt()"];
+	Node184 -> Node196[color=red]
+	Node187 [shape=recode,shape=box,label="ID: 187\n@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: C.func()"];
+	Node192 [shape=recode,shape=box,label="ID: 192\n@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: B.func()"];
+	Node192 -> Node187[color=red]
+	Node196 [shape=recode,shape=box,label="ID: 196\n@my_cases/_implicit-class-calls/_nested-class-calls/file0.ets: A.func()"];
+	Node196 -> Node192[color=red]
+	Node197 [shape=recode,shape=box,label="ID: 197\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: %dflt.[static]%dflt()"];
+	Node197 -> Node206[color=red]
+	Node200 [shape=recode,shape=box,label="ID: 200\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func3()"];
+	Node201 [shape=recode,shape=box,label="ID: 201\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM0()"];
+	Node202 [shape=recode,shape=box,label="ID: 202\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func2(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM0())"];
+	Node202 -> Node200[color=red]
+	Node203 [shape=recode,shape=box,label="ID: 203\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM2()"];
+	Node204 [shape=recode,shape=box,label="ID: 204\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM2())"];
+	Node205 [shape=recode,shape=box,label="ID: 205\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM3()"];
+	Node206 [shape=recode,shape=box,label="ID: 206\n@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.func1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM1(@my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM2()), @my_cases/_implicit-class-calls/_parameter-call/file0.ets: MyClass.%AM3())"];
+	Node206 -> Node202[color=red]
+	Node208 [shape=recode,shape=box,label="ID: 208\n@my_cases/_implicit-class-calls/_return-super-class-s-member/file0.ets: %dflt.[static]%dflt()"];
+	Node208 -> Node388[color=black]
+	Node208 -> Node215[color=red]
+	Node211 [shape=recode,shape=box,label="ID: 211\n@my_cases/_implicit-class-calls/_return-super-class-s-member/file0.ets: A.func1()"];
+	Node215 [shape=recode,shape=box,label="ID: 215\n@my_cases/_implicit-class-calls/_return-super-class-s-member/file0.ets: B.func2()"];
+	Node217 [shape=recode,shape=box,label="ID: 217\n@my_cases/_implicit-class-calls/_self-call/file0.ets: %dflt.[static]%dflt()"];
+	Node217 -> Node222[color=red]
+	Node221 [shape=recode,shape=box,label="ID: 221\n@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.func1()"];
+	Node222 [shape=recode,shape=box,label="ID: 222\n@my_cases/_implicit-class-calls/_self-call/file0.ets: MyClass.func2()"];
+	Node222 -> Node221[color=red]
+	Node223 [shape=recode,shape=box,label="ID: 223\n@my_cases/_implicit-class-calls/_super-call/file0.ets: %dflt.[static]%dflt()"];
+	Node233 [shape=recode,shape=box,label="ID: 233\n@my_cases/_implicit-exception-calls/_exception-class-assigned/file0.ets: %dflt.[static]%dflt()"];
+	Node237 [shape=recode,shape=box,label="ID: 237\n@my_cases/_implicit-exception-calls/_throw/file0.ets: %dflt.[static]%dflt()"];
+	Node241 [shape=recode,shape=box,label="ID: 241\n@my_cases/_implicit-exception-calls/_throw-method/file0.ets: %dflt.[static]%dflt()"];
+	Node241 -> Node393[color=yellow]
+	Node248 [shape=recode,shape=box,label="ID: 248\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.[static]%dflt()"];
+	Node248 -> Node257[color=black]
+	Node249 [shape=recode,shape=box,label="ID: 249\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM0()"];
+	Node250 [shape=recode,shape=box,label="ID: 250\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func3(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM0())"];
+	Node250 -> Node260[color=red]
+	Node251 [shape=recode,shape=box,label="ID: 251\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM1()"];
+	Node252 [shape=recode,shape=box,label="ID: 252\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM2()"];
+	Node253 [shape=recode,shape=box,label="ID: 253\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func2(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM1(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM2())"];
+	Node253 -> Node250[color=black]
+	Node253 -> Node259[color=red]
+	Node254 [shape=recode,shape=box,label="ID: 254\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM3()"];
+	Node255 [shape=recode,shape=box,label="ID: 255\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM4()"];
+	Node256 [shape=recode,shape=box,label="ID: 256\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM5()"];
+	Node257 [shape=recode,shape=box,label="ID: 257\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.func1(@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM3(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM4(), @my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM5())"];
+	Node257 -> Node253[color=black]
+	Node257 -> Node258[color=red]
+	Node258 [shape=recode,shape=box,label="ID: 258\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM6()"];
+	Node259 [shape=recode,shape=box,label="ID: 259\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM7()"];
+	Node260 [shape=recode,shape=box,label="ID: 260\n@my_cases/_implicit-functions/_arrow-function-as-arguments/file0.ets: %dflt.%AM8()"];
+	Node261 [shape=recode,shape=box,label="ID: 261\n@my_cases/_implicit-functions/_arrow-function-as-returned-value/file0.ets: %dflt.[static]%dflt()"];
+	Node261 -> Node263[color=black]
+	Node261 -> Node264[color=red]
+	Node262 [shape=recode,shape=box,label="ID: 262\n@my_cases/_implicit-functions/_arrow-function-as-returned-value/file0.ets: %dflt.%AM0(number)"];
+	Node263 [shape=recode,shape=box,label="ID: 263\n@my_cases/_implicit-functions/_arrow-function-as-returned-value/file0.ets: %dflt.func()"];
+	Node264 [shape=recode,shape=box,label="ID: 264\n@my_cases/_implicit-functions/_arrow-function-as-returned-value/file0.ets: %dflt.%AM1$func(unknown)"];
+	Node265 [shape=recode,shape=box,label="ID: 265\n@my_cases/_implicit-functions/_assigned-call/file0.ets: %dflt.[static]%dflt()"];
+	Node265 -> Node394[color=black]
+	Node265 -> Node267[color=red]
+	Node266 [shape=recode,shape=box,label="ID: 266\n@my_cases/_implicit-functions/_assigned-call/file0.ets: %dflt.returnFunc()"];
+	Node267 [shape=recode,shape=box,label="ID: 267\n@my_cases/_implicit-functions/_assigned-call/file0.ets: %dflt.func()"];
+	Node268 [shape=recode,shape=box,label="ID: 268\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.[static]%dflt()"];
+	Node268 -> Node271[color=black]
+	Node268 -> Node273[color=red]
+	Node269 [shape=recode,shape=box,label="ID: 269\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.func1()"];
+	Node270 [shape=recode,shape=box,label="ID: 270\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM0(number)"];
+	Node271 [shape=recode,shape=box,label="ID: 271\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.func2(@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM0(number))"];
+	Node271 -> Node275[color=red]
+	Node271 -> Node274[color=red]
+	Node272 [shape=recode,shape=box,label="ID: 272\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM2()"];
+	Node273 [shape=recode,shape=box,label="ID: 273\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM1(@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM2())"];
+	Node274 [shape=recode,shape=box,label="ID: 274\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM3(number)"];
+	Node275 [shape=recode,shape=box,label="ID: 275\n@my_cases/_implicit-functions/_call-parameters/file0.ets: %dflt.%AM4(number)"];
+	Node276 [shape=recode,shape=box,label="ID: 276\n@my_cases/_implicit-functions/_call-returned-function/file0.ets: %dflt.[static]%dflt()"];
+	Node277 [shape=recode,shape=box,label="ID: 277\n@my_cases/_implicit-functions/_call-returned-function/file0.ets: %dflt.returnFunc()"];
+	Node278 [shape=recode,shape=box,label="ID: 278\n@my_cases/_implicit-functions/_call-returned-function/file1.ets: %dflt.[static]%dflt()"];
+	Node279 [shape=recode,shape=box,label="ID: 279\n@my_cases/_implicit-functions/_call-returned-function/file1.ets: %dflt.func()"];
+	Node280 [shape=recode,shape=box,label="ID: 280\n@my_cases/_implicit-functions/_call-returned-function/file2.ets: %dflt.[static]%dflt()"];
+	Node280 -> Node279[color=black]
+	Node280 -> Node366[color=black]
+	Node281 [shape=recode,shape=box,label="ID: 281\n@my_cases/_implicit-functions/_call-to-arrow-function/file0.ets: %dflt.[static]%dflt()"];
+	Node281 -> Node282[color=red]
+	Node282 [shape=recode,shape=box,label="ID: 282\n@my_cases/_implicit-functions/_call-to-arrow-function/file0.ets: %dflt.%AM0(number)"];
+	Node283 [shape=recode,shape=box,label="ID: 283\n@my_cases/_implicit-functions/_return-call/file0.ets: %dflt.[static]%dflt()"];
+	Node283 -> Node285[color=black]
+	Node283 -> Node394[color=black]
+	Node283 -> Node384[color=black]
+	Node284 [shape=recode,shape=box,label="ID: 284\n@my_cases/_implicit-functions/_return-call/file0.ets: %dflt.returnFunc()"];
+	Node285 [shape=recode,shape=box,label="ID: 285\n@my_cases/_implicit-functions/_return-call/file0.ets: %dflt.func()"];
+	Node286 [shape=recode,shape=box,label="ID: 286\n@my_cases/_implicit-functions/_return-call/file0.ets: %dflt.%AM0$returnFunc()"];
+	Node287 [shape=recode,shape=box,label="ID: 287\n@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.[static]%dflt()"];
+	Node287 -> Node290[color=black]
+	Node287 -> Node394[color=black]
+	Node287 -> Node384[color=black]
+	Node288 [shape=recode,shape=box,label="ID: 288\n@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.func()"];
+	Node289 [shape=recode,shape=box,label="ID: 289\n@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.func2(unknown)"];
+	Node290 [shape=recode,shape=box,label="ID: 290\n@my_cases/_implicit-functions/_with-parameters/file0.ets: %dflt.func3()"];
+	Node291 [shape=recode,shape=box,label="ID: 291\n@my_cases/_implicit-object-mechanism/_assign/file0.ets: %dflt.[static]%dflt()"];
+	Node292 [shape=recode,shape=box,label="ID: 292\n@my_cases/_implicit-object-mechanism/_assign/file0.ets: %dflt.func1()"];
+	Node293 [shape=recode,shape=box,label="ID: 293\n@my_cases/_implicit-object-mechanism/_assign/file0.ets: %dflt.func2()"];
+	Node296 [shape=recode,shape=box,label="ID: 296\n@my_cases/_implicit-object-mechanism/_assign/file0.ets: OBJ.%AM0()"];
+	Node297 [shape=recode,shape=box,label="ID: 297\n@my_cases/_implicit-object-mechanism/_assign/file0.ets: OBJ.%AM1$%instInit()"];
+	Node301 [shape=recode,shape=box,label="ID: 301\n@my_cases/_implicit-object-mechanism/_basic/file0.ets: %dflt.[static]%dflt()"];
+	Node301 -> Node384[color=black]
+	Node301 -> Node396[color=black]
+	Node301 -> Node302[color=red]
+	Node301 -> Node303[color=red]
+	Node302 [shape=recode,shape=box,label="ID: 302\n@my_cases/_implicit-object-mechanism/_basic/file0.ets: %dflt.func1()"];
+	Node303 [shape=recode,shape=box,label="ID: 303\n@my_cases/_implicit-object-mechanism/_basic/file0.ets: %dflt.func2()"];
+	Node304 [shape=recode,shape=box,label="ID: 304\n@my_cases/_implicit-object-mechanism/_basic/file0.ets: %dflt.func3()"];
+	Node305 [shape=recode,shape=box,label="ID: 305\n@my_cases/_implicit-object-mechanism/_basic/file0.ets: %dflt.%AM0()"];
+	Node306 [shape=recode,shape=box,label="ID: 306\n@my_cases/_implicit-object-mechanism/_constant-parameter/file0.ets: %dflt.[static]%dflt()"];
+	Node306 -> Node309[color=black]
+	Node307 [shape=recode,shape=box,label="ID: 307\n@my_cases/_implicit-object-mechanism/_constant-parameter/file0.ets: %dflt.func1()"];
+	Node308 [shape=recode,shape=box,label="ID: 308\n@my_cases/_implicit-object-mechanism/_constant-parameter/file0.ets: %dflt.func2()"];
+	Node309 [shape=recode,shape=box,label="ID: 309\n@my_cases/_implicit-object-mechanism/_constant-parameter/file0.ets: %dflt.foo(number)"];
+	Node310 [shape=recode,shape=box,label="ID: 310\n@my_cases/_implicit-object-mechanism/_dynamic-key/file0.ets: %dflt.[static]%dflt()"];
+	Node311 [shape=recode,shape=box,label="ID: 311\n@my_cases/_implicit-object-mechanism/_dynamic-key/file1.ets: %dflt.[static]%dflt()"];
+	Node311 -> Node384[color=black]
+	Node311 -> Node312[color=red]
+	Node311 -> Node313[color=red]
+	Node312 [shape=recode,shape=box,label="ID: 312\n@my_cases/_implicit-object-mechanism/_dynamic-key/file1.ets: %dflt.func1()"];
+	Node313 [shape=recode,shape=box,label="ID: 313\n@my_cases/_implicit-object-mechanism/_dynamic-key/file1.ets: %dflt.func2()"];
+	Node314 [shape=recode,shape=box,label="ID: 314\n@my_cases/_implicit-object-mechanism/_nested/file0.ets: %dflt.[static]%dflt()"];
+	Node315 [shape=recode,shape=box,label="ID: 315\n@my_cases/_implicit-object-mechanism/_nested/file0.ets: %dflt.func1()"];
+	Node316 [shape=recode,shape=box,label="ID: 316\n@my_cases/_implicit-object-mechanism/_nested/file0.ets: %dflt.func2()"];
+	Node319 [shape=recode,shape=box,label="ID: 319\n@my_cases/_implicit-object-mechanism/_nested/file0.ets: obj.%AM0()"];
+	Node320 [shape=recode,shape=box,label="ID: 320\n@my_cases/_implicit-object-mechanism/_nested/file0.ets: obj.%AM1$%instInit()"];
+	Node323 [shape=recode,shape=box,label="ID: 323\n@my_cases/_implicit-object-mechanism/_nested/file0.ets: %AC0$OBJ.%instInit.%AM0$%instInit()"];
+	Node332 [shape=recode,shape=box,label="ID: 332\n@my_cases/_implicit-object-mechanism/_nested-arrays/file0.ets: %dflt.[static]%dflt()"];
+	Node333 [shape=recode,shape=box,label="ID: 333\n@my_cases/_implicit-object-mechanism/_nested-arrays/file0.ets: %dflt.func1()"];
+	Node334 [shape=recode,shape=box,label="ID: 334\n@my_cases/_implicit-object-mechanism/_nested-arrays/file0.ets: %dflt.func2()"];
+	Node335 [shape=recode,shape=box,label="ID: 335\n@my_cases/_implicit-object-mechanism/_param/file0.ets: %dflt.[static]%dflt()"];
+	Node335 -> Node337[color=black]
+	Node336 [shape=recode,shape=box,label="ID: 336\n@my_cases/_implicit-object-mechanism/_param/file0.ets: %dflt.func2()"];
+	Node337 [shape=recode,shape=box,label="ID: 337\n@my_cases/_implicit-object-mechanism/_param/file0.ets: %dflt.func(@my_cases/_implicit-object-mechanism/_param/file0.ets: OBJ)"];
+	Node340 [shape=recode,shape=box,label="ID: 340\n@my_cases/_implicit-object-mechanism/_param/file0.ets: OBJ.%AM0()"];
+	Node341 [shape=recode,shape=box,label="ID: 341\n@my_cases/_implicit-object-mechanism/_param/file0.ets: OBJ.%AM1$%instInit()"];
+	Node344 [shape=recode,shape=box,label="ID: 344\n@my_cases/_implicit-object-mechanism/_param/file0.ets: %AC0$%dflt.%dflt.%AM0$%instInit()"];
+	Node346 [shape=recode,shape=box,label="ID: 346\n@my_cases/_implicit-object-mechanism/_return-assign/file0.ets: %dflt.[static]%dflt()"];
+	Node347 [shape=recode,shape=box,label="ID: 347\n@my_cases/_implicit-object-mechanism/_return-assign/file0.ets: %dflt.func2()"];
+	Node348 [shape=recode,shape=box,label="ID: 348\n@my_cases/_implicit-object-mechanism/_return-assign/file0.ets: %dflt.func1()"];
+	Node351 [shape=recode,shape=box,label="ID: 351\n@my_cases/_implicit-object-mechanism/_return-assign/file0.ets: OBJ.%AM0()"];
+	Node352 [shape=recode,shape=box,label="ID: 352\n@my_cases/_implicit-object-mechanism/_return-assign/file0.ets: OBJ.%AM1$%instInit()"];
+	Node356 [shape=recode,shape=box,label="ID: 356\n@my_cases/_implicit-object-mechanism/_return-object/file0.ets: %dflt.[static]%dflt()"];
+	Node356 -> Node358[color=black]
+	Node357 [shape=recode,shape=box,label="ID: 357\n@my_cases/_implicit-object-mechanism/_return-object/file0.ets: %dflt.func2()"];
+	Node358 [shape=recode,shape=box,label="ID: 358\n@my_cases/_implicit-object-mechanism/_return-object/file0.ets: %dflt.func1()"];
+	Node361 [shape=recode,shape=box,label="ID: 361\n@my_cases/_implicit-object-mechanism/_return-object/file0.ets: OBJ.%AM0()"];
+	Node362 [shape=recode,shape=box,label="ID: 362\n@my_cases/_implicit-object-mechanism/_return-object/file0.ets: OBJ.%AM1$%instInit()"];
+	Node366 [shape=recode,shape=box,label="ID: 366\n@%unk/%unk: .a()"];
+	Node367 [shape=recode,shape=box,label="ID: 367\n@%unk/%unk: View.create()"];
+	Node368 [shape=recode,shape=box,label="ID: 368\n@%unk/%unk: View.pop()"];
+	Node369 [shape=recode,shape=box,label="ID: 369\n@%unk/%unk: Row.create()"];
+	Node370 [shape=recode,shape=box,label="ID: 370\n@%unk/%unk: Row.pop()"];
+	Node371 [shape=recode,shape=box,label="ID: 371\n@%unk/%unk: Column.create()"];
+	Node372 [shape=recode,shape=box,label="ID: 372\n@%unk/%unk: Text.create()"];
+	Node373 [shape=recode,shape=box,label="ID: 373\n@%unk/%unk: Text.pop()"];
+	Node374 [shape=recode,shape=box,label="ID: 374\n@%unk/%unk: .fontSize()"];
+	Node375 [shape=recode,shape=box,label="ID: 375\n@%unk/%unk: Divider.create()"];
+	Node376 [shape=recode,shape=box,label="ID: 376\n@%unk/%unk: Divider.pop()"];
+	Node377 [shape=recode,shape=box,label="ID: 377\n@%unk/%unk: Button.create()"];
+	Node378 [shape=recode,shape=box,label="ID: 378\n@%unk/%unk: Button.pop()"];
+	Node379 [shape=recode,shape=box,label="ID: 379\n@%unk/%unk: .onClick()"];
+	Node380 [shape=recode,shape=box,label="ID: 380\n@%unk/%unk: Column.pop()"];
+	Node381 [shape=recode,shape=box,label="ID: 381\n@my_cases/_implicit-class-calls/_base-class-calls-child/file0.ets: A.super()"];
+	Node382 [shape=recode,shape=box,label="ID: 382\n@my_cases/_implicit-class-calls/_basic/file0.ets: B.super()"];
+	Node383 [shape=recode,shape=box,label="ID: 383\n@%unk/%unk: .b()"];
+	Node384 [shape=recode,shape=box,label="ID: 384\n@%unk/%unk: .%1()"];
+	Node385 [shape=recode,shape=box,label="ID: 385\n@my_cases/_implicit-class-calls/_default-call-to-constructor/file0.ets: B.super()"];
+	Node386 [shape=recode,shape=box,label="ID: 386\n@my_cases/_implicit-class-calls/_implicit-member-declaration/file0.ets: A.super()"];
+	Node387 [shape=recode,shape=box,label="ID: 387\n@%unk/%unk: .nested0()"];
+	Node388 [shape=recode,shape=box,label="ID: 388\n@%unk/%unk: .fn()"];
+	Node389 [shape=recode,shape=box,label="ID: 389\n@my_cases/_implicit-class-calls/_return-super-class-s-member/file0.ets: B.super()"];
+	Node390 [shape=recode,shape=box,label="ID: 390\n@my_cases/_implicit-class-calls/_super-call/file0.ets: A.super()"];
+	Node391 [shape=recode,shape=box,label="ID: 391\n@my_cases/_implicit-class-calls/_super-call/file0.ets: B.super()"];
+	Node392 [shape=recode,shape=box,label="ID: 392\n@%unk/%unk: .super()"];
+	Node393 [shape=recode,shape=box,label="ID: 393\n@%unk/%unk: A.B.constructor()"];
+	Node394 [shape=recode,shape=box,label="ID: 394\n@%unk/%unk: .%0()"];
+	Node395 [shape=recode,shape=box,label="ID: 395\n@%unk/%unk: .x()"];
+	Node396 [shape=recode,shape=box,label="ID: 396\n@%unk/%unk: .%2()"];
+	Node397 [shape=recode,shape=box,label="ID: 397\n@%unk/%unk: .0()"];
+	Node398 [shape=recode,shape=box,label="ID: 398\n@%unk/%unk: .key()"];
+}
+

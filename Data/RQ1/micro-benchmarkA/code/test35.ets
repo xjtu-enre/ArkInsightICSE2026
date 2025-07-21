@@ -1,0 +1,1 @@
+struct A { a:s=new s();build() { Column() { LazyForEach(this.a,(item:string)=>{ Row(){} },item=>item); }}}

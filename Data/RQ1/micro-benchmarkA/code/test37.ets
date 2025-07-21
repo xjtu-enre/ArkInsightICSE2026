@@ -1,0 +1,1 @@
+struct A { build() { Column('a') { Text('b') if (true) { Text('b') } } } }

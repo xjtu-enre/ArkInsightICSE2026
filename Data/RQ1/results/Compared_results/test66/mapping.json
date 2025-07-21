@@ -1,0 +1,167 @@
+[
+  {
+    "our_uid": 9,
+    "our_type": "CALL",
+    "our_raw_type": "ArkTSCallExpression",
+    "our_label": null,
+    "normal_uid": 17,
+    "normal_type": "CALL",
+    "normal_raw_type": "CallExpression",
+    "normal_label": "this.c.builder()",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 10,
+    "our_type": "MEMBER",
+    "our_raw_type": "MemberExpression",
+    "our_label": null,
+    "normal_uid": 18,
+    "normal_type": "MEMBER",
+    "normal_raw_type": "PropertyAccessExpression",
+    "normal_label": "this.c.builder",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 11,
+    "our_type": "MEMBER",
+    "our_raw_type": "MemberExpression",
+    "our_label": null,
+    "normal_uid": 19,
+    "normal_type": "MEMBER",
+    "normal_raw_type": "PropertyAccessExpression",
+    "normal_label": "this.c",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 12,
+    "our_type": "THIS",
+    "our_raw_type": "ThisExpression",
+    "our_label": null,
+    "normal_uid": 20,
+    "normal_type": "THIS",
+    "normal_raw_type": "ThisKeyword",
+    "normal_label": "this",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 13,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "c",
+    "normal_uid": 21,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "c",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 14,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "builder",
+    "normal_uid": 22,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "builder",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 3,
+    "our_type": "METHOD",
+    "our_raw_type": "ClassMethod",
+    "our_label": null,
+    "normal_uid": 11,
+    "normal_type": "METHOD",
+    "normal_raw_type": "MethodDeclaration",
+    "normal_label": "@Builder foo() {this.c.builder()}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 4,
+    "our_type": "DECORATOR",
+    "our_raw_type": "Decorator",
+    "our_label": "Builder",
+    "normal_uid": 12,
+    "normal_type": "DECORATOR",
+    "normal_raw_type": "Decorator",
+    "normal_label": "@Builder",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 5,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Builder",
+    "normal_uid": 13,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Builder",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 6,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "foo",
+    "normal_uid": 14,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "foo",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 7,
+    "our_type": "BLOCK",
+    "our_raw_type": "BlockStatement",
+    "our_label": null,
+    "normal_uid": 15,
+    "normal_type": "BLOCK",
+    "normal_raw_type": "Block",
+    "normal_label": "{this.c.builder()}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 8,
+    "our_type": "EXPR_STMT",
+    "our_raw_type": "ExpressionStatement",
+    "our_label": null,
+    "normal_uid": 16,
+    "normal_type": "EXPR_STMT",
+    "normal_raw_type": "ExpressionStatement",
+    "normal_label": "this.c.builder()",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 2,
+    "our_type": "Identifier",
+    "our_raw_type": "Identifier",
+    "our_label": "Index",
+    "normal_uid": 2,
+    "normal_type": "Identifier",
+    "normal_raw_type": "Identifier",
+    "normal_label": "Index",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 0,
+    "our_type": "PROGRAM",
+    "our_raw_type": "File",
+    "our_label": null,
+    "normal_uid": 0,
+    "normal_type": "PROGRAM",
+    "normal_raw_type": "SourceFile",
+    "normal_label": "struct Index{ @Builder foo() {this.c.builder()}}",
+    "confidence": 1.0
+  },
+  {
+    "our_uid": 1,
+    "our_type": "STRUCT",
+    "our_raw_type": "ArkTSStructDeclaration",
+    "our_label": null,
+    "normal_uid": 1,
+    "normal_type": "STRUCT",
+    "normal_raw_type": "StructDeclaration",
+    "normal_label": "struct Index{ @Builder foo() {this.c.builder()}}",
+    "confidence": 1.4
+  }
+]

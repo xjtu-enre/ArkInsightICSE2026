@@ -1,0 +1,235 @@
+{
+  "type": "File",
+  "start": 0,
+  "end": 34,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 34,
+      "index": 34
+    }
+  },
+  "errors": [],
+  "program": {
+    "type": "Program",
+    "start": 0,
+    "end": 34,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 0,
+        "index": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 34,
+        "index": 34
+      }
+    },
+    "sourceType": "module",
+    "interpreter": null,
+    "body": [
+      {
+        "type": "ArkTSStructDeclaration",
+        "start": 0,
+        "end": 34,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "index": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 34,
+            "index": 34
+          }
+        },
+        "id": {
+          "type": "Identifier",
+          "start": 7,
+          "end": 8,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 7,
+              "index": 7
+            },
+            "end": {
+              "line": 1,
+              "column": 8,
+              "index": 8
+            },
+            "identifierName": "A"
+          },
+          "name": "A"
+        },
+        "body": {
+          "type": "ClassBody",
+          "start": 9,
+          "end": 34,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 9,
+              "index": 9
+            },
+            "end": {
+              "line": 1,
+              "column": 34,
+              "index": 34
+            }
+          },
+          "body": [
+            {
+              "type": "ClassMethod",
+              "start": 11,
+              "end": 32,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 11,
+                  "index": 11
+                },
+                "end": {
+                  "line": 1,
+                  "column": 32,
+                  "index": 32
+                }
+              },
+              "static": false,
+              "key": {
+                "type": "Identifier",
+                "start": 11,
+                "end": 16,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 11,
+                    "index": 11
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 16,
+                    "index": 16
+                  },
+                  "identifierName": "build"
+                },
+                "name": "build"
+              },
+              "computed": false,
+              "kind": "build",
+              "id": null,
+              "generator": false,
+              "async": false,
+              "params": [],
+              "body": {
+                "type": "BlockStatement",
+                "start": 19,
+                "end": 32,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 19,
+                    "index": 19
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 32,
+                    "index": 32
+                  }
+                },
+                "body": [
+                  {
+                    "type": "ExpressionStatement",
+                    "start": 21,
+                    "end": 30,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 21,
+                        "index": 21
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 30,
+                        "index": 30
+                      }
+                    },
+                    "expression": {
+                      "type": "ArkTSCallExpression",
+                      "start": 21,
+                      "end": 30,
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 21,
+                          "index": 21
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 30,
+                          "index": 30
+                        }
+                      },
+                      "callee": {
+                        "type": "Identifier",
+                        "start": 21,
+                        "end": 25,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 21,
+                            "index": 21
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 25,
+                            "index": 25
+                          },
+                          "identifierName": "Text"
+                        },
+                        "name": "Text"
+                      },
+                      "arguments": [
+                        {
+                          "type": "StringLiteral",
+                          "start": 26,
+                          "end": 29,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 26,
+                              "index": 26
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 29,
+                              "index": 29
+                            }
+                          },
+                          "extra": {
+                            "rawValue": "a",
+                            "raw": "'a'"
+                          },
+                          "value": "a"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "directives": []
+  },
+  "comments": []
+}
