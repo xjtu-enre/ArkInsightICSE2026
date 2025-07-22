@@ -351,7 +351,7 @@ entity:
             loc: 4:5
             optional: true
 ```
-<!-- ets不支持this作为参数类型 -->
+<!-- "ETS does not support `this` as a parameter type."-->
 #### Semantic: `this` in Parameter List
 
 JavaScript does not allow a parameter to have the name of `this`, however, TypeScript allows this for typing `this`, in

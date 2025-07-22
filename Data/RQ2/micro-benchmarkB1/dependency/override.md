@@ -15,7 +15,7 @@ name: Relation override
 Since JavaScript does not have a type system built-in, it does not utilize a method type signature checking as Java would do to determine whether a method from a subclass is or is not an override of a method in superclass.
 
 ##### Examples
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 <!-- ###### Subclass overrides method
 
 ```js
@@ -56,7 +56,7 @@ relation:
             to: method:'Foo.a'[@kind=get]
             loc: file0:16:9
 ``` -->
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 <!-- ###### Subclass overrides constructor
 
 ```js

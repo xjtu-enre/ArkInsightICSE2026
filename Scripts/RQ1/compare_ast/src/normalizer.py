@@ -12,13 +12,13 @@ class NormalizedNode:
     def __init__(self, raw_node: ASTNode):
         self.raw_node = raw_node
         self.raw_type = raw_node.type
-        # 规范类型映射
+        # Normalize type mapping
         self.normalized_type = TYPE_EQUIVALENCE.get(self.raw_type, self.raw_type)
-        # 继承 ASTNode.label
+        # Inherit ASTNode.label
         self.label = raw_node.label
-        # 跳过逻辑
+        # Skip logic
         self.skip = (self.raw_type in SKIPPABLE_TYPES) or (self.raw_type == "ClassBody")
-        # 子节点扁平化：跳过 skip 的直接提升
+        # Flatten children nodes: directly promote children of skipped nodes
         self.children = []
         for c in raw_node.children:
             cn = NormalizedNode(c)

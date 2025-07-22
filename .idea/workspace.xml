@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="437d4b73-2cba-4e41-aeb0-2e874368a055" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/arkts_new_rules_relation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/arkts_new_rules_relation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/export.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/export.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/import.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/import.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/override.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/override.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/use.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/use.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/arkts_new_rules_entity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/arkts_new_rules_entity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/method.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/namespace.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/namespace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/parameter.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/parameter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/RQ2/results1/tests/_arkts-new-rules-entity-declaration/_arkts-no-any-unknown/file0.ets" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/results1/tests/_arkts-new-rules-entity-declaration/_arkts-no-any-unknown/file0.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/batch_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/batch_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/heatmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/heatmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/matcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/normalizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/normalizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/similarity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ4/draw5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ4/draw5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/RQ4/pre2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ4/pre2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JJ3339"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xjtu-enre/ArkInsightICSE2026.git",
+    "accountId": "cddd65a8-5e53-4094-9cdf-977e247daeb1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30AuBwkXrHese4kOjcfFs4Rw731" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +61,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -27,8 +73,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
-        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -41,7 +87,16 @@
       <option name="presentableId" value="Default" />
       <updated>1753082570437</updated>
       <workItem from="1753082573497" duration="5000" />
+      <workItem from="1753156809528" duration="4189000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Data/RQ2/results1/tests/_file-extensions/_ts-extension/file0.d.ts" />
+      </list>
+    </option>
   </component>
 </project>

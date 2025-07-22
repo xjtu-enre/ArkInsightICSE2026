@@ -186,8 +186,8 @@ class Person {
 }
 
 let person = new Person("John", 30, "***@example.com", "18*********")
-console.log(person["name1"])         // 编译时错误
-console.log(person.unknownProperty) // 编译时错误
+console.log(person["name1"])         // Compile-time error
+console.log(person.unknownProperty) // Compile-time error
 
 let arr = new Int32Array(1)
 console.log(arr[0])
@@ -232,14 +232,14 @@ interface I1 {
     f(): string
 }
 
-type I2 = I1 // I2是I1的别名
+type I2 = I1 // I2 is an alias of I1
 
 class B {
     n: number = 0
     s: string = ""
 }
 
-// D是B的继承类，构建了子类型和父类型的关系
+// D extends B, establishing a child‑parent relationship
 class D extends B {
     constructor() {
         super()
@@ -250,9 +250,9 @@ let b = new B()
 let d = new D()
 
 console.log("Assign D to B")
-b = d // 合法赋值，因为B是D的父类
+b = d // Valid assignment because B is the parent class of D
 
-// 将b赋值给d将会引起编译时错误
+// Assigning b to d will cause a compile‑time error
 // d = b
 
 interface Z {
@@ -260,13 +260,13 @@ interface Z {
    s: string
 }
 
-// 类X implements 接口Z，构建了X和Y的关系
+// Class X implements interface Z
 class X implements Z {
     n: number = 0
     s: string = ""
 }
 
-// 类Y implements 接口Z，构建了X和Y的关系
+// Class Y implements interface Z
 class Y implements Z {
     n: number = 0
     s: string = ""
@@ -276,16 +276,16 @@ let x: Z = new X()
 let y: Z = new Y()
 
 console.log("Assign X to Y")
-y = x // 合法赋值，它们是相同的类型
+y = x // Valid assignment; they are the same type
 
 console.log("Assign Y to X")
-x = y // 合法赋值，它们是相同的类型
+x = y // Valid assignment; they are the same type
 
 function foo(c: Z): void {
     console.log(c.n, c.s)
 }
 
-// 类X和类Y implement 相同的接口，因此下面的两个函数调用都是合法的
+// Since classes X and Y implement the same interface, both calls below are valid
 foo(new X())
 foo(new Y())
 ```
@@ -323,7 +323,7 @@ relation:
 ```
 
 ###### arkts-no-func-apply-bind-call
-<!-- 暂时未完全实现 -->
+<!-- Not fully implemented yet -->
 ```ets
 class Person {
     firstName : string
@@ -339,7 +339,7 @@ class Person {
 let person = new Person("")
 let person1 = new Person("Mary")
 
-// 将打印“Mary”
+// This will print "Mary"
 console.log(person1.fullName())
 ```
 
@@ -392,7 +392,7 @@ relation:
 ```
 
 ###### arkts-no-definite-assignment
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ```ets
 function initialize() : number {
     return 10
@@ -449,7 +449,7 @@ relation:
 ```
 
 ###### arkts-no-umd
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ```ts
 export namespace mathLib {
     export function isPrime(x: number): boolean
@@ -498,7 +498,7 @@ relation:
             loc: file1:1:9
 ```
 
-<!-- 暂未完全支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-obj-literals-as-types
 ```ets
 class O {
@@ -547,8 +547,8 @@ class C {
     s: string = ""
 }
 
-let a1 = [{n: 1, s: "1"} as C, {n: 2, s : "2"} as C] // a1的类型为“C[]”
-let a2: C[] = [{n: 1, s: "1"}, {n: 2, s : "2"}]      // a2的类型为“C[]”
+let a1 = [{n: 1, s: "1"} as C, {n: 2, s : "2"} as C] // type of a1 is “C[]”
+let a2: C[] = [{n: 1, s: "1"}, {n: 2, s : "2"}]      // type of a2 is “C[]”
 ```
 
 ```yaml
@@ -625,7 +625,7 @@ relation:
             type: type
 ```
 
-<!-- 暂未支持 -->//TODO:子类对父类方法的call
+<!-- Not fully implemented yet -->//TODO:Calling a superclass method from a subclass
 ###### arkts-no-method-reassignment
 
 ```ets
@@ -724,8 +724,8 @@ relation:
 problem: Need to be fixed soon(I don't know it neither)
 ```ets
 class Shape {}
-class Circle extends Shape {x: number = 5}
-class Square extends Shape {y: string = "a"}
+class Circle extends Shape { x: number = 5 }
+class Square extends Shape { y: string = "a" }
 
 function createShape(): Shape {
     return new Circle()
@@ -733,10 +733,10 @@ function createShape(): Shape {
 
 let c2 = createShape() as Circle
 
-// 运行时抛出ClassCastException异常：
+// Throws ClassCastException at runtime:
 // let c3 = createShape() as Square
 
-// 创建Number对象，获得预期结果：
+// Creating a Number object yields expected result:
 let e2 = (new Number(5.0)) instanceof Number // true
 ```
 
@@ -791,10 +791,10 @@ relation:
             type: call
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-delete
 ```ets
-// 可以声明一个可空类型并使用null作为缺省值
+// You can declare a nullable type and use null as the default value
 class Point {
     x: number | null = 0
     y: number | null = 0
@@ -846,8 +846,8 @@ class X {
 
 let a = (new X()) instanceof Object // true
 let b = (new X()) instanceof X      // true
-// let c = X instanceof Object         // 编译时错误, 左操作数是一个类型
-// let d = X instanceof X              // 编译时错误, 左操作数是一个类型
+// let c = X instanceof Object         // Compile-time error: left operand is a type
+// let d = X instanceof X              // Compile-time error: left operand is a type
 ```
 
 ```yaml
@@ -880,7 +880,7 @@ relation:
             new: true
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-in
 ```ets
 class Person {
@@ -888,7 +888,7 @@ class Person {
 }
 let p = new Person()
 
-let b = p instanceof Person // true，且属性name一定存在
+let b = p instanceof Person // true, and the property 'name' definitely exists
 ```
 
 ```yaml
@@ -933,7 +933,7 @@ relation:
             loc: file0:2:5
             init: true
 ```
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-destruct-assignment
 ```ets
 let arr: number[] = [1, 2]
@@ -1009,7 +1009,7 @@ relation:
             to: variable:'i'
             loc: file0:12:10
             init: true
-        # 上面的依赖暂未完成
+        # The dependencies above are not yet completed.
         -   from: file:'<File file0.ets>'
             to: variable:'arr'
             loc: file0:1:5
@@ -1035,7 +1035,7 @@ relation:
 
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-comma-outside-loops
 ```ets
 for (let i = 0, j = 0; i < 10; ++i, j += 2) {
@@ -1043,7 +1043,7 @@ for (let i = 0, j = 0; i < 10; ++i, j += 2) {
     console.log(j)
 }
 
-// 通过语句表示执行顺序，而非逗号运算符
+// Use statements to express execution order, not the comma operator
 let x = 0
 ++x
 x = x++
@@ -1081,7 +1081,7 @@ relation:
         -   from: file:'<File file0.ets>'
             to: variable:'x'
             loc: file0:9:5
-        # 上述依赖就是还未实现的
+        # The above dependency has not been implemented yet.
         -   from: file:'<File file0.ets>'
             to: variable:'j'
             loc: file0:1:37
@@ -1094,7 +1094,7 @@ relation:
             type: set
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-destruct-decls
 ```ets
 class Point {
@@ -1106,7 +1106,7 @@ function returnZeroPoint(): Point {
     return new Point()
 }
 
-// 创建一个局部变量来处理每个字段：
+// Create a local variable to handle each field
 let zp = returnZeroPoint()
 let x = zp.x
 let y = zp.y
@@ -1162,7 +1162,7 @@ relation:
             loc: file0:13:10
             type: set
             init: true
-        # 上述依赖就是还未实现的
+        # The above dependency has not been implemented yet.
         -   from: function:'returnZeroPoint'
             to: class:'Point'
             loc: file0:7:16
@@ -1174,7 +1174,7 @@ relation:
 
 ###### arkts-no-implicit-return-types
 ```ets
-// 需标注返回类型：
+// Return type must be specified:
 function f(x: number) : number {
     if (x <= 0) {
         return x
@@ -1182,12 +1182,12 @@ function f(x: number) : number {
     return g(x)
 }
 
-// 可以省略返回类型，返回类型可以从f的类型标注推导得到
+// Return type can be omitted because it can be inferred from f's type annotation
 function g(x: number) : number {
     return f(x - 1)
 }
 
-// 可以省略返回类型
+// Return type can be omitted
 function doOperation(x: number, y: number) {
     return x + y
 }
@@ -1270,7 +1270,7 @@ relation:
 ###### arkts-no-nested-funcs
 ```ets
 function addNum(a: number, b: number): void {
-    // 使用lambda函数代替声明函数：
+    // Use a lambda function instead of a declared function:
     let logToConsole: (message: string) => void = (message: string): void => {
         console.log(message)
     }
@@ -1315,7 +1315,7 @@ relation:
             type: call
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-standalone-this
 ```ets
 class A {
@@ -1327,9 +1327,9 @@ class A {
 
 function main(): void {
     let a = new A()
-    console.log(a.count)  // 打印"1"
+    console.log(a.count)  // print "1"
     a.m(2)
-    console.log(a.count)  // 打印"2"
+    console.log(a.count)  // print "2"
 }
 ```
 
@@ -1370,7 +1370,7 @@ relation:
             to: method:'A.m'
             loc: file0:11:7
             type: call
-        # 缺失隐式依赖的call关系
+        # Missing implicit dependency call relationships
         -   from: function:'main'
             to: variable:'main.a'
             loc: file0:10:17
@@ -1385,11 +1385,11 @@ relation:
             type: use
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-generators
 ```ets
 async function complexNumberProcessing(n : number) : Promise<number> {
-    //一些代码逻辑
+    //...
     return n
 }
 
@@ -1422,13 +1422,13 @@ relation:
         -   from: block:'<Block 7:34>'
             to: function:'complexNumberProcessing'
             loc: file0:8:27
-        # 上述依赖就是还未实现的
+        # The above dependencies have not been implemented yet.
         -   from: file:'<File file0.ets>'
             to: function:'foo'
             loc: file0:12:1
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-keyof
 ```ets
 class Point {
@@ -1443,14 +1443,14 @@ function getPropertyValue(obj: Point, key: string): number {
     if (key == "y") {
         return obj.y
     }
-    throw new Error()  // 处理没有该属性的分支
+    throw new Error()  // Handle the branch where the property does not exist
     return 0
 }
 
 function main(): void {
     let obj = new Point()
-    console.log(getPropertyValue(obj, "x"))  // 打印"1"
-    console.log(getPropertyValue(obj, "y"))  // 打印"2"
+    console.log(getPropertyValue(obj, "x"))  // print"1"
+    console.log(getPropertyValue(obj, "y"))  // print"2"
 }
 ```
 
@@ -1476,7 +1476,7 @@ relation:
             to: class:'Point'
             loc: file0:18:19
             new: true
-        # 上述即为缺少一部分call关系
+        # The above represents the missing part of the call relationships.
         -   from: function:'main'
             to: function:'getPropertyValue'
             loc: file0:19:17
@@ -1517,7 +1517,7 @@ relation:
 ```
 
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-prop-existence-check
 ```ets
 class A {
@@ -1534,7 +1534,7 @@ function main(): void {
     let obj: A = tmp as A
     obj.foo()       // OK
     obj.bar()       // OK
-//    obj.some_foo()  // 编译时错误：方法some_foo不存在于此类型上
+//    obj.some_foo()  // Compile-time error: Method `some_foo` does not exist on this type.
 }
 ```
 
@@ -1585,7 +1585,7 @@ relation:
         -   from: function:'main'
             to: method:'A.bar'
             loc: file0:14:9
-        # 上述依赖就是缺少call关系的依赖
+        # The above dependencies represent the missing call relationships.
         -   from: function:'getSomeObject'
             to: class:'A'
             loc: file0:7:16
@@ -1632,7 +1632,7 @@ relation:
             kind: any
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-ns-statements
 ```ets
 namespace A {
@@ -1643,7 +1643,7 @@ namespace A {
     }
 }
 
-// 调用初始化函数来执行：
+
 A.init()
 ```
 
@@ -1670,7 +1670,7 @@ relation:
             to: function:'A.init'
             loc: file0:10:3
             type: call   
-        # 上述即为缺少call关系的依赖
+        # The above dependencies represent the missing call relationships.
         -   from: namespace:'A'
             to: variable:'A.x'
             loc: file0:2:16
@@ -1818,12 +1818,12 @@ relation:
 
 ###### arkts-no-special-exports
 ```ets
-// 显式导出class：
+// explicitly export class1：
 export class Class1 {
     // ...
 }
 
-// 显式导出class：
+// explicitly export class2：
 export class Class2 {
     // ...
 }
@@ -1848,7 +1848,7 @@ relation:
 <!-- ###### arkts-no-ambient-decls
 
 ```ets
-// 从原始模块中导入需要的内容
+// import
 import { normalize } from "someModule"
 ```
 
@@ -1884,7 +1884,7 @@ export default interface Foo {
 ```
 
 ```ets
-// 声明
+// del
 declare namespace N {
     function foo(x: number): number
 }
@@ -1901,7 +1901,7 @@ entity:
         -   name: N
             loc: file0:2:19
             type: namespace
-        # 缺失的实体解析
+        # Missing entity resolution
         -   name: foo
             qualified: N.foo
             loc: file0:3:14
@@ -1916,7 +1916,7 @@ relation:
             alias: m
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-untyped-obj-literals
 ```ets
 class C1 {
@@ -1924,11 +1924,11 @@ class C1 {
     s: string = ""
 }
 
-let o1: C1 = {n: 42, s: "foo"}
-let o2: C1 = {n: 42, s: "foo"}
-let o3: C1 = {n: 42, s: "foo"}
+let o1: C1 = { n: 42, s: "foo" }
+let o2: C1 = { n: 42, s: "foo" }
+let o3: C1 = { n: 42, s: "foo" }
 
-let oo: C1[] = [{n: 1, s: "1"}, {n: 2, s: "2"}]
+let oo: C1[] = [{ n: 1, s: "1" }, { n: 2, s: "2" }]
 
 class C2 {
     s: string
@@ -1942,11 +1942,11 @@ class C3 {
     n: number = 0
     s: string = ""
 }
-let o5: C3 = {n: 42, s: "foo"}
+let o5: C3 = { n: 42, s: "foo" }
 
 abstract class A {}
 class C extends A {}
-let o6: C = {} // 或 let o6: C = new C()
+let o6: C = {}  // or let o6: C = new C()
 
 class C4 {
     n: number = 0
@@ -1963,20 +1963,20 @@ class Point {
     x: number = 0
     y: number = 0
 
-    // 在字面量初始化之前，使用constructor()创建一个有效对象。
-    // 由于没有为Point定义构造函数，编译器将自动添加一个默认构造函数。
+    // When using constructor() before literal initialization to create a valid object.
+    // Since no constructor is defined explicitly, compiler adds a default constructor.
 }
 
 function id_x_y(o: Point): Point {
     return o
 }
 
-// 字面量初始化需要显式定义类型
-let p: Point = {x: 5, y: 10}
+// Literal initialization requires explicit type definition
+let p: Point = { x: 5, y: 10 }
 id_x_y(p)
 
-// id_x_y接受Point类型，字面量初始化生成一个Point的新实例
-id_x_y({x: 5, y: 10})
+// id_x_y accepts Point type; literal initialization creates a new Point instance
+id_x_y({ x: 5, y: 10 })
 ```
 
 ```yaml
@@ -2144,12 +2144,12 @@ relation:
 
 ###### arkts-limited-reexport
 ```ets
-// 显式导出class：
+// explicitly export class1：
 export class Class1 {
     // ...
 }
 
-// 显式导出class：
+// explicitly export class2：
 export class Class2 {
     // ...
 }
@@ -2159,7 +2159,7 @@ export class Class2 {
 export { Class1 } from "./file0"
 export { Class2 } from "./file0"
 
-// 支持以下语法
+// support
 // export * from "module1"
 ```
 
@@ -2195,16 +2195,16 @@ relation:
 ```
 
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-polymorphic-unops
 ```ets
-let a = +5        // 5（number类型）
-// let b = +"5"      // 编译时错误
-let c = -5        // -5（number类型）
-// let d = -"5"      // 编译时错误
-let e = ~5        // -6（number类型）
-// let f = ~"5"      // 编译时错误
-// let g = +"string" // 编译时错误
+let a = +5        // 5 (number type)
+// let b = +"5"      // Compile-time error
+let c = -5        // -5 (number type)
+// let d = -"5"      // Compile-time error
+let e = ~5        // -6 (number type)
+// let f = ~"5"      // Compile-time error
+// let g = +"string" // Compile-time error
 
 function returnTen(): string {
     return "-10"
@@ -2214,8 +2214,8 @@ function returnString(): string {
     return "string"
 }
 
-// let x = +returnTen()    // 编译时错误
-// let y = +returnString() // 编译时错误
+// let x = +returnTen()    // Compile-time error
+// let y = +returnString() // Compile-time error
 ```
 
 ```yaml
@@ -2400,7 +2400,8 @@ console.log(x.name)
 let y = [1, 2, 3]
 console.log(y[2])
 
-// 在需要通过非标识符（即不同类型的key）获取数据的场景中，使用Map<Object, some_type>:
+// Use Map\<Object, some\_type> when needing to access data by non-identifier keys 
+// (i.e., keys of different types):
 let z = new Map<Object, number>()
 z.set("name", 1)
 z.set(2, 2)
@@ -2457,7 +2458,7 @@ relation:
             loc: file0:15:13
 ```
 
-<!-- 暂未支持 -->
+<!-- Not fully implemented yet -->
 ###### arkts-no-func-props
 ```ets
 class MyImage {
@@ -2499,7 +2500,7 @@ relation:
             to: class:'MyImage'
             loc: file0:13:16
             new: true
-        # 还未实现的call依赖关系
+        # The call dependency relationships have not been implemented yet.
         -   from: function:'readImage'
             to: class:'MyImage'
             loc: file0:9:22
@@ -2512,8 +2513,8 @@ function choose<T>(x: T, y: T): T {
     return Math.random() < 0.5 ? x : y
 }
 
-let x = choose(10, 20)   // OK，推断choose<number>(...)
-// let y = choose("10", 20) // 编译时错误
+let x = choose(10, 20)   // OK, infers choose<number>(...)
+ // let y = choose("10", 20) // Compile-time error
 
 function greet<T>(): T {
     return "Hello" as T
@@ -2561,7 +2562,7 @@ relation:
         -   from: type parameter:'choose.T'
             to: function:'choose'
             loc: file0:1:33 
-        # 下面是缺失的call依赖
+        # Below are the missing call dependencies.
         -   from: file:'<File file0.ets>'
             to: function:'choose'
             loc: file0:5:9
@@ -2570,7 +2571,7 @@ relation:
             to: function:'greet'
             loc: file0:11:9
             type: call  
-        # 错误识别的type
+        # Incorrectly identified type dependency:
         -   from: type parameter:'choose.T'
             to: parameter:'choose.x'
             loc: file0:1:23 

@@ -1,7 +1,7 @@
 # src/report.py
 # -*- coding: utf-8 -*-
 """
-report.py: 生成匹配报告——节点映射、差异列表、相似度矩阵等。
+report.py: Generate matching reports — node mappings, difference lists, similarity matrix, etc.
 """
 
 import os
@@ -14,19 +14,19 @@ class ReportGenerator:
     @staticmethod
     def generate(match_result, score: float, out_dir: str):
         """
-        在 out_dir 下生成：
-          - mapping.json: 匹配节点对列表
-          - diffs.json: 差异节点列表与类型变化
-          - matrix.npy: 置信度矩阵
-          - summary.json: 总体相似度等元信息
+        Generate in out_dir:
+          - mapping.json: list of matched node pairs
+          - diffs.json: list of unmatched nodes and type changes
+          - matrix.npy: confidence matrix
+          - summary.json: metadata such as overall similarity
         """
         os.makedirs(out_dir, exist_ok=True)
 
-        # 1. 构建 uid -> node 映射，以便查找节点信息
+        # 1. Build uid -> node maps for node info lookup
         our_nodes = {n.uid: n for n in traverse_preorder(match_result.our_root)}
         norm_nodes = {n.uid: n for n in traverse_preorder(match_result.normal_root)}
 
-        # 2. 输出 mapping.json
+        # 2. Output mapping.json
         mapping_list = []
         for our_uid, norm_uid in match_result.mapping.items():
             a = our_nodes[our_uid]
@@ -45,7 +45,7 @@ class ReportGenerator:
         with open(os.path.join(out_dir, "mapping.json"), "w", encoding="utf-8") as f:
             json.dump(mapping_list, f, ensure_ascii=False, indent=2)
 
-        # 3. 找出未匹配节点（差异列表）
+        # 3. Find unmatched nodes (difference list)
         our_only = []
         for uid, n in our_nodes.items():
             if uid not in match_result.mapping:
@@ -65,7 +65,7 @@ class ReportGenerator:
                     "label": n.label
                 })
 
-        # 4. 类型变化列表（匹配对中 raw_type 不同的项）
+        # 4. List of type changes (entries where raw_type differs in matched pairs)
         type_changes = []
         for entry in mapping_list:
             if entry["our_raw_type"] != entry["normal_raw_type"]:
@@ -87,11 +87,11 @@ class ReportGenerator:
         with open(os.path.join(out_dir, "diffs.json"), "w", encoding="utf-8") as f:
             json.dump(diffs, f, ensure_ascii=False, indent=2)
 
-        # 5. 保存置信度矩阵
+        # 5. Save confidence matrix
         matrix_path = os.path.join(out_dir, "matrix.npy")
         np.save(matrix_path, match_result.confidence_matrix)
 
-        # 6. 输出 summary.json
+        # 6. Output summary.json
         summary = {
             "similarity_score": score,
             "total_our_nodes": len(our_nodes),

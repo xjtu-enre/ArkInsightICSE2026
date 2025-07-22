@@ -105,7 +105,7 @@ relation:
 ```
 
 <!-- ###### Namespace import
-暂未支持
+Not Support yet
 ```js
 export function func() {
     /* Empty */
@@ -334,7 +334,7 @@ module asynchronously and dynamically into a potentially non-module environment.
 It returns a promise which fulfills to an object containing all exports from moduleName, with the same shape as a
 namespace import (`import * as name from moduleName`): an object with `null`prototype, and the default export available
 as a key named default.
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 <!-- ##### Examples -->
 <!-- 
 ###### Simple dynamic import
@@ -413,7 +413,7 @@ relation:
 <!--#### Semantic: CJS Import-->
 
 <!-- #### Syntax: TypeScript Namespace Imports
-暂未支持
+Not Support yet>
 ```text
 ImportAliasDeclaration:
     `import` BindingIdentifier `=` EntityName `;`

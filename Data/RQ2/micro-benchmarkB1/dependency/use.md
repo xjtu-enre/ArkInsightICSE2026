@@ -40,7 +40,7 @@ relation:
     type: use
     extra: false
     items:
-        # 暂不支持
+        # Not Support yet
         # -   from: enum:'Far'
         #     to: enum member:'Foo.a'
         #     loc: file0:10:9

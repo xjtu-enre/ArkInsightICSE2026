@@ -1,8 +1,8 @@
 # main.py
 # -*- coding: utf-8 -*-
 """
-命令行入口：加载 AST、规范化、匹配、计算相似度、生成报告并可选绘制热力图
-现在支持直接在代码里传入 args_dict 进行调用，或保持从命令行读取。
+Command-line entry: Load ASTs, normalize, match, compute similarity, generate report, and optionally plot heatmap.
+Supports both direct call via args_dict and standard command-line usage.
 """
 
 import os
@@ -18,29 +18,29 @@ from src.heatmap import HeatmapPlotter
 
 def main(cli_args=None):
     # -------------------------------------------------------------------------
-    # 新增：如果传入了一个 dict，就用它构造 args；否则正常使用 argparse
+    # New: If a dict is passed in, construct args from it; otherwise use argparse as usual.
     # -------------------------------------------------------------------------
     parser = argparse.ArgumentParser(
-        description="计算 two ASTs 的相似度并生成详细报告"
+        description="Compute similarity between two ASTs and generate a detailed report"
     )
-    parser.add_argument("our_ast", help="路径到自定义 AST 文件(our_ast.json)")
-    parser.add_argument("normal_ast", help="路径到官方 AST 文件(normal_ast.json)")
-    parser.add_argument("-o", "--out_dir", default="output", help="报告输出目录")
+    parser.add_argument("our_ast", help="Path to the custom AST file (our_ast.json)")
+    parser.add_argument("normal_ast", help="Path to the reference AST file (normal_ast.json)")
+    parser.add_argument("-o", "--out_dir", default="output", help="Output directory for the report")
     parser.add_argument("--heatmap", action="store_true",
-                        help="是否生成热力图 (依赖 matplotlib)")
+                        help="Whether to generate a heatmap (requires matplotlib)")
 
     if isinstance(cli_args, dict):
-        # 直接用字典构造 Namespace
+        # Construct Namespace directly from dictionary
         args = argparse.Namespace(**cli_args)
     elif cli_args is None:
-        # 正常从命令行解析
+        # Parse arguments from command line
         args = parser.parse_args()
     else:
-        # 如果已经传入 Namespace 也支持
+        # Allow pre-constructed Namespace
         args = cli_args
 
     # -------------------------------------------------------------------------
-    # 原有流程无改动
+    # Original workflow remains unchanged
     # -------------------------------------------------------------------------
     print("Loading AST files...")
     our_root = ASTLoader.load_from_file(args.our_ast)
@@ -72,15 +72,15 @@ def main(cli_args=None):
 
 
 if __name__ == "__main__":
-    # —— 方式一：直接从命令行调用 ——
+    # — Option 1: Call from command line —
     # main()
 
-    # —— 方式二：在代码里硬编码参数 ——
-    # 只需取消下面一行的注释即可，用例：
+    # — Option 2: Hardcoded parameters in code —
+    # Just uncomment the following line to run:
     args = {
-        "our_ast": r"C:\Users\lijiale\Desktop\ArkTS\AST相似度算法\our_ast.json",
-        "normal_ast": r"C:\Users\lijiale\Desktop\ArkTS\AST相似度算法\normal_ast.json",
-        "out_dir": r"C:\Users\lijiale\Desktop\ArkTS\AST相似度算法\my_output\11",
+        "our_ast": r"C:\Users\lijiale\Desktop\ArkTS\our_ast.json",
+        "normal_ast": r"C:\Users\lijiale\Desktop\ArkTS\normal_ast.json",
+        "out_dir": r"C:\Users\lijiale\Desktop\ArkTS\my_output\11",
         "heatmap": True
     }
     main(args)

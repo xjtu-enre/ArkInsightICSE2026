@@ -6,8 +6,8 @@ import numpy as np
 name_for = {'python': 'Python'}
 
 tools = {
-    'enre': ['ENRE'],
-    'ark': ['Ark'],
+    'ArkInsight': ['ArkInsight'],
+    'ArkAnalyzer': ['ArkAnalyzer'],
 }
 
 def init(logloc=False):
@@ -40,16 +40,15 @@ def init(logloc=False):
         try:
             with open(f'{lang}_heapTotal.csv', 'r', encoding='utf-8-sig') as file:
                 data = csv.reader(file)
-                header = next(data)  # 读取表头
+                header = next(data)  
 
-                # 初始化数据结构
                 curr['loc'] = []
                 for tool in tools:
                     for metric in metrics:
                         curr[f'{tool}-{metric}'] = []
 
                 for row in data:
-                    # 读取LOC
+                    # load LOC
                     loc_num = int(row[1])
                     if logloc:
                         if loc_num == 0:
@@ -59,37 +58,37 @@ def init(logloc=False):
                     else:
                         curr['loc'].append(loc_num)
 
-                    # 读取各个数据列，列顺序（假设固定）：
-                    # 2: ENRE-time
-                    # 3: ENRE-memory-Heap
-                    # 4: ENRE-memory-RSS
-                    # 5: Ark-time
-                    # 6: Ark-memory-Heap
-                    # 7: Ark-memory-RSS
+                    # 1: project
+                    # 2: ArkInsight-time
+                    # 3: ArkInsight-memory-Heap
+                    # 4: ArkInsight-memory-RSS
+                    # 5: ArkAnalyzer-time
+                    # 6: ArkAnalyzer-memory-Heap
+                    # 7: ArkAnalyzer-memory-RSS
                     try:
-                        enre_time = float(row[2]) if row[2] != '' else np.nan
-                        enre_mem_heap = float(row[3]) if row[3] != '' else np.nan
-                        enre_mem_rss = float(row[4]) if row[4] != '' else np.nan
-                        ark_time = float(row[5]) if row[5] != '' else np.nan
-                        ark_mem_heap = float(row[6]) if row[6] != '' else np.nan
-                        ark_mem_rss = float(row[7]) if row[7] != '' else np.nan
+                        ArkInsight_time = float(row[2]) if row[2] != '' else np.nan
+                        ArkInsight_mem_heap = float(row[3]) if row[3] != '' else np.nan
+                        ArkInsight_mem_rss = float(row[4]) if row[4] != '' else np.nan
+                        ArkAnalyzer_time = float(row[5]) if row[5] != '' else np.nan
+                        ArkAnalyzer_mem_heap = float(row[6]) if row[6] != '' else np.nan
+                        ArkAnalyzer_mem_rss = float(row[7]) if row[7] != '' else np.nan
                     except (ValueError, IndexError):
-                        enre_time = enre_mem_heap = enre_mem_rss = np.nan
-                        ark_time = ark_mem_heap = ark_mem_rss = np.nan
+                        ArkInsight_time = ArkInsight_mem_heap = ArkInsight_mem_rss = np.nan
+                        ArkAnalyzer_time = ArkAnalyzer_mem_heap = ArkAnalyzer_mem_rss = np.nan
 
-                    curr['enre-time'].append(enre_time * 1000)  # 转成毫秒
-                    curr['enre-memory-heap'].append(enre_mem_heap if enre_mem_heap > 0 else np.nan)
-                    curr['enre-memory-rss'].append(enre_mem_rss if enre_mem_rss > 0 else np.nan)
+                    curr['ArkInsight-time'].append(ArkInsight_time * 1000)  # ms
+                    curr['ArkInsight-memory-heap'].append(ArkInsight_mem_heap if ArkInsight_mem_heap > 0 else np.nan)
+                    curr['ArkInsight-memory-rss'].append(ArkInsight_mem_rss if ArkInsight_mem_rss > 0 else np.nan)
 
-                    curr['ark-time'].append(ark_time * 1000)
-                    curr['ark-memory-heap'].append(ark_mem_heap if ark_mem_heap > 0 else np.nan)
-                    curr['ark-memory-rss'].append(ark_mem_rss if ark_mem_rss > 0 else np.nan)
+                    curr['ArkAnalyzer_time'].append(ArkAnalyzer_time * 1000)
+                    curr['ArkAnalyzer-memory-heap'].append(ArkAnalyzer_mem_heap if ArkAnalyzer_mem_heap > 0 else np.nan)
+                    curr['ArkAnalyzer-memory-rss'].append(ArkAnalyzer_mem_rss if ArkAnalyzer_mem_rss > 0 else np.nan)
 
         except EnvironmentError:
             print(f'No {lang}.csv file found, skipping to the next')
             continue
 
-        # Convert to numpy array and clean invalid (<=0变nan)
+        # Convert to numpy array and clean invalid (<=0 nan)
         for key in curr:
             if key != 'loc':
                 curr[key] = np.array(curr[key])

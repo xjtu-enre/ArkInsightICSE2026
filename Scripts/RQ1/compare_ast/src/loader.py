@@ -6,23 +6,23 @@ from src.utils import assign_unique_ids
 
 def _extract_label(raw: dict) -> str | None:
     """
-    从原始节点 raw 中提取一个核心语义标签：
-    1) identifier/keyword: raw['name'] 或 raw['text']
-    2) literal: raw['value'] 或 raw['text']
-    3) call/decorator/property: 看子节点
+    Extract a core semantic label from raw node:
+    1) identifier/keyword: raw['name'] or raw['text']
+    2) literal: raw['value'] or raw['text']
+    3) call/decorator/property: check child nodes
     """
-    # 1. 显式 name 优先
+    # 1. Prefer explicit name
     name = raw.get("name")
     if name:
         return name
-    # 2. value 字面量
+    # 2. Literal value
     if raw.get("value") is not None:
         return str(raw["value"])
-    # 3. text 字段
+    # 3. Text field
     text = raw.get("text")
     if text and text.strip():
         return text.strip("` ")
-    # 4. 特殊情况：CallExpression、Decorator、ObjectProperty 等
+    # 4. Special cases: CallExpression, Decorator, ObjectProperty, etc.
     if raw.get("type") in ("CallExpression", "ArkTSCallExpression", "EtsComponentExpression"):
         callee = raw.get("callee") or raw.get("expression")
         if isinstance(callee, dict):
@@ -42,7 +42,7 @@ class ASTNode:
     def __init__(self, raw: dict):
         self.raw = raw
         self.type = raw.get("type") or raw.get("kind")
-        # 把 program.body 扁平化为 children
+        # Flatten program.body to children
         children_raw = []
         if "program" in raw and isinstance(raw["program"].get("body"), list):
             children_raw = raw["program"]["body"]
@@ -54,15 +54,15 @@ class ASTNode:
                     for itm in v:
                         if isinstance(itm, dict) and ("type" in itm or "kind" in itm):
                             children_raw.append(itm)
-        # 构建子节点
+        # Build children nodes
         self.children = [ASTNode(ch) for ch in children_raw]
-        # 位置
+        # Location info
         self.start = raw.get("start", raw.get("pos"))
         self.end = raw.get("end")
         self.loc = raw.get("loc")
-        # 新增核心标签
+        # Core label
         self.label = _extract_label(raw)
-        # uid 后面分配
+        # uid to be assigned later
         self.uid = None
 
     def __repr__(self):
