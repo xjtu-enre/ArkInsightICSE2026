@@ -85,8 +85,8 @@ def generate_aggregate_excel(out_root: str):
 
 
 if __name__ == "__main__":
-    our_dir = r"C:\Users\lijiale\Desktop\ArkTS\AST_compare\Enre-ASTs"
-    normal_dir = r"C:\Users\lijiale\Desktop\ArkTS\AST_compare\Ark-ASTs"
+    our_dir = r"C:\Users\lijiale\Desktop\ArkTS\AST_compare\ArkInsight-ASTs"
+    normal_dir = r"C:\Users\lijiale\Desktop\ArkTS\AST_compare\ArkAnalyzer-ASTs"
     out_root = r"C:\Users\lijiale\Desktop\ArkTS\my_output\batch_run"
     heatmap = True
 

@@ -61,7 +61,7 @@ class Foo {
     1e-3;
 
     /**
-     * Computed key will NOT be extracted by ENRE.
+     * Computed key will NOT be extracted by ArkInsight.
      */
     [`!computed${d}`];
 }

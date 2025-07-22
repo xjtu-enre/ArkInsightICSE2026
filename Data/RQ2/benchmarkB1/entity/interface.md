@@ -160,6 +160,6 @@ relation:
 -->
 ### Properties
 
-| Name         | Description                                                          |       Type       |   Default   |
-|--------------|----------------------------------------------------------------------|:----------------:|:-----------:|
-| declarations | Each item is a code location where a merge-able declaration appears. | `ENRELocation[]` | `undefined` |
+| Name         | Description                                                          |     Type     |   Default   |
+|--------------|----------------------------------------------------------------------|:------------:|:-----------:|
+| declarations | Each item is a code location where a merge-able declaration appears. | `Location[]` | `undefined` |
