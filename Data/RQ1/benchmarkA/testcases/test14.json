@@ -1,0 +1,251 @@
+{
+  "type": "File",
+  "start": 0,
+  "end": 47,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 47,
+      "index": 47
+    }
+  },
+  "errors": [],
+  "program": {
+    "type": "Program",
+    "start": 0,
+    "end": 47,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 0,
+        "index": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 47,
+        "index": 47
+      }
+    },
+    "sourceType": "module",
+    "interpreter": null,
+    "body": [
+      {
+        "type": "ExportNamedDeclaration",
+        "start": 0,
+        "end": 47,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "index": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 47,
+            "index": 47
+          }
+        },
+        "exportKind": "value",
+        "specifiers": [],
+        "source": null,
+        "declaration": {
+          "type": "ArkTSStructDeclaration",
+          "start": 0,
+          "end": 47,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0,
+              "index": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 47,
+              "index": 47
+            }
+          },
+          "id": {
+            "type": "Identifier",
+            "start": 32,
+            "end": 33,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 32,
+                "index": 32
+              },
+              "end": {
+                "line": 1,
+                "column": 33,
+                "index": 33
+              },
+              "identifierName": "A"
+            },
+            "name": "A"
+          },
+          "body": {
+            "type": "ClassBody",
+            "start": 34,
+            "end": 47,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 34,
+                "index": 34
+              },
+              "end": {
+                "line": 1,
+                "column": 47,
+                "index": 47
+              }
+            },
+            "body": [
+              {
+                "type": "ClassMethod",
+                "start": 36,
+                "end": 46,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 36,
+                    "index": 36
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 46,
+                    "index": 46
+                  }
+                },
+                "static": false,
+                "key": {
+                  "type": "Identifier",
+                  "start": 36,
+                  "end": 41,
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 36,
+                      "index": 36
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 41,
+                      "index": 41
+                    },
+                    "identifierName": "build"
+                  },
+                  "name": "build"
+                },
+                "computed": false,
+                "kind": "build",
+                "id": null,
+                "generator": false,
+                "async": false,
+                "params": [],
+                "body": {
+                  "type": "BlockStatement",
+                  "start": 44,
+                  "end": 46,
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 44,
+                      "index": 44
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 46,
+                      "index": 46
+                    }
+                  },
+                  "body": []
+                }
+              }
+            ]
+          },
+          "decorators": [
+            {
+              "type": "Decorator",
+              "start": 0,
+              "end": 6,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 0,
+                  "index": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 6,
+                  "index": 6
+                }
+              },
+              "expression": {
+                "type": "Identifier",
+                "start": 1,
+                "end": 6,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "index": 1
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 6,
+                    "index": 6
+                  },
+                  "identifierName": "Entry"
+                },
+                "name": "Entry"
+              }
+            },
+            {
+              "type": "Decorator",
+              "start": 7,
+              "end": 17,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 7,
+                  "index": 7
+                },
+                "end": {
+                  "line": 1,
+                  "column": 17,
+                  "index": 17
+                }
+              },
+              "expression": {
+                "type": "Identifier",
+                "start": 8,
+                "end": 17,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 8,
+                    "index": 8
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 17,
+                    "index": 17
+                  },
+                  "identifierName": "Component"
+                },
+                "name": "Component"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "directives": []
+  },
+  "comments": []
+}

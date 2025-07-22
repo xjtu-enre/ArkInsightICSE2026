@@ -1,0 +1,385 @@
+{
+  "type": "File",
+  "start": 0,
+  "end": 58,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 58,
+      "index": 58
+    }
+  },
+  "errors": [],
+  "program": {
+    "type": "Program",
+    "start": 0,
+    "end": 58,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 0,
+        "index": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 58,
+        "index": 58
+      }
+    },
+    "sourceType": "module",
+    "interpreter": null,
+    "body": [
+      {
+        "type": "ArkTSStructDeclaration",
+        "start": 0,
+        "end": 58,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "index": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 58,
+            "index": 58
+          }
+        },
+        "id": {
+          "type": "Identifier",
+          "start": 7,
+          "end": 10,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 7,
+              "index": 7
+            },
+            "end": {
+              "line": 1,
+              "column": 10,
+              "index": 10
+            },
+            "identifierName": "Foo"
+          },
+          "name": "Foo"
+        },
+        "body": {
+          "type": "ClassBody",
+          "start": 10,
+          "end": 58,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 10,
+              "index": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 58,
+              "index": 58
+            }
+          },
+          "body": [
+            {
+              "type": "ClassMethod",
+              "start": 11,
+              "end": 57,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 11,
+                  "index": 11
+                },
+                "end": {
+                  "line": 1,
+                  "column": 57,
+                  "index": 57
+                }
+              },
+              "static": false,
+              "key": {
+                "type": "Identifier",
+                "start": 11,
+                "end": 16,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 11,
+                    "index": 11
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 16,
+                    "index": 16
+                  },
+                  "identifierName": "build"
+                },
+                "name": "build"
+              },
+              "computed": false,
+              "kind": "build",
+              "id": null,
+              "generator": false,
+              "async": false,
+              "params": [],
+              "body": {
+                "type": "BlockStatement",
+                "start": 18,
+                "end": 57,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 18,
+                    "index": 18
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 57,
+                    "index": 57
+                  }
+                },
+                "body": [
+                  {
+                    "type": "ExpressionStatement",
+                    "start": 19,
+                    "end": 56,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 19,
+                        "index": 19
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 56,
+                        "index": 56
+                      }
+                    },
+                    "expression": {
+                      "type": "ArkTSCallExpression",
+                      "start": 19,
+                      "end": 56,
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 19,
+                          "index": 19
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 56,
+                          "index": 56
+                        }
+                      },
+                      "callee": {
+                        "type": "MemberExpression",
+                        "start": 19,
+                        "end": 39,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 19,
+                            "index": 19
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 39,
+                            "index": 39
+                          }
+                        },
+                        "object": {
+                          "type": "ArkTSCallExpression",
+                          "start": 19,
+                          "end": 27,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 19,
+                              "index": 19
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 27,
+                              "index": 27
+                            }
+                          },
+                          "callee": {
+                            "type": "Identifier",
+                            "start": 19,
+                            "end": 25,
+                            "loc": {
+                              "start": {
+                                "line": 1,
+                                "column": 19,
+                                "index": 19
+                              },
+                              "end": {
+                                "line": 1,
+                                "column": 25,
+                                "index": 25
+                              },
+                              "identifierName": "Column"
+                            },
+                            "name": "Column"
+                          },
+                          "arguments": []
+                        },
+                        "property": {
+                          "type": "Identifier",
+                          "start": 28,
+                          "end": 39,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 28,
+                              "index": 28
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 39,
+                              "index": 39
+                            },
+                            "identifierName": "stateStyles"
+                          },
+                          "name": "stateStyles"
+                        }
+                      },
+                      "arguments": [
+                        {
+                          "type": "ObjectExpression",
+                          "start": 40,
+                          "end": 55,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 40,
+                              "index": 40
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 55,
+                              "index": 55
+                            }
+                          },
+                          "properties": [
+                            {
+                              "type": "ObjectProperty",
+                              "start": 41,
+                              "end": 54,
+                              "loc": {
+                                "start": {
+                                  "line": 1,
+                                  "column": 41,
+                                  "index": 41
+                                },
+                                "end": {
+                                  "line": 1,
+                                  "column": 54,
+                                  "index": 54
+                                }
+                              },
+                              "method": false,
+                              "key": {
+                                "type": "Identifier",
+                                "start": 41,
+                                "end": 42,
+                                "loc": {
+                                  "start": {
+                                    "line": 1,
+                                    "column": 41,
+                                    "index": 41
+                                  },
+                                  "end": {
+                                    "line": 1,
+                                    "column": 42,
+                                    "index": 42
+                                  },
+                                  "identifierName": "f"
+                                },
+                                "name": "f"
+                              },
+                              "computed": false,
+                              "shorthand": false,
+                              "value": {
+                                "type": "CallExpression",
+                                "start": 43,
+                                "end": 54,
+                                "loc": {
+                                  "start": {
+                                    "line": 1,
+                                    "column": 43,
+                                    "index": 43
+                                  },
+                                  "end": {
+                                    "line": 1,
+                                    "column": 54,
+                                    "index": 54
+                                  }
+                                },
+                                "callee": {
+                                  "type": "Identifier",
+                                  "start": 43,
+                                  "end": 49,
+                                  "loc": {
+                                    "start": {
+                                      "line": 1,
+                                      "column": 43,
+                                      "index": 43
+                                    },
+                                    "end": {
+                                      "line": 1,
+                                      "column": 49,
+                                      "index": 49
+                                    },
+                                    "identifierName": "height"
+                                  },
+                                  "name": "height"
+                                },
+                                "arguments": [
+                                  {
+                                    "type": "NumericLiteral",
+                                    "start": 50,
+                                    "end": 53,
+                                    "loc": {
+                                      "start": {
+                                        "line": 1,
+                                        "column": 50,
+                                        "index": 50
+                                      },
+                                      "end": {
+                                        "line": 1,
+                                        "column": 53,
+                                        "index": 53
+                                      }
+                                    },
+                                    "extra": {
+                                      "rawValue": 100,
+                                      "raw": "100"
+                                    },
+                                    "value": 100
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "directives": []
+  },
+  "comments": []
+}

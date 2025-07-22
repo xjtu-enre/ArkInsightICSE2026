@@ -1,0 +1,485 @@
+{
+  "type": "File",
+  "start": 0,
+  "end": 68,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 68,
+      "index": 68
+    }
+  },
+  "errors": [],
+  "program": {
+    "type": "Program",
+    "start": 0,
+    "end": 68,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 0,
+        "index": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 68,
+        "index": 68
+      }
+    },
+    "sourceType": "module",
+    "interpreter": null,
+    "body": [
+      {
+        "type": "ArkTSStructDeclaration",
+        "start": 0,
+        "end": 68,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "index": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 68,
+            "index": 68
+          }
+        },
+        "id": {
+          "type": "Identifier",
+          "start": 7,
+          "end": 8,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 7,
+              "index": 7
+            },
+            "end": {
+              "line": 1,
+              "column": 8,
+              "index": 8
+            },
+            "identifierName": "A"
+          },
+          "name": "A"
+        },
+        "body": {
+          "type": "ClassBody",
+          "start": 9,
+          "end": 68,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 9,
+              "index": 9
+            },
+            "end": {
+              "line": 1,
+              "column": 68,
+              "index": 68
+            }
+          },
+          "body": [
+            {
+              "type": "ClassMethod",
+              "start": 11,
+              "end": 67,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 11,
+                  "index": 11
+                },
+                "end": {
+                  "line": 1,
+                  "column": 67,
+                  "index": 67
+                }
+              },
+              "static": false,
+              "key": {
+                "type": "Identifier",
+                "start": 11,
+                "end": 16,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 11,
+                    "index": 11
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 16,
+                    "index": 16
+                  },
+                  "identifierName": "build"
+                },
+                "name": "build"
+              },
+              "computed": false,
+              "kind": "build",
+              "id": null,
+              "generator": false,
+              "async": false,
+              "params": [],
+              "body": {
+                "type": "BlockStatement",
+                "start": 19,
+                "end": 67,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 19,
+                    "index": 19
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 67,
+                    "index": 67
+                  }
+                },
+                "body": [
+                  {
+                    "type": "ExpressionStatement",
+                    "start": 21,
+                    "end": 66,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 21,
+                        "index": 21
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 66,
+                        "index": 66
+                      }
+                    },
+                    "expression": {
+                      "type": "ArkTSCallExpression",
+                      "start": 21,
+                      "end": 66,
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 21,
+                          "index": 21
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 66,
+                          "index": 66
+                        }
+                      },
+                      "callee": {
+                        "type": "Identifier",
+                        "start": 21,
+                        "end": 27,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 21,
+                            "index": 21
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 27,
+                            "index": 27
+                          },
+                          "identifierName": "Column"
+                        },
+                        "name": "Column"
+                      },
+                      "arguments": [],
+                      "trailingClosure": {
+                        "type": "BlockStatement",
+                        "start": 30,
+                        "end": 66,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 30,
+                            "index": 30
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 66,
+                            "index": 66
+                          }
+                        },
+                        "body": [
+                          {
+                            "type": "",
+                            "start": 32,
+                            "end": 0,
+                            "loc": {
+                              "start": {
+                                "line": 1,
+                                "column": 32,
+                                "index": 32
+                              }
+                            },
+                            "expression": {
+                              "type": "ArkTSCallExpression",
+                              "start": 32,
+                              "end": 50,
+                              "loc": {
+                                "start": {
+                                  "line": 1,
+                                  "column": 32,
+                                  "index": 32
+                                },
+                                "end": {
+                                  "line": 1,
+                                  "column": 50,
+                                  "index": 50
+                                }
+                              },
+                              "callee": {
+                                "type": "Identifier",
+                                "start": 32,
+                                "end": 33,
+                                "loc": {
+                                  "start": {
+                                    "line": 1,
+                                    "column": 32,
+                                    "index": 32
+                                  },
+                                  "end": {
+                                    "line": 1,
+                                    "column": 33,
+                                    "index": 33
+                                  },
+                                  "identifierName": "A"
+                                },
+                                "name": "A"
+                              },
+                              "arguments": [],
+                              "trailingClosure": {
+                                "type": "BlockStatement",
+                                "start": 35,
+                                "end": 50,
+                                "loc": {
+                                  "start": {
+                                    "line": 1,
+                                    "column": 35,
+                                    "index": 35
+                                  },
+                                  "end": {
+                                    "line": 1,
+                                    "column": 50,
+                                    "index": 50
+                                  }
+                                },
+                                "body": [
+                                  {
+                                    "type": "IfStatement",
+                                    "start": 36,
+                                    "end": 49,
+                                    "loc": {
+                                      "start": {
+                                        "line": 1,
+                                        "column": 36,
+                                        "index": 36
+                                      },
+                                      "end": {
+                                        "line": 1,
+                                        "column": 49,
+                                        "index": 49
+                                      }
+                                    },
+                                    "test": {
+                                      "type": "CallExpression",
+                                      "start": 39,
+                                      "end": 46,
+                                      "loc": {
+                                        "start": {
+                                          "line": 1,
+                                          "column": 39,
+                                          "index": 39
+                                        },
+                                        "end": {
+                                          "line": 1,
+                                          "column": 46,
+                                          "index": 46
+                                        }
+                                      },
+                                      "callee": {
+                                        "type": "Identifier",
+                                        "start": 39,
+                                        "end": 43,
+                                        "loc": {
+                                          "start": {
+                                            "line": 1,
+                                            "column": 39,
+                                            "index": 39
+                                          },
+                                          "end": {
+                                            "line": 1,
+                                            "column": 43,
+                                            "index": 43
+                                          },
+                                          "identifierName": "Text"
+                                        },
+                                        "name": "Text"
+                                      },
+                                      "arguments": [
+                                        {
+                                          "type": "Identifier",
+                                          "start": 44,
+                                          "end": 45,
+                                          "loc": {
+                                            "start": {
+                                              "line": 1,
+                                              "column": 44,
+                                              "index": 44
+                                            },
+                                            "end": {
+                                              "line": 1,
+                                              "column": 45,
+                                              "index": 45
+                                            },
+                                            "identifierName": "a"
+                                          },
+                                          "name": "a"
+                                        }
+                                      ]
+                                    },
+                                    "consequent": {
+                                      "type": "BlockStatement",
+                                      "start": 47,
+                                      "end": 49,
+                                      "loc": {
+                                        "start": {
+                                          "line": 1,
+                                          "column": 47,
+                                          "index": 47
+                                        },
+                                        "end": {
+                                          "line": 1,
+                                          "column": 49,
+                                          "index": 49
+                                        }
+                                      },
+                                      "body": []
+                                    },
+                                    "alternate": null
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          {
+                            "type": "IfStatement",
+                            "start": 51,
+                            "end": 64,
+                            "loc": {
+                              "start": {
+                                "line": 1,
+                                "column": 51,
+                                "index": 51
+                              },
+                              "end": {
+                                "line": 1,
+                                "column": 64,
+                                "index": 64
+                              }
+                            },
+                            "test": {
+                              "type": "CallExpression",
+                              "start": 54,
+                              "end": 61,
+                              "loc": {
+                                "start": {
+                                  "line": 1,
+                                  "column": 54,
+                                  "index": 54
+                                },
+                                "end": {
+                                  "line": 1,
+                                  "column": 61,
+                                  "index": 61
+                                }
+                              },
+                              "callee": {
+                                "type": "Identifier",
+                                "start": 54,
+                                "end": 58,
+                                "loc": {
+                                  "start": {
+                                    "line": 1,
+                                    "column": 54,
+                                    "index": 54
+                                  },
+                                  "end": {
+                                    "line": 1,
+                                    "column": 58,
+                                    "index": 58
+                                  },
+                                  "identifierName": "Text"
+                                },
+                                "name": "Text"
+                              },
+                              "arguments": [
+                                {
+                                  "type": "Identifier",
+                                  "start": 59,
+                                  "end": 60,
+                                  "loc": {
+                                    "start": {
+                                      "line": 1,
+                                      "column": 59,
+                                      "index": 59
+                                    },
+                                    "end": {
+                                      "line": 1,
+                                      "column": 60,
+                                      "index": 60
+                                    },
+                                    "identifierName": "a"
+                                  },
+                                  "name": "a"
+                                }
+                              ]
+                            },
+                            "consequent": {
+                              "type": "BlockStatement",
+                              "start": 62,
+                              "end": 64,
+                              "loc": {
+                                "start": {
+                                  "line": 1,
+                                  "column": 62,
+                                  "index": 62
+                                },
+                                "end": {
+                                  "line": 1,
+                                  "column": 64,
+                                  "index": 64
+                                }
+                              },
+                              "body": []
+                            },
+                            "alternate": null
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "directives": []
+  },
+  "comments": []
+}

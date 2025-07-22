@@ -1,0 +1,399 @@
+{
+  "type": "File",
+  "start": 0,
+  "end": 48,
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "index": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 48,
+      "index": 48
+    }
+  },
+  "errors": [],
+  "program": {
+    "type": "Program",
+    "start": 0,
+    "end": 48,
+    "loc": {
+      "start": {
+        "line": 1,
+        "column": 0,
+        "index": 0
+      },
+      "end": {
+        "line": 1,
+        "column": 48,
+        "index": 48
+      }
+    },
+    "sourceType": "module",
+    "interpreter": null,
+    "body": [
+      {
+        "type": "ArkTSStructDeclaration",
+        "start": 0,
+        "end": 48,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "index": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 48,
+            "index": 48
+          }
+        },
+        "id": {
+          "type": "Identifier",
+          "start": 7,
+          "end": 8,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 7,
+              "index": 7
+            },
+            "end": {
+              "line": 1,
+              "column": 8,
+              "index": 8
+            },
+            "identifierName": "A"
+          },
+          "name": "A"
+        },
+        "body": {
+          "type": "ClassBody",
+          "start": 8,
+          "end": 48,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 8,
+              "index": 8
+            },
+            "end": {
+              "line": 1,
+              "column": 48,
+              "index": 48
+            }
+          },
+          "body": [
+            {
+              "type": "ClassMethod",
+              "start": 9,
+              "end": 47,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 9,
+                  "index": 9
+                },
+                "end": {
+                  "line": 1,
+                  "column": 47,
+                  "index": 47
+                }
+              },
+              "decorators": [
+                {
+                  "type": "Decorator",
+                  "start": 9,
+                  "end": 17,
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 9,
+                      "index": 9
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 17,
+                      "index": 17
+                    }
+                  },
+                  "expression": {
+                    "type": "Identifier",
+                    "start": 10,
+                    "end": 17,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 10,
+                        "index": 10
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 17,
+                        "index": 17
+                      },
+                      "identifierName": "Builder"
+                    },
+                    "name": "Builder"
+                  }
+                }
+              ],
+              "static": false,
+              "key": {
+                "type": "Identifier",
+                "start": 18,
+                "end": 21,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 18,
+                    "index": 18
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 21,
+                    "index": 21
+                  },
+                  "identifierName": "Foo"
+                },
+                "name": "Foo"
+              },
+              "computed": false,
+              "kind": "method",
+              "id": null,
+              "generator": false,
+              "async": false,
+              "params": [
+                {
+                  "type": "Identifier",
+                  "start": 22,
+                  "end": 30,
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 22,
+                      "index": 22
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 30,
+                      "index": 30
+                    },
+                    "identifierName": "a"
+                  },
+                  "name": "a",
+                  "typeAnnotation": {
+                    "type": "TSTypeAnnotation",
+                    "start": 23,
+                    "end": 30,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 23,
+                        "index": 23
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 30,
+                        "index": 30
+                      }
+                    },
+                    "typeAnnotation": {
+                      "type": "TSStringKeyword",
+                      "start": 24,
+                      "end": 30,
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 24,
+                          "index": 24
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 30,
+                          "index": 30
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "body": {
+                "type": "BlockStatement",
+                "start": 31,
+                "end": 47,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 31,
+                    "index": 31
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 47,
+                    "index": 47
+                  }
+                },
+                "body": [
+                  {
+                    "type": "ExpressionStatement",
+                    "start": 32,
+                    "end": 46,
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 32,
+                        "index": 32
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 46,
+                        "index": 46
+                      }
+                    },
+                    "expression": {
+                      "type": "ArkTSCallExpression",
+                      "start": 32,
+                      "end": 46,
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 32,
+                          "index": 32
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 46,
+                          "index": 46
+                        }
+                      },
+                      "callee": {
+                        "type": "MemberExpression",
+                        "start": 32,
+                        "end": 41,
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 32,
+                            "index": 32
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 41,
+                            "index": 41
+                          }
+                        },
+                        "object": {
+                          "type": "ArkTSCallExpression",
+                          "start": 32,
+                          "end": 39,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 32,
+                              "index": 32
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 39,
+                              "index": 39
+                            }
+                          },
+                          "callee": {
+                            "type": "Identifier",
+                            "start": 32,
+                            "end": 35,
+                            "loc": {
+                              "start": {
+                                "line": 1,
+                                "column": 32,
+                                "index": 32
+                              },
+                              "end": {
+                                "line": 1,
+                                "column": 35,
+                                "index": 35
+                              },
+                              "identifierName": "Row"
+                            },
+                            "name": "Row"
+                          },
+                          "arguments": [],
+                          "trailingClosure": {
+                            "type": "BlockStatement",
+                            "start": 37,
+                            "end": 39,
+                            "loc": {
+                              "start": {
+                                "line": 1,
+                                "column": 37,
+                                "index": 37
+                              },
+                              "end": {
+                                "line": 1,
+                                "column": 39,
+                                "index": 39
+                              }
+                            },
+                            "body": []
+                          }
+                        },
+                        "property": {
+                          "type": "Identifier",
+                          "start": 40,
+                          "end": 41,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 40,
+                              "index": 40
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 41,
+                              "index": 41
+                            },
+                            "identifierName": "h"
+                          },
+                          "name": "h"
+                        }
+                      },
+                      "arguments": [
+                        {
+                          "type": "NumericLiteral",
+                          "start": 42,
+                          "end": 45,
+                          "loc": {
+                            "start": {
+                              "line": 1,
+                              "column": 42,
+                              "index": 42
+                            },
+                            "end": {
+                              "line": 1,
+                              "column": 45,
+                              "index": 45
+                            }
+                          },
+                          "extra": {
+                            "rawValue": 100,
+                            "raw": "100"
+                          },
+                          "value": 100
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "directives": []
+  },
+  "comments": []
+}

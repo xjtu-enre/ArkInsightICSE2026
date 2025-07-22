@@ -11,34 +11,34 @@ The whole directory goes like the following:
 ├─Scripts
 ├─Data
 │  ├─RQ1 
-│  │  ├─micro-benchmark A
-|  |  |  └─code
+│  │  ├─benchmark A
+|  |  |  └─testcases
 │  │  └─results      
 │  │     ├─ArkAnalyzer
 │  │     ├─ArkInsight
-│  │     └─Compared_result
+│  │     └─Similarity_Score
 │  ├─RQ2
-│  │  ├─micro-benchmark B1
+│  │  ├─benchmark B1
 |  |  |  ├─entity
-|  |  |  ├─dependency
+|  |  |  ├─explicit-dependency
 |  |  |  └─README
 │  │  └─results1      
-│  │  |  ├─tests
+│  │  |  ├─testcases
 │  │  |  └─ArkInsight
-│  │  ├─micro-benchmark B2
+│  │  ├─benchmark B2
 │  │  │  └─implicit-dependency 
 │  │  └─results2
 │  │     ├─ArkAnalyzer
 │  │     └─ArkInsight
 │  ├─RQ3
-│  │  ├─macro-benchmark C
+│  │  ├─benchmark C
 │  │  │  ├─projects
-│  │  │  └─ground-truth
+│  │  │  └─dependency
 │  │  └─results
 │  │     ├─ArkAnalyzer
 │  │     └─ArkInsight
 │  └─RQ4
-|     ├─macro-benchmark D
+|     ├─benchmark D
 │     │  └─project_list.csv
 │     └─results
 │        ├─result_list.csv
@@ -50,14 +50,30 @@ The whole directory goes like the following:
 
 ## Methods
 
-This directory contains our executable programs and demos.
+This directory contains our executable programs and demos. Among them, `Arkbel-parser.js` and `ArkInsight.mjs` are packaged executable JS files. The `demo` includes three parts: the test project `ef_rcp` and the expected result output `expect_ef_rcp.json` for ArkInsight; and `demo.ets`, which is the test file for Arkbel.
 
 ### Requirements
 
-- Operating System : Windows
+- Operating System : Windows/Mac/Linux
 - Node.js 16~20.
 
+### Arkbel-parser.js
+
+**Arkbel** is the parser for this work. It is used to provide the Abstract Syntax Tree (AST) and the corresponding traversal interface. For the convenience of user testing, we have packaged its syntax analysis functionality, hence that You can use websites below to view AST of a file conveniently:
+
+> Online: https://lihautan.com/babel-ast-explorer/
+
+You may open the settings, check the options as shown in the image, and then upload this file **Arkbel-parser.js** as **Cunstom parser**.
+
+![alt text](image.png)
+
+You can use the _demo.ets_ file as input to view it.
+
+_TO_NOTICE_: Since this website unsupport some function including 'import' and 'export default', You may avoid this when input a file.
+
 ### ArkInsight.mjs
+
+**ArkInsight** is the primary method discussed in this article, supporting static analysis of ArkTS code to extract its entity and dependency. To facilitate its use by testers, we have also packaged it and integrated the capabilities of Arkbel, resulting in the generation of an executable file, _ArkInsight.mjs_.
 
 #### Usages
 
@@ -106,32 +122,18 @@ $ node ArkInsight.mjs -i path-to-file.ets -o path-to-output-result.json
 $ node ArkInsight.mjs -i path-to-directory -o path-to-output-result.json -E
 ```
 
-What's more, we have provided a demo folder that contains the source code and expected result file of _ef_rcp_. You can run the architecture recovery process on this example project using the following command:
+What's more, we have provided a demo folder that contains the source code and expected result file of _ef_rcp_. You can run the executable program on this example project using the following command:
 
 ```shell
-$ node ArkInsight.mjs -i demo\\ef_rcp\\src -o output.json
+$ node ArkInsight.mjs -i demo/ef_rcp/src -o output.json
 ```
-
-### Arkbel.js
-
-You can use websites below to view AST of a file conveniently:
-
-> Online: https://lihautan.com/babel-ast-explorer/
-
-You may open the settings, check the options as shown in the image, and then upload this document as Cunstom parser.
-
-![alt text](image.png)
-
-You can use the demo.ets file as input to view it.
-
-_TO_NOTICE_: Since this website unsupport some function including 'import' and 'export default', You may avoid this when input a file.
 
 ## Data
 
 This directory contains all the original data and final results of our four RQs.
 
 ### RQ1: What is the accuracy of ArkInsight in parsing ArkTS syntax, particularly deviations from TypeScript?
-This folder contains two parts: the micro-benchmarkA used in RQ1 study and the output results of each static code dependency analyzers (*i.e., ArkInsight and ArkAnalyzer*) and the results when comparing them.
+This folder contains two parts: the micro-benchmarkA used in RQ1 study, which is collect by compiling a suite of grammar samples highlighting ArkTS's syntactic divergences from TypeScript to validate Arkbel and its AST. And the output results of each static code dependency analyzers (*i.e., ArkInsight and ArkAnalyzer*) and the results when comparing their similarity.
 
 #### micro-benchmark A
 
@@ -288,11 +290,23 @@ Each column in this file is *Project,LOC,ArkInsight-time,ArkInsight-memory-Heap,
 
 ## Scripts
 
-We use the following scripts in our experiment. Each RQn directory (where n takes values from 1 and 4) in this folder contains the scripts and documentation used for Research Question RQn. 
+We use the following scripts in our experiment. Each RQn directory (where n takes values from 1 to 4) in this folder contains the scripts and documentation used for Research Question RQn. 
 
 ### RQ1_Script
 
 This directory contains one subdirectorie `compare_ast`, which includes the script files we used for comparison with the baseline tool for ASTs. The design of AST similarity calculation algorithm we used is in `design.md`
+
+### RQ2_Script
+
+This directory contains three scripts for RQ2
+
+-`CallGraphTest.ts` in the ArkAnalyzer execution environments, this script will construct CHA/RTA callgraph for input project and convert it to our format.
+-`PointerAnalysisTest.ts` in the ArkAnalyzer execution environments, this script will construct PTA callgraph for input project and convert it to our format.
+-`json_result_compare.js` in common node.js environments, it can compare two JSON files of dependency and divide the result with _same_,_from_same_,_to_same_and_file1/2_only_ parts.
+
+### RQ3_Script
+
+Since the measurement standards for RQ3 are consistent with those for RQ2, the same script was used.
 
 ### RQ4_Script
 
