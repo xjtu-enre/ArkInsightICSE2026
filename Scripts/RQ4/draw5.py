@@ -19,8 +19,8 @@ features = [
 SLICE_POINT = 5 * 1000  # 5kLoC
 
 tools = {
-    'enre': ['ENRE'],
-    'ark': ['Arkanalyzer'],
+    'ArkInsight': ['ArkInsight'],
+    'ArkAnalyzer': ['ArkAnalyzer'],
 }
 
 # param
@@ -131,17 +131,17 @@ for inf, feature in enumerate(features):
             else:
                 print(f"{tools[tool][0]}: No Data")
 
-            if tool == 'enre':
-                enre_avg = avg if values else None
-            elif tool == 'ark':
-                ark_avg = avg if values else None
+            if tool == 'ArkInsight':
+                ArkInsight_avg = avg if values else None
+            elif tool == 'ArkAnalyzer':
+                ArkAnalyzer_avg = avg if values else None
 
 
-        if enre_avg and ark_avg:
-            ratio = ark_avg / enre_avg
-            print(f"Ratio (Arkanalyzer / ENRE): {ratio:.2f}")
+        if ArkInsight_avg and ArkAnalyzer_avg:
+            ratio = ArkAnalyzer_avg / ArkInsight_avg
+            print(f"Ratio (ArkAnalyzer / ArkInsight): {ratio:.2f}")
         else:
-            print("Ratio (Arkanalyzer / ENRE): N/A")
+            print("Ratio (ArkAnalyzer / ArkInsight): N/A")
 
 
         bp = ax.boxplot(

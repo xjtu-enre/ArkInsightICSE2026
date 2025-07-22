@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437d4b73-2cba-4e41-aeb0-2e874368a055" name="更改" comment="">
+    <list default="true" id="437d4b73-2cba-4e41-aeb0-2e874368a055" name="更改" comment="Text modification">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/arkts_new_rules_relation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/arkts_new_rules_relation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/export.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/export.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/extend.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/import.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/import.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/override.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/override.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/use.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/dependency/use.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/arkts_new_rules_entity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/arkts_new_rules_entity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/method.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/namespace.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/namespace.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/parameter.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/micro-benchmarkB1/entity/parameter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/RQ2/results1/tests/_arkts-new-rules-entity-declaration/_arkts-no-any-unknown/file0.ets" beforeDir="false" afterPath="$PROJECT_DIR$/Data/RQ2/results1/tests/_arkts-new-rules-entity-declaration/_arkts-no-any-unknown/file0.ets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/batch_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/batch_run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/heatmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/heatmap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/matcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/normalizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/normalizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/similarity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ1/compare_ast/src/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ4/draw5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ4/draw5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/RQ4/pre2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/RQ4/pre2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +64,17 @@
       <option name="presentableId" value="Default" />
       <updated>1753082570437</updated>
       <workItem from="1753082573497" duration="5000" />
-      <workItem from="1753156809528" duration="4189000" />
+      <workItem from="1753156809528" duration="6198000" />
     </task>
+    <task id="LOCAL-00001" summary="Text modification">
+      <option name="closed" value="true" />
+      <created>1753162848202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753162848202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +84,9 @@
         <option value="$PROJECT_DIR$/Data/RQ2/results1/tests/_file-extensions/_ts-extension/file0.d.ts" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Text modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Text modification" />
   </component>
 </project>

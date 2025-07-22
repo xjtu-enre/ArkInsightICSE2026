@@ -51,7 +51,7 @@ Some properties may have impact on the static analysis process, which are listed
 * Scoped name
 
   Package name can be prefixed with the scope `@xxx/`, while installing packages with the same scope, they will be
-  located under `node_modules/@xxx/`. E.g.: `@enre/core`, `@enre/cli`.
+  located under `node_modules/@xxx/`. E.g.: `@ArkInsight/core`, `@ArkInsight/cli`.
 
 ###### `type` field
 
@@ -149,7 +149,7 @@ Some properties may have impact on the static analysis process, which are listed
 * Scoped name
 
   Package name can be prefixed with the scope `@xxx/`, while installing packages with the same scope, they will be
-  located under `oh_modules/@xxx/`. E.g.: `@enre/core`, `@enre/cli`.
+  located under `oh_modules/@xxx/`. E.g.: `@ArkInsight/core`, `@ArkInsight/cli`.
 
 
 ### Properties
