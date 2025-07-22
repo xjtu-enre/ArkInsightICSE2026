@@ -315,7 +315,7 @@ PropertyDefinition :
     MethodDefinition
     ...
 ```
-<!-- 未支持 -->
+<!-- Not Support -->
 <!-- ##### Examples
 
 ###### Object literal method declarations
@@ -492,7 +492,7 @@ AbstractMemberFunctionOverload :
 
 While transcribing, the `abstract` before the class identifier will be removed, and methods modified by `abstract` will
 simply be removed and thus have no representation.
-<!-- 未支持 -->
+<!-- Not Support -->
 ##### Examples
 <!-- 
 ###### Abstract methods

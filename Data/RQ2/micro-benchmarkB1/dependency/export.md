@@ -694,7 +694,7 @@ relation:
     type: export
     extra: false
     items:
-        # 暂不支持
+        # Not Support yet
         -   from: file:'<File file0.ts>'
             to: class:'C'[@loc=file0]
             loc: file0:5:14
@@ -794,7 +794,7 @@ relation:
         -   from: file:'<File file0.ts>'
             to: interface:'foo'
             loc: file0:8:9
-        # 暂不支持
+        # Not Support yet
         # -   from: file:'<File file1.ts>'
         #     to: variable:'foo'
         #     loc: file1:3:13
@@ -937,7 +937,7 @@ relation:
         -   from: namespace:'X'
             to: namespace:'Y'
             loc: 31:22
-        # 暂不支持
+        # Not Support yet
         # -   from: namespace:'Y'
         #     to: variable:'i'
         #     loc: 32:23

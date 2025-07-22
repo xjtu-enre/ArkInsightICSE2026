@@ -76,7 +76,7 @@ entity:
             qualified: X.Y.Z
             loc: file0:1:15
 ```
-<!-- 还未支持
+<!-- Not Support yet
 ###### Access namespace's children
 
 ```ts
@@ -203,7 +203,8 @@ entity:
             declarations:
                 - file2:1:11
 ``` -->
-<!-- ArkTS中不允许出现重名所以只能在ts中成立该特性，且当前该特性还位实现 -->
+<!-- ArkTS does not allow duplicate names, so this feature can only be implemented in TypeScript. 
+Currently, this feature is not yet implemented. -->
 <!-- ###### Redeclare block-scope variable
 
 Variable declarations with `var` can declare the same identifier multiple times inter-/intra-namespace, whereas `let` and `const` do not satisfy this.

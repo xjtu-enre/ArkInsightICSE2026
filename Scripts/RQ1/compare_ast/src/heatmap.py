@@ -1,7 +1,7 @@
 # src/heatmap.py
 # -*- coding: utf-8 -*-
 """
-heatmap.py: 将相似度置信度矩阵渲染为热力图（PNG/SVG）。
+heatmap.py: Render similarity confidence matrix as heatmap (PNG/SVG).
 """
 
 import os
@@ -13,18 +13,18 @@ class HeatmapPlotter:
     @staticmethod
     def plot(matrix: np.ndarray, out_path: str):
         """
-        渲染 heatmap：
+        Render heatmap:
           - matrix: shape (N_our, N_normal)
-          - out_path: 输出文件路径，后缀决定格式（.png/.svg 等）
+          - out_path: output file path, suffix determines format (.png/.svg etc.)
         """
-        # 创建画布
+        # Create canvas
         plt.figure()
         plt.imshow(matrix, aspect='auto')
         plt.colorbar()
         plt.title("AST Similarity Heatmap")
         plt.xlabel("Normal AST Node UID")
         plt.ylabel("Our AST Node UID")
-        # 保存并关闭
+        # Save and close
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
         plt.savefig(out_path, bbox_inches='tight')
         plt.close()

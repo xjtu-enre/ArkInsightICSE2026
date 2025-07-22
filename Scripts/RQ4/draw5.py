@@ -6,10 +6,10 @@ import math
 
 from pre2 import init
 
-# 加载数据
+# load data
 collection, tags, mode, langs, tools, metrics = init()
 
-# 新增 memory-heap 和 memory-rss 两个指标，time 依然保留
+# metric
 features = [
     {'key': 'time', 'text': 'Completion Time (ms)'},
     {'key': 'memory-heap', 'text': 'Memory Usage Heap (MB)'},
@@ -23,7 +23,7 @@ tools = {
     'ark': ['Arkanalyzer'],
 }
 
-# 绘图参数
+# param
 HEIGHT = 1
 BOX_WIDTH = 0.5
 LIGHT_GRAY = '#f0f0f0'
@@ -48,21 +48,21 @@ plt.style.use('./my.mplstyle')
 lang = langs[0]  # only python
 raw_data = collection[lang]
 
-# heat自适应
+# heat
 heat_min = math.floor(raw_data['loc'].min() / 100) * 100
 heat_max_val = math.ceil(raw_data['loc'].max() / 1000) * 1000
 
 fig = plt.figure(figsize=(17, 8))
 subs = fig.subfigures(len(features), 1)
-fig.subplots_adjust(hspace=2)  # 增加子图间纵向间距
-# 启用自动布局管理，能自动帮你调整各 SubFigure 之间的空隙
+fig.subplots_adjust(hspace=2)
+
 # fig.set_constrained_layout(True)
 # #
-# # # 如果你想细调，可加：
+
 # fig.subplots_adjust(
-#     top=0.95,     # 总体顶部空白，默认0.9左右，调整范围0~1
-#     bottom=0.25,  # 总体底部空白
-#     hspace=0.9,    # 试试 0.5~1.2之间的值，控制子图竖直间距
+#     top=0.95,     #
+#     bottom=0.25,  #
+#     hspace=0.9,    #
 #     left=0.05, right=0.93
 # )
 
@@ -108,7 +108,7 @@ for inf, feature in enumerate(features):
     print(f"\n=== Feature: {feature['text']} ===")
 
     for tool in tools:
-        # 注意这里要对应数据的完整 key 名，collection 里的键名类似 enre-time, enre-memory-heap, enre-memory-rss
+
         inkey = f'{tool}-{feature["key"]}'
         for iv, value in enumerate(raw_data[inkey]):
 
@@ -130,20 +130,20 @@ for inf, feature in enumerate(features):
                 print(f"{tools[tool][0]}: {avg:.2f}")
             else:
                 print(f"{tools[tool][0]}: No Data")
-            # 保存均值用于计算比例
+
             if tool == 'enre':
                 enre_avg = avg if values else None
             elif tool == 'ark':
                 ark_avg = avg if values else None
 
-        # 输出比例
+
         if enre_avg and ark_avg:
             ratio = ark_avg / enre_avg
             print(f"Ratio (Arkanalyzer / ENRE): {ratio:.2f}")
         else:
             print("Ratio (Arkanalyzer / ENRE): N/A")
 
-        # ======= 这里是修改部分，实现坐标自适应 ==========
+
         bp = ax.boxplot(
             [list(map(lambda r: r['value'], data[f'{tool}-{feature["key"]}-{slice}'])) for tool in tools],
             widths=BOX_WIDTH,
@@ -180,7 +180,7 @@ for inf, feature in enumerate(features):
         # print(max_x)
         padding = (max_x - min_x) * 0.1
         ax.set_xlim(max(0, min_x - padding), max_x + padding)
-        # ======= 修改结束 ==========
+        # ======= result ==========
 
         ax.set_ylim([-0.5, len(tools) - 0.2])
 

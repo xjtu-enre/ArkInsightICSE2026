@@ -39,7 +39,7 @@ entity:
             loc: 5:13
             type: field
             TSVisibility: private
-        # 反例，不允许这里出现#符号作为private标识符
+        # Counterexample: Using `#` as a private identifier here is not allowed.
         -   name: <Pvt faz>
             qualified: B.<Pvt faz>
             loc: 2:5
@@ -82,7 +82,7 @@ entity:
     type: class
     extra: false
     items:
-        # 反例，arkts不允许出现如此的未命名类
+        # Counterexample: ArkTS does not allow unnamed classes like this to appear.
         -   name: <Anon Class>
             loc: 1:25
             type: class
@@ -108,7 +108,7 @@ entity:
             loc: 1:5
             type: variable
             kind: let
-        # 反例，不允许这里出现var标识符的变量
+        # Counterexample: Variables declared with the `var` keyword are not allowed here.
         -   name: scoped_var
             loc: 2:5
             type: variable
@@ -135,7 +135,7 @@ entity:
             qualified: DescribableFunction_false.description
             loc: 2:5
             type: property
-        # 反例，不允许这里出现call signature
+        # Counterexample: Call signatures are not allowed here.
         -   name: <Sig Callable>
             qualified: DescribableFunction_false.<Sig Callable>
             loc: 3:5
@@ -214,14 +214,14 @@ entity:
 ###### arkts-no-conditional-types
 
 ```ets
-// 在类型别名中提供显式约束
+// Provide explicit constraint in type alias
 type X1<T extends number> = T
 
-// 用Object重写，这种情况下，类型控制较少，需要更多的类型检查以确保安全
+// Rewrite using Object, which has less type control and requires more type checks to ensure safety
 type X2<T> = Object
 
-// Item必须作为泛型参数使用，并能正确实例化
-type YI<Item, T extends Array<Item>> = Item
+// Item must be used as a generic parameter and correctly instantiated
+type YI<Item, T extends Array<Item>> = Ite
 ```
 
 ```yaml
@@ -393,17 +393,17 @@ entity:
 ###### arkts-no-as-const
 
 ```ets
-// 'string'类型
+// 'string'type
 let x : string = "hello"
 
-// 'number[]'类型
+// 'number[]'type
 let y : number[] = [10, 20]
 
 class Label {
     text : string = ""
 }
 
-// 'Label'类型
+// 'Label'type
 let z : Label = {
     text: "hello"
 }
@@ -440,8 +440,8 @@ entity:
 ###### arkts-no-any-unknown
 
 ```ets
-let value_b: boolean = true // 或者 let value_b = true
-let value_n: number = 42 // 或者 let value_n = 42
+let value_b: boolean = true // or let value_b = true
+let value_n: number = 42 // or let value_n = 42
 let value_o1: Object = true
 let value_o2: Object = 42
 ```
@@ -578,7 +578,7 @@ entity:
             type: parameter
 ```
 
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 ###### arkts-no-type-query
 ```ets
 let n1 = 42
@@ -728,10 +728,10 @@ entity:
 ###### arkts-no-types-in-catch
 ```ets
 try {
-    // 一些代码
+    // ...
 }
 catch (a) {
-    // 处理异常
+    // ...
 }
 ```
 
@@ -830,7 +830,7 @@ entity:
             kind: let  
 ```
 
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 ###### arkts-no-decl-merging
 ```ets
 interface Document {
@@ -850,7 +850,7 @@ entity:
         -   name: Document
             loc: 1:11
             type: interface
-        # 下方的实体即就是暂未支持的实体
+        # The entities below are the ones not yet supported
         -   name: createElement
             loc: 2:5
             type: method
@@ -906,7 +906,7 @@ enum E1 {
     B = 0xb,
     C = 0xc,
     D = 0xd,
-    E // 推断出0xe
+    E // 0xe
 }
 
 enum E2 {
@@ -1152,7 +1152,7 @@ entity:
 ###### arkts-unique-names
 ```ets
 let X: string
-type T = number[] // 为避免名称冲突，此处不允许使用X
+type T = number[] // To avoid naming conflicts, the use of X is not allowed here.
 ```
 
 ```yaml
@@ -1169,12 +1169,13 @@ entity:
             type: type alias
 ```
 
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 ###### arkts-no-new-target
 ```ets
 class CustomError extends Error {
     constructor(message?: string) {
-        // 调用父类构造函数，继承链是静态的，且不能在运行时被改变
+        // Call the superclass constructor. 
+        // The inheritance chain is static and cannot be changed at runtime.
         super(message)
         console.log(this instanceof Error) // true
     }
@@ -1246,8 +1247,8 @@ relation:
 
 ###### arkts-strict-typing-required
 ```ets
-let s1: string | null = null // No ERROR 没有报错，合适的类型
-// let s2: string = null // 编译时报错
+let s1: string | null = null // No ERROR, appropriate type
+// let s2: string = null // Compile error
 ```
 
 ```yaml

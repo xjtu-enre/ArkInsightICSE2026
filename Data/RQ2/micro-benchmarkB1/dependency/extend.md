@@ -48,7 +48,7 @@ relation:
             to: class:'Foo'
             loc: file0:5:19
 ```
-<!-- 暂未支持 -->
+<!-- Not Support yet -->
 <!-- ###### Class extends from expression
 
 As production rules depict, what after `extends` can not only be an identifier of a class, but also any expressions, e.g. function calls, condition expressions, that finally return a class.

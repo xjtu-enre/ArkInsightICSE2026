@@ -1,37 +1,38 @@
 # -*- coding: utf-8 -*-
 """
-全局常量定义：包括节点类型同义映射、可跳过节点类型、权重和阈值等。
+Global constants definition: includes node type synonyms mapping,
+skippable node types, weights, and thresholds.
 """
 
 # -----------------------------------------------------------------------------
-# 把各种 AST 方言中的节点类型映射到统一的“规范类型”
-# key: 原始 JSON AST 中的 type 字符串
-# value: 统一后的 normalized_type
+# Map node types from various AST dialects to unified "normalized types"
+# key: type string in original JSON AST
+# value: normalized_type after unification
 # -----------------------------------------------------------------------------
 TYPE_EQUIVALENCE = {
-    # 结构体/类声明
+    # Struct/Class Declarations
     "ArkTSStructDeclaration": "STRUCT",
     "StructDeclaration": "STRUCT",
 
-    # 方法/函数
+    # Methods/Functions
     "ClassMethod": "METHOD",
     "MethodDeclaration": "METHOD",
     "ArrowFunction": "ARROW_FN",
     "ArrowFunctionExpression": "ARROW_FN",
 
-    # 属性/签名/参数
+    # Properties/Signatures/Parameters
     "ClassProperty": "PROP",
     "PropertyDeclaration": "PROP",
     "PropertyAssignment": "PROP",
     "PropertySignature": "PROP",
     "Parameter": "PARAM",
 
-    # 调用/组件表达式
+    # Calls/Component Expressions
     "ArkTSCallExpression": "CALL",
     "EtsComponentExpression": "CALL",
     "CallExpression": "CALL",
 
-    # 对象/字面量
+    # Objects/Literals
     "ObjectExpression": "OBJECT",
     "ObjectLiteralExpression": "OBJECT",
     "NumericLiteral": "NUMBER",
@@ -42,50 +43,50 @@ TYPE_EQUIVALENCE = {
     "TemplateLiteral": "TEMPLATE",
     "TemplateExpression": "TEMPLATE",
 
-    # 表达式语句/表达式包装
+    # Expression statements/Blocks
     "ExpressionStatement": "EXPR_STMT",
     "BlockStatement": "BLOCK",
     "Block": "BLOCK",
 
-    # 更新/自增等
+    # Updates/Increments
     "UpdateExpression": "UPDATE",
     "PostfixUnaryExpression": "UPDATE",
 
-    # 访问/成员
+    # Access/Member Expressions
     "MemberExpression": "MEMBER",
     "PropertyAccessExpression": "MEMBER",
     "ThisExpression": "THIS",
     "ThisKeyword": "THIS",
 
-    # 非空断言
+    # Non-null assertions
     "NonNullExpression": "NON_NULL",
     "ArkTSDoubleExclamationExpression": "NON_NULL",
 
-    # 装饰器
+    # Decorators
     "Decorator": "DECORATOR",
 
-    # 类型注解
+    # Type annotations
     "TSTypeAnnotation": "TYPE_ANN",
     "TSVoidKeyword": "VOID",
     "VoidKeyword": "VOID",
     "TSFunctionType": "FUNC_TYPE",
     "FunctionType": "FUNC_TYPE",
 
-    # 模板字符串碎片
+    # Template string fragments
     "TemplateElement": "TEMPLATE_EL",
     "TemplateHead": "TEMPLATE_EL",
     "TemplateSpan": "TEMPLATE_EL",
     "FirstTemplateToken": "TEMPLATE_EL",
     "LastTemplateToken": "TEMPLATE_EL",
 
-    # 顶层容器
+    # Top-level containers
     "Program": "PROGRAM",
     "SourceFile": "PROGRAM",
     "File": "PROGRAM",
 }
 
 # -----------------------------------------------------------------------------
-# 一些无实际语义、可在匹配时跳过的节点类型
+# Node types with no semantic meaning that can be skipped during matching
 # -----------------------------------------------------------------------------
 SKIPPABLE_TYPES = {
     "HeritageClause",
@@ -96,10 +97,10 @@ SKIPPABLE_TYPES = {
 }
 
 # -----------------------------------------------------------------------------
-# 各种匹配/相似度计算时使用的权重与阈值
+# Weights and thresholds used during matching/similarity computation
 # -----------------------------------------------------------------------------
 # src/constants.py
-# 删除旧的 name_match/value_match，改为 label_match
+# Removed old name_match/value_match, replaced with label_match
 WEIGHTS = {
     "type_match": 1.0,
     "type_mismatch_penalty": 0.5,
@@ -107,13 +108,12 @@ WEIGHTS = {
     "subtree_match": 1.0,
 }
 
-
 # -----------------------------------------------------------------------------
-# 子树哈希（Top-Down 阶段）使用的哈希种子（可选）
+# Optional hash seed used for subtree hashing (Top-Down phase)
 # -----------------------------------------------------------------------------
 HASH_SEED = 1315423911
 
 # -----------------------------------------------------------------------------
-# Bottom-Up 阶段判定“足够相似”的阈值（0~1）
+# Similarity threshold (0~1) used in Bottom-Up phase to determine "similar enough"
 # -----------------------------------------------------------------------------
 SIMILARITY_THRESHOLD = 0.5
