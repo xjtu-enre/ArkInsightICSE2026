@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const config_list=['ef_rcp','harmony-dialog','pjtabbar','pull_to_refresh','xt_hud','zrouter'];
-function convet_from_enre_to_benchmark(jsonData){
+function convet_from_insight_to_benchmark(jsonData){
 
   const idToFullname = new Map();
   jsonData.entities.forEach(entity => {
@@ -87,7 +87,7 @@ function compareJSONFiles(file1Path, file2Path, outputPath) {
 
   //TODO:
 
-  json1=convet_from_enre_to_benchmark(json1);
+  json1=convet_from_insight_to_benchmark(json1);
 
 
   const createMap = (arr) => {
