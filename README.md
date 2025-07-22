@@ -1,5 +1,5 @@
 # 2026ICSE-ArkInsight
-This repository illustrates the tools, data, and scripts of our ICSE 2026 under-reviewing work, Demystifying ArkTS Dependencies for OpenHarmony: A Static Analysis with Custom Parser.
+This repository illustrates the methods, data, and scripts of our ICSE 2026 under-reviewing work, Demystifying ArkTS Dependencies for OpenHarmony: A Static Analysis with Custom Parser.
 
 We make our tool's benchmarks and all experimental results publicly available. Due to the file size limit of GitHub, we upload the processed data to this repository. 
 
@@ -50,14 +50,16 @@ The whole directory goes like the following:
 
 ## Methods
 
-This directory contains our executable program.
+This directory contains our executable programs and demos.
 
 ### Requirements
 
 - Operating System : Windows
-- Node.js 16~18.
+- Node.js 16~20.
 
-### Usages
+### ArkInsight.mjs
+
+#### Usages
 
 Append `-h` or `--help` without any other arguments to see list of options:
 
@@ -84,7 +86,7 @@ Options:
   -h, --help                            display help for command
 ```
 
-### Examples
+#### Examples
 
 * Analyze files under a given directory (and output results in current working directory)
 
@@ -103,6 +105,26 @@ $ node ArkInsight.mjs -i path-to-file.ets -o path-to-output-result.json
 ```shell
 $ node ArkInsight.mjs -i path-to-directory -o path-to-output-result.json -E
 ```
+
+What's more, we have provided a demo folder that contains the source code and expected result file of _ef_rcp_. You can run the architecture recovery process on this example project using the following command:
+
+```shell
+$ node ArkInsight.mjs -i demo\\ef_rcp\\src -o output.json
+```
+
+### Arkbel.js
+
+You can use websites below to view AST of a file conveniently:
+
+> Online: https://lihautan.com/babel-ast-explorer/
+
+You may open the settings, check the options as shown in the image, and then upload this document as Cunstom parser.
+
+![alt text](image.png)
+
+You can use the demo.ets file as input to view it.
+
+_TO_NOTICE_: Since this website unsupport some function including 'import' and 'export default', You may avoid this when input a file.
 
 ## Data
 
