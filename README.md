@@ -314,7 +314,8 @@ This file is the script used for RQ4, mainly to draw the fig.
 
 ## Discussion
 
-As discussed in our paper, we have demonstrates our practical utility for industrial-scale ArkTS projects. We list some of them with their LOC in here to show it, replacing their name with `Projectn` as they are non-open source projects.
+As discussed in our paper, we have demonstrates our practical utility for **industrial-scale ArkTS projects**. We have deployed Arkbel and ArkInsight internally in our industry partner's platform, enabling us to test several closed source large-scale ArkTS projects, ultimately resulting in a successful analysis of these projects. 
+We list some of them with scale in below to show it, and replace their name with `Projectn` as they are closed source projects.
 
 Project                  | Scale(KLOC)                                                                                                                                               |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
