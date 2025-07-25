@@ -311,3 +311,18 @@ Since the measurement standards for RQ3 are consistent with those for RQ2, the s
 ### RQ4_Script
 
 This file is the script used for RQ4, mainly to draw the fig. 
+
+## Discussion
+
+As discussed in our paper, we have demonstrates our practical utility for industrial-scale ArkTS projects. We list some of them with their LOC in here to show it, replacing their name with `Projectn` as they are non-open source projects.
+
+Project                  | Scale(KLOC)                                                                                                                                               |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project1 | 4.6 |
+| Project2 | 5.2 |
+| Project3 | 8.9 |
+| Project4 | 12 |
+| Project5 | 14 |
+| Project6 | 19.4 |
+| Project7 | 30 |
+| Project8 | 129 |
