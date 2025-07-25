@@ -319,11 +319,11 @@ We list some of them with scale in below to show it, and replace their name with
 
 Project                  | Scale(KLOC)                                                                                                                                               |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Project1 | 4.6 |
-| Project2 | 5.2 |
-| Project3 | 8.9 |
-| Project4 | 12 |
-| Project5 | 14 |
-| Project6 | 19.4 |
-| Project7 | 30 |
-| Project8 | 129 |
+| Project1 | 46 |
+| Project2 | 52 |
+| Project3 | 89 |
+| Project4 | 120 |
+| Project5 | 140 |
+| Project6 | 194 |
+| Project7 | 300 |
+| Project8 | 1290 |
